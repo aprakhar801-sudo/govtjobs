@@ -8,7 +8,9 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return getAllJobs().map((job) => ({ slug: job.slug }))
+  const jobs = getAllJobs()
+  if (!jobs.length) return []
+  return jobs.map((job) => ({ slug: job.slug }))
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
