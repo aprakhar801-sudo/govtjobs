@@ -240,12 +240,35 @@ def deduplicate(items: list[dict], existing: list[dict]) -> list[dict]:
     existing_ids = {j["id"] for j in existing}
     existing_titles = {j["title"].lower()[:50] for j in existing}
 
+    # Extract key terms from existing titles for fuzzy matching
+    # e.g. "ibps", "po", "2026" from "IBPS PO 2026"
+    def key_terms(title: str) -> set:
+        words = re.findall(r'\b\w+\b', title.lower())
+        return {w for w in words if len(w) >= 3}
+
+    existing_term_sets = [key_terms(j["title"]) for j in existing]
+
     new_items = []
     for item in items:
+        # Block 1: exact ID match
         if item["id"] in existing_ids:
             continue
+        # Block 2: exact title prefix match
         if item["title"].lower()[:50] in existing_titles:
             continue
+        # Block 3: fuzzy — if 80%+ of key terms overlap with any existing title
+        item_terms = key_terms(item["title"])
+        if item_terms:
+            for ex_terms in existing_term_sets:
+                if not ex_terms:
+                    continue
+                overlap = len(item_terms & ex_terms) / max(len(item_terms), len(ex_terms))
+                if overlap >= 0.8:
+                    break
+            else:
+                new_items.append(item)
+                continue
+            continue  # duplicate found via fuzzy match
         new_items.append(item)
 
     return new_items
