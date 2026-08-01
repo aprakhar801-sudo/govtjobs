@@ -29,7 +29,7 @@ import google.generativeai as genai
 
 RAW_PATH      = Path("data/scraped_raw.json")
 JOBS_PATH     = Path("data/jobs.json")
-MODEL         = "gemini-1.5-flash"   # Free tier: 1,500 requests/day
+MODEL         = "gemini-3.6-flash"   # Free tier: 1,500 requests/day
 MAX_TO_PROCESS = int(os.getenv("MAX_TO_PROCESS", "10"))
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
