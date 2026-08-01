@@ -1,5 +1,85 @@
 [
   {
+    "id": "ibps-po-recruitment-2026",
+    "slug": "ibps-po-recruitment-2026",
+    "title": "IBPS PO 2026 Recruitment",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 7365,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "₹52,000 - ₹55,000 per month (approx. initial in-hand)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-21",
+    "examDate": "2026-10-17",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-01T14:47:21Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has announced the recruitment of 7,365 Probationary Officer (PO/MT) vacancies across participating public sector banks for 2026. Graduates from any recognized university are eligible to apply online. Selection will be based on Prelims, Mains, and Interview phases.",
+    "highlights": [
+      "7,365 Vacancies for Probationary Officer / Management Trainee positions",
+      "Eligibility: Graduate degree in any discipline",
+      "Age Limit: 20 to 30 years (with category relaxations)",
+      "Three-tier selection: Prelims, Mains, and Personal Interview"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a University recognized by the Government of India or any equivalent qualification recognized as such by the Central Government. The candidate must possess a valid Degree mark-sheet / certificate certifying graduation on the day of registration. The age limit is 20 to 30 years. Relaxations apply: 5 years for SC/ST, 3 years for OBC (NCL), and 10 years for PwBD candidates.",
+    "howToApply": "1. Visit the official IBPS website at https://www.ibps.in.\n2. Click on 'CRP PO/MT' and select the current application link for CRP PO/MT XIV.\n3. Complete new registration by filling in basic contact details and obtaining a Registration ID and Password.\n4. Fill out the application form with personal, educational, and bank preference details.\n5. Upload scanned documents (photograph, signature, left thumb impression, handwritten declaration).\n6. Pay the online application fee and submit the application form.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Main Examination (Objective + Descriptive Test)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are available in IBPS PO 2026?",
+        "answer": "IBPS has announced a total of 7,365 Probationary Officer / Management Trainee vacancies across participating public sector banks."
+      },
+      {
+        "question": "What is the educational qualification required for IBPS PO?",
+        "answer": "Candidates must possess a Graduation degree in any discipline from a recognized university or equivalent."
+      },
+      {
+        "question": "What is the age limit for applying to IBPS PO 2026?",
+        "answer": "Applicants must be between 20 and 30 years old. Category-based upper age relaxations are applicable as per Government rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-08-21"
+      },
+      {
+        "label": "Preliminary Exam Date",
+        "date": "2026-10-17"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Probationary Officer",
+      "Graduation Jobs",
+      "All India Recruitment"
+    ],
+    "metaDescription": "IBPS PO 2026 recruitment notification released for 7,365 vacancies. Apply online for Probationary Officer posts. Check eligibility and exam dates at ibps.in."
+  },
+  {
     "id": "ibps-clerk-notification-2026",
     "slug": "ibps-clerk-notification-2026",
     "title": "IBPS Clerk 2026 (CRP CSA-XVI)",
