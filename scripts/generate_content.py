@@ -21,7 +21,8 @@ import time
 from pathlib import Path
 from datetime import datetime
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # ──────────────────────────────────────────────
 # Config
@@ -29,11 +30,10 @@ import google.generativeai as genai
 
 RAW_PATH      = Path("data/scraped_raw.json")
 JOBS_PATH     = Path("data/jobs.json")
-MODEL         = "gemini-1.5-flash"   # Free tier: 1,500 requests/day
+MODEL         = "gemini-2.0-flash"   # Free tier: 1,500 requests/day
 MAX_TO_PROCESS = int(os.getenv("MAX_TO_PROCESS", "10"))
 
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel(MODEL)
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 
 # ──────────────────────────────────────────────
@@ -125,7 +125,10 @@ def process_item(raw_item: dict) -> dict | None:
     """Call Gemini API to generate a complete job object from a raw scraped item."""
     try:
         prompt = SYSTEM_PROMPT + "\n\n" + build_user_prompt(raw_item)
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model=MODEL,
+            contents=prompt,
+        )
         content = response.text.strip()
 
         # Strip markdown code fences if present

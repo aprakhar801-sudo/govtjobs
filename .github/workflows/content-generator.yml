@@ -42,7 +42,7 @@ jobs:
 
       - name: Generate AI content
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.JOBPORTAL }}
           MAX_TO_PROCESS: ${{ github.event.inputs.max_to_process || '10' }}
         run: python scripts/generate_content.py
 
