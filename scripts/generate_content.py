@@ -30,7 +30,7 @@ from google.genai import types
 
 RAW_PATH      = Path("data/scraped_raw.json")
 JOBS_PATH     = Path("data/jobs.json")
-MODEL         = "gemini-2.0-flash"   # Free tier: 1,500 requests/day
+MODEL         = "gemini-1.5-flash"   # Free tier: 1,500 requests/day
 MAX_TO_PROCESS = int(os.getenv("MAX_TO_PROCESS", "10"))
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
@@ -123,31 +123,39 @@ Rules:
 
 def process_item(raw_item: dict) -> dict | None:
     """Call Gemini API to generate a complete job object from a raw scraped item."""
-    try:
-        prompt = SYSTEM_PROMPT + "\n\n" + build_user_prompt(raw_item)
-        response = client.models.generate_content(
-            model=MODEL,
-            contents=prompt,
-        )
-        content = response.text.strip()
+    for attempt in range(3):
+        try:
+            prompt = SYSTEM_PROMPT + "\n\n" + build_user_prompt(raw_item)
+            response = client.models.generate_content(
+                model=MODEL,
+                contents=prompt,
+            )
+            content = response.text.strip()
 
-        # Strip markdown code fences if present
-        if content.startswith("```"):
-            content = content.split("```")[1]
-            if content.startswith("json"):
-                content = content[4:]
-        content = content.strip().rstrip("```").strip()
+            # Strip markdown code fences if present
+            if content.startswith("```"):
+                content = content.split("```")[1]
+                if content.startswith("json"):
+                    content = content[4:]
+            content = content.strip().rstrip("```").strip()
 
-        job = json.loads(content)
-        print(f"  ✓ Generated: {job.get('title', 'Unknown')}")
-        return job
+            job = json.loads(content)
+            print(f"  ✓ Generated: {job.get('title', 'Unknown')}")
+            return job
 
-    except json.JSONDecodeError as e:
-        print(f"  ✗ JSON parse error for '{raw_item.get('title')}': {e}")
-        return None
-    except Exception as e:
-        print(f"  ✗ API error for '{raw_item.get('title')}': {e}")
-        return None
+        except json.JSONDecodeError as e:
+            print(f"  ✗ JSON parse error for '{raw_item.get('title')}': {e}")
+            return None
+        except Exception as e:
+            if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                wait = 15 * (attempt + 1)
+                print(f"  ⏳ Rate limited, waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            print(f"  ✗ API error for '{raw_item.get('title')}': {e}")
+            return None
+    print(f"  ✗ Failed after 3 attempts")
+    return None
 
 
 def main():
@@ -193,7 +201,7 @@ def main():
             if job.get("id") not in existing_ids:
                 new_jobs.append(job)
                 existing_ids.add(job["id"])
-        time.sleep(1)  # Rate limit protection
+        time.sleep(4)  # Stay within free tier (15 req/min)
 
     if new_jobs:
         # Merge with existing (new jobs first for freshness)
