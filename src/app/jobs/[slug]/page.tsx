@@ -2,14 +2,15 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { getAllJobs, getJobBySlug, formatDate, getSectorConfig } from '@/lib/jobs'
+import jobsData from '../../../../data/jobs.json'
 
 interface Props {
   params: { slug: string }
 }
 
+// Read directly from JSON (bypasses filters) so build always succeeds
 export async function generateStaticParams() {
-  const jobs = getAllJobs()
-  if (!jobs.length) return []
+  const jobs = jobsData as { slug: string }[]
   return jobs.map((job) => ({ slug: job.slug }))
 }
 
