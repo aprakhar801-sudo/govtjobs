@@ -62,14 +62,5 @@ jobs:
           git commit -m "🤖 Auto-update: $JOB_COUNT jobs [$TIMESTAMP]"
           git push
 
-      - name: Trigger deploy workflow
-        if: steps.changes.outputs.changed == 'true'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: 'deploy.yml',
-              ref: 'main',
-            })
+      # Deploy triggers automatically because deploy.yml runs on every push to main
+      # The git push above already triggers it — no extra step needed
