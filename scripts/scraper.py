@@ -18,7 +18,7 @@ import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 
 import requests
 
@@ -81,6 +81,31 @@ MUST_CONTAIN = [
 ]
 
 # Skip these — not actual job listings
+OFFICIAL_URLS = {
+    "IBPS":          "https://www.ibps.in",
+    "SBI":           "https://sbi.co.in/web/careers",
+    "RBI":           "https://www.rbi.org.in/Scripts/Opportunities.aspx",
+    "NABARD":        "https://www.nabard.org/careers.aspx",
+    "SSC":           "https://ssc.nic.in",
+    "UPSC":          "https://upsc.gov.in",
+    "RRB":           "https://www.rrbapply.gov.in",
+    "Indian Railways": "https://www.indianrailways.gov.in",
+    "GPSC":          "https://gpsc.gujarat.gov.in",
+    "UPPSC":         "https://uppsc.up.nic.in",
+    "KVS":           "https://kvsangathan.nic.in",
+    "NVS":           "https://navodaya.gov.in",
+    "PSU":           "https://www.india.gov.in/topics/employment",
+    "Defence":       "https://joinindianarmy.nic.in",
+    "Paramilitary":  "https://crpf.gov.in",
+    "Police":        "https://www.india.gov.in",
+    "State PSC":     "https://www.india.gov.in",
+    "State Govt":    "https://www.india.gov.in",
+    "Various Banks": "https://www.ibps.in",
+    "Teaching":      "https://ctet.nic.in",
+    "Central Govt":  "https://ssc.nic.in",
+    "DRDO/ISRO":     "https://www.drdo.gov.in/careers",
+}
+
 SKIP_WORDS = [
     "cutoff", "answer key", "syllabus", "book", "coaching",
     "mock test", "preparation", "tips", "salary after deductions",
@@ -131,40 +156,50 @@ def is_relevant(title: str) -> bool:
     return True
 
 
+def key_terms(title: str) -> set:
+    """Extract meaningful words, ignoring common filler words."""
+    stopwords = {'the', 'for', 'and', 'out', 'here', 'check', 'details',
+                 'complete', 'all', 'how', 'apply', 'online', 'begin',
+                 'begins', 'from', 'with', 'this', 'that', 'are', 'has',
+                 'its', 'now', 'new', 'get', 'set', 'via', 'see', 'also'}
+    words = re.findall(r'\b\w+\b', title.lower())
+    return {w for w in words if len(w) >= 3 and w not in stopwords}
+
+
+def similarity(title1: str, title2: str) -> float:
+    t1, t2 = key_terms(title1), key_terms(title2)
+    if not t1 or not t2:
+        return 0.0
+    return len(t1 & t2) / max(len(t1), len(t2))
+
+
 def deduplicate(items: list[dict], existing: list[dict]) -> list[dict]:
-    existing_ids    = {j["id"] for j in existing}
-    existing_slugs  = {j["slug"] for j in existing}
+    existing_ids   = {j["id"] for j in existing}
+    existing_slugs = {j["slug"] for j in existing}
+    existing_titles = [j["title"] for j in existing]
 
-    def key_terms(title: str) -> set:
-        words = re.findall(r'\b\w+\b', title.lower())
-        return {w for w in words if len(w) >= 3}
-
-    existing_term_sets = [key_terms(j["title"]) for j in existing]
-
-    seen_slugs = set(existing_slugs)
-    new_items  = []
+    seen_slugs  = set(existing_slugs)
+    kept_titles = list(existing_titles)  # track titles kept in this run too
+    new_items   = []
 
     for item in items:
         slug = make_slug(item["title"])
-        if slug in seen_slugs:
-            continue
-        if item["id"] in existing_ids:
+
+        # Block 1: exact slug/id
+        if slug in seen_slugs or item["id"] in existing_ids:
             continue
 
-        # Fuzzy title match
-        item_terms = key_terms(item["title"])
-        duplicate  = False
-        if item_terms:
-            for ex_terms in existing_term_sets:
-                if not ex_terms:
-                    continue
-                overlap = len(item_terms & ex_terms) / max(len(item_terms), len(ex_terms))
-                if overlap >= 0.80:
-                    duplicate = True
-                    break
+        # Block 2: fuzzy match against ALL previously seen titles
+        # (both existing jobs AND items already accepted this run)
+        # Threshold 0.55 — catches "IBPS Clerk 2026" vs "IBPS Clerk Notification 2026"
+        duplicate = any(
+            similarity(item["title"], seen) >= 0.55
+            for seen in kept_titles
+        )
 
         if not duplicate:
             seen_slugs.add(slug)
+            kept_titles.append(item["title"])
             new_items.append(item)
 
     return new_items
@@ -206,6 +241,7 @@ def main():
                 continue
 
             slug = make_slug(title)
+            official = OFFICIAL_URLS.get(org, item["url"])
             all_scraped.append({
                 "id":           slug,
                 "slug":         slug,
@@ -213,8 +249,8 @@ def main():
                 "organization": org,
                 "shortOrg":     org.split("/")[0],
                 "sector":       sector,
-                "officialUrl":  item["url"],
-                "sourceUrl":    item["url"],
+                "officialUrl":  official,
+                "sourceUrl":    item["url"],   # Google News link (for reference)
                 "status":       "active",
                 "lastUpdated":  today_iso(),
                 "raw":          True,
