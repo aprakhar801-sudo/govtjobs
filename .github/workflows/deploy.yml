@@ -1,0 +1,83 @@
+name: 🚀 Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    name: Build & Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source (private repo)
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static site
+        run: npm run build
+        env:
+          NODE_ENV: production
+          # Automatically sets basePath to /repo-name for GitHub subdomain
+          # When you move to custom domain, remove this line
+          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+
+      - name: Generate sitemap
+        run: node scripts/generate-sitemap.js
+
+      # ── Option A: deploy to GitHub Pages from THIS repo (simplest) ──
+      # Use this if repo is already public OR you have GitHub Pro/Team
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+  deploy:
+    name: Deploy
+    needs: build-and-deploy
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # ── Option B: push built HTML to a SEPARATE public repo ──
+  # Uncomment this job (and comment out the 'deploy' job above) if you want
+  # your source code to stay private but the site to be public.
+  #
+  # deploy-to-public-repo:
+  #   name: Push to public repo
+  #   needs: build-and-deploy
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout built output
+  #       uses: actions/checkout@v4
+  #     - name: Push out/ to public repo
+  #       uses: cpina/github-action-push-to-another-repository@main
+  #       env:
+  #         API_TOKEN_GITHUB: ${{ secrets.PUBLIC_REPO_TOKEN }}
+  #       with:
+  #         source-directory: out
+  #         destination-github-username: YOUR_GITHUB_USERNAME
+  #         destination-repository-name: govtjobsportal-public   # public repo
+  #         target-branch: gh-pages
+  #         commit-message: "Deploy ${{ github.sha }}"

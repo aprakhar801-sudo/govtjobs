@@ -1,0 +1,22 @@
+# Dependencies — never upload these, GitHub installs them fresh
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment variables — never upload secrets
+.env
+.env.local
+.env*.local
+
+# Scraped raw data (temporary, auto-cleared)
+data/scraped_raw.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.log
