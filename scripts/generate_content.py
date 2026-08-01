@@ -21,8 +21,7 @@ import time
 from pathlib import Path
 from datetime import datetime
 
-from google import genai
-from google.genai import types
+import google.generativeai as genai
 
 # ──────────────────────────────────────────────
 # Config
@@ -33,7 +32,8 @@ JOBS_PATH     = Path("data/jobs.json")
 MODEL         = "gemini-1.5-flash"   # Free tier: 1,500 requests/day
 MAX_TO_PROCESS = int(os.getenv("MAX_TO_PROCESS", "10"))
 
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+model = genai.GenerativeModel(MODEL)
 
 
 # ──────────────────────────────────────────────
@@ -126,10 +126,7 @@ def process_item(raw_item: dict) -> dict | None:
     for attempt in range(3):
         try:
             prompt = SYSTEM_PROMPT + "\n\n" + build_user_prompt(raw_item)
-            response = client.models.generate_content(
-                model=MODEL,
-                contents=prompt,
-            )
+            response = model.generate_content(prompt)
             content = response.text.strip()
 
             # Strip markdown code fences if present
