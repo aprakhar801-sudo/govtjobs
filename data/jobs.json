@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "placeholder",
+    "slug": "placeholder",
+    "title": "Loading latest jobs...",
+    "organization": "GovtJobsPortal",
+    "shortOrg": "GJP",
+    "sector": "central-govt",
+    "totalVacancies": 0,
+    "qualifications": ["Graduate"],
+    "ageMin": 18,
+    "ageMax": 35,
+    "salaryLabel": "As per 7th CPC",
+    "applicationStart": "2026-01-01",
+    "applicationEnd": "2026-12-31",
+    "officialUrl": "https://www.india.gov.in",
+    "status": "active",
+    "lastUpdated": "2026-08-01T00:00:00Z",
+    "summary": "New job notifications are being fetched. Please check back shortly.",
+    "highlights": ["New jobs coming soon"],
+    "eligibility": "Varies by post.",
+    "howToApply": "Check official website.",
+    "selectionProcess": ["Written Exam"],
+    "faqs": [{"question": "When will new jobs be listed?", "answer": "New notifications are added daily via our automated system."}],
+    "importantDates": [{"label": "Site Launch", "date": "2026-08-01"}],
+    "tags": ["Government Jobs", "India"],
+    "metaDescription": "Latest government job notifications for banking, railways, SSC, state govt, teaching and PSU sectors. Updated daily."
+  }
+]

@@ -4,9 +4,9 @@ import jobsData from '../../data/jobs.json'
 const allJobs: Job[] = jobsData as Job[]
 
 export function getAllJobs(): Job[] {
-  return allJobs.sort(
-    (a, b) => new Date(b.lastUpdated).getTime() - new Date(a.lastUpdated).getTime()
-  )
+  return allJobs
+    .filter((j) => j.id !== 'placeholder')
+    .sort((a, b) => new Date(b.lastUpdated).getTime() - new Date(a.lastUpdated).getTime())
 }
 
 export function getJobsBysector(sector: Sector): Job[] {
