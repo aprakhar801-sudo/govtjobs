@@ -1,16 +1,11 @@
 """
 scraper.py
 ----------
-Scrapes official Indian recruitment websites for new job notifications.
-Returns a list of raw scraped items (not yet AI-enhanced).
+Uses Google News RSS feeds to find new Indian government job notifications.
+Works reliably from GitHub Actions — no IP blocks, no CAPTCHAs.
 
-Sources covered:
-  - IBPS (ibps.in)
-  - SBI Careers
-  - SSC (ssc.nic.in)
-  - RRB (indianrailways.gov.in)
-  - UPSC
-  - Employment News (employmetnews.gov.in) — catches many departments
+Google News RSS format:
+  https://news.google.com/rss/search?q=QUERY&hl=en-IN&gl=IN&ceid=IN:en
 
 Usage:
   python scripts/scraper.py
@@ -20,256 +15,157 @@ Usage:
 import json
 import re
 import time
-import hashlib
-from datetime import datetime, timedelta
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import quote_plus
 
 import requests
-from bs4 import BeautifulSoup
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (compatible; GovtJobsBot/1.0; "
-        "+https://www.govtjobsportal.com/bot)"
-    )
+    "User-Agent": "Mozilla/5.0 (compatible; GovtJobsBot/1.0)"
 }
-TIMEOUT = 15
+TIMEOUT = 20
 OUTPUT_PATH = Path("data/scraped_raw.json")
 
+# ──────────────────────────────────────────────
+# Search queries — one per sector/org
+# Each query targets fresh notifications only
+# ──────────────────────────────────────────────
+
+QUERIES = [
+    # Banking
+    {"q": "IBPS recruitment notification 2026", "sector": "banking", "org": "IBPS"},
+    {"q": "SBI recruitment 2026 vacancy", "sector": "banking", "org": "SBI"},
+    {"q": "RBI recruitment 2026", "sector": "banking", "org": "RBI"},
+    {"q": "NABARD recruitment 2026", "sector": "banking", "org": "NABARD"},
+    {"q": "bank recruitment notification 2026 India", "sector": "banking", "org": "Various Banks"},
+
+    # Central Govt
+    {"q": "SSC CGL CHSL recruitment 2026 notification", "sector": "central-govt", "org": "SSC"},
+    {"q": "UPSC recruitment notification 2026", "sector": "central-govt", "org": "UPSC"},
+    {"q": "central government job vacancy 2026", "sector": "central-govt", "org": "Central Govt"},
+
+    # Railways
+    {"q": "RRB railway recruitment notification 2026", "sector": "railways", "org": "RRB"},
+    {"q": "Indian Railways vacancy 2026", "sector": "railways", "org": "Indian Railways"},
+
+    # State Govt
+    {"q": "GPSC Gujarat recruitment 2026", "sector": "state-govt", "org": "GPSC"},
+    {"q": "UPPSC recruitment notification 2026", "sector": "state-govt", "org": "UPPSC"},
+    {"q": "state PSC recruitment 2026 India", "sector": "state-govt", "org": "State PSC"},
+    {"q": "state government job vacancy 2026", "sector": "state-govt", "org": "State Govt"},
+
+    # Teaching
+    {"q": "KVS TGT PGT recruitment 2026", "sector": "teaching", "org": "KVS"},
+    {"q": "NVS teacher recruitment 2026", "sector": "teaching", "org": "NVS"},
+    {"q": "CTET teacher job vacancy 2026", "sector": "teaching", "org": "Teaching"},
+
+    # PSU
+    {"q": "ONGC BHEL NTPC recruitment 2026", "sector": "psu", "org": "PSU"},
+    {"q": "PSU government job vacancy 2026 GATE", "sector": "psu", "org": "PSU"},
+
+    # Defence
+    {"q": "Indian Army Navy Air Force recruitment 2026", "sector": "defence", "org": "Defence"},
+    {"q": "DRDO ISRO recruitment 2026", "sector": "defence", "org": "DRDO/ISRO"},
+
+    # Police
+    {"q": "CRPF BSF CISF constable recruitment 2026", "sector": "police", "org": "Paramilitary"},
+    {"q": "police constable SI recruitment 2026 India", "sector": "police", "org": "Police"},
+]
+
+# Keywords that must appear for a result to be valid
+MUST_CONTAIN = [
+    "recruitment", "vacancy", "notification", "apply", "post",
+    "job", "hiring", "admit card", "result", "selection"
+]
+
+# Skip these — not actual job listings
+SKIP_WORDS = [
+    "cutoff", "answer key", "syllabus", "book", "coaching",
+    "mock test", "preparation", "tips", "salary after deductions",
+    "rank list", "merit list"
+]
+
 
 # ──────────────────────────────────────────────
-# Helper utilities
+# Helpers
 # ──────────────────────────────────────────────
 
-def get_soup(url: str) -> BeautifulSoup | None:
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-        resp.raise_for_status()
-        return BeautifulSoup(resp.text, "html.parser")
-    except Exception as e:
-        print(f"  [WARN] Could not fetch {url}: {e}")
-        return None
-
-
-def make_slug(title: str, year: int | None = None) -> str:
+def make_slug(title: str) -> str:
     slug = re.sub(r"[^\w\s-]", "", title.lower())
     slug = re.sub(r"[\s_]+", "-", slug).strip("-")
-    if year:
-        slug = f"{slug}-{year}"
     return slug[:80]
 
 
-def make_id(slug: str) -> str:
-    return slug
-
-
 def today_iso() -> str:
-    return datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-# ──────────────────────────────────────────────
-# Individual scrapers
-# ──────────────────────────────────────────────
-
-def scrape_ibps() -> list[dict]:
-    """Scrape IBPS recruitment notifications."""
-    print("Scraping IBPS...")
-    items = []
-    soup = get_soup("https://www.ibps.in")
-    if not soup:
+def fetch_rss(query: str) -> list[dict]:
+    """Fetch Google News RSS for a query, return list of {title, url, published}."""
+    url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-IN&gl=IN&ceid=IN:en"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        resp.raise_for_status()
+        root = ET.fromstring(resp.content)
+        items = []
+        for item in root.findall(".//item"):
+            title = item.findtext("title", "").strip()
+            link  = item.findtext("link", "").strip()
+            pub   = item.findtext("pubDate", "").strip()
+            if title and link:
+                items.append({"title": title, "url": link, "published": pub})
         return items
-
-    # IBPS lists notifications in a "What's New" / "Recruitment" section
-    for link in soup.find_all("a", href=True):
-        text = link.get_text(strip=True)
-        href = link["href"]
-        if not text or len(text) < 10:
-            continue
-        if any(kw in text.lower() for kw in ["recruitment", "notification", "vacancy", "apply", "crp"]):
-            full_url = urljoin("https://www.ibps.in", href) if not href.startswith("http") else href
-            slug = make_slug(text, datetime.utcnow().year)
-            items.append({
-                "id": make_id(slug),
-                "slug": slug,
-                "title": text[:200],
-                "organization": "Institute of Banking Personnel Selection",
-                "shortOrg": "IBPS",
-                "sector": "banking",
-                "officialUrl": "https://www.ibps.in",
-                "notificationUrl": full_url if full_url.endswith(".pdf") else None,
-                "sourceUrl": full_url,
-                "status": "active",
-                "lastUpdated": today_iso(),
-                "raw": True,
-            })
-
-    print(f"  → {len(items)} IBPS items")
-    return items[:5]  # Limit to latest 5
+    except Exception as e:
+        print(f"  [WARN] RSS fetch failed for '{query}': {e}")
+        return []
 
 
-def scrape_ssc() -> list[dict]:
-    """Scrape SSC latest notifications."""
-    print("Scraping SSC...")
-    items = []
-    soup = get_soup("https://ssc.nic.in/Portal/LatestNews")
-    if not soup:
-        return items
+def is_relevant(title: str) -> bool:
+    t = title.lower()
+    if not any(kw in t for kw in MUST_CONTAIN):
+        return False
+    if any(kw in t for kw in SKIP_WORDS):
+        return False
+    return True
 
-    for row in soup.find_all(["tr", "li", "div"], limit=50):
-        links = row.find_all("a", href=True)
-        for link in links:
-            text = link.get_text(strip=True)
-            href = link["href"]
-            if len(text) < 15:
-                continue
-            if any(kw in text.lower() for kw in ["recruitment", "notification", "vacancy", "examination"]):
-                full_url = urljoin("https://ssc.nic.in", href)
-                slug = make_slug(text, datetime.utcnow().year)
-                items.append({
-                    "id": make_id(slug),
-                    "slug": slug,
-                    "title": text[:200],
-                    "organization": "Staff Selection Commission",
-                    "shortOrg": "SSC",
-                    "sector": "central-govt",
-                    "officialUrl": "https://ssc.nic.in",
-                    "notificationUrl": full_url if ".pdf" in full_url else None,
-                    "sourceUrl": full_url,
-                    "status": "active",
-                    "lastUpdated": today_iso(),
-                    "raw": True,
-                })
-
-    print(f"  → {len(items)} SSC items")
-    return items[:5]
-
-
-def scrape_employment_news() -> list[dict]:
-    """
-    Employment News (www.employmentnews.gov.in) aggregates govt notifications
-    from almost every department — very useful.
-    """
-    print("Scraping Employment News...")
-    items = []
-    soup = get_soup("https://www.employmentnews.gov.in/NewMain.aspx")
-    if not soup:
-        return items
-
-    for link in soup.find_all("a", href=True):
-        text = link.get_text(strip=True)
-        if len(text) < 20:
-            continue
-        if any(kw in text.lower() for kw in ["recruitment", "vacancy", "post", "apply"]):
-            href = link["href"]
-            full_url = urljoin("https://www.employmentnews.gov.in", href)
-            # Try to guess sector
-            sector = "central-govt"
-            if any(k in text.lower() for k in ["bank", "ibps", "rbi", "nabard"]):
-                sector = "banking"
-            elif any(k in text.lower() for k in ["railway", "rrb"]):
-                sector = "railways"
-            elif any(k in text.lower() for k in ["teacher", "kvs", "nvs", "school"]):
-                sector = "teaching"
-            elif any(k in text.lower() for k in ["army", "navy", "air force", "defence", "drdo"]):
-                sector = "defence"
-            elif any(k in text.lower() for k in ["police", "crpf", "bsf", "cisf"]):
-                sector = "police"
-            elif any(k in text.lower() for k in ["ongc", "bhel", "ntpc", "sail", "psu"]):
-                sector = "psu"
-
-            slug = make_slug(text, datetime.utcnow().year)
-            items.append({
-                "id": make_id(slug),
-                "slug": slug,
-                "title": text[:200],
-                "organization": "Various",
-                "shortOrg": "Govt",
-                "sector": sector,
-                "officialUrl": full_url,
-                "sourceUrl": full_url,
-                "status": "active",
-                "lastUpdated": today_iso(),
-                "raw": True,
-            })
-
-    print(f"  → {len(items)} Employment News items")
-    return items[:10]
-
-
-def scrape_upsc() -> list[dict]:
-    """Scrape UPSC recruitment notifications."""
-    print("Scraping UPSC...")
-    items = []
-    soup = get_soup("https://upsc.gov.in/recruitment-notices")
-    if not soup:
-        return items
-
-    for link in soup.find_all("a", href=True):
-        text = link.get_text(strip=True)
-        href = link["href"]
-        if len(text) < 15:
-            continue
-        full_url = urljoin("https://upsc.gov.in", href)
-        slug = make_slug(text, datetime.utcnow().year)
-        items.append({
-            "id": make_id(slug),
-            "slug": slug,
-            "title": text[:200],
-            "organization": "Union Public Service Commission",
-            "shortOrg": "UPSC",
-            "sector": "central-govt",
-            "officialUrl": "https://upsc.gov.in",
-            "notificationUrl": full_url if ".pdf" in full_url else None,
-            "sourceUrl": full_url,
-            "status": "active",
-            "lastUpdated": today_iso(),
-            "raw": True,
-        })
-
-    print(f"  → {len(items)} UPSC items")
-    return items[:5]
-
-
-# ──────────────────────────────────────────────
-# Deduplication
-# ──────────────────────────────────────────────
 
 def deduplicate(items: list[dict], existing: list[dict]) -> list[dict]:
-    """Filter out items that already exist in jobs.json."""
-    existing_ids = {j["id"] for j in existing}
-    existing_titles = {j["title"].lower()[:50] for j in existing}
+    existing_ids    = {j["id"] for j in existing}
+    existing_slugs  = {j["slug"] for j in existing}
 
-    # Extract key terms from existing titles for fuzzy matching
-    # e.g. "ibps", "po", "2026" from "IBPS PO 2026"
     def key_terms(title: str) -> set:
         words = re.findall(r'\b\w+\b', title.lower())
         return {w for w in words if len(w) >= 3}
 
     existing_term_sets = [key_terms(j["title"]) for j in existing]
 
-    new_items = []
+    seen_slugs = set(existing_slugs)
+    new_items  = []
+
     for item in items:
-        # Block 1: exact ID match
+        slug = make_slug(item["title"])
+        if slug in seen_slugs:
+            continue
         if item["id"] in existing_ids:
             continue
-        # Block 2: exact title prefix match
-        if item["title"].lower()[:50] in existing_titles:
-            continue
-        # Block 3: fuzzy — if 80%+ of key terms overlap with any existing title
+
+        # Fuzzy title match
         item_terms = key_terms(item["title"])
+        duplicate  = False
         if item_terms:
             for ex_terms in existing_term_sets:
                 if not ex_terms:
                     continue
                 overlap = len(item_terms & ex_terms) / max(len(item_terms), len(ex_terms))
-                if overlap >= 0.8:
+                if overlap >= 0.80:
+                    duplicate = True
                     break
-            else:
-                new_items.append(item)
-                continue
-            continue  # duplicate found via fuzzy match
-        new_items.append(item)
+
+        if not duplicate:
+            seen_slugs.add(slug)
+            new_items.append(item)
 
     return new_items
 
@@ -280,39 +176,57 @@ def deduplicate(items: list[dict], existing: list[dict]) -> list[dict]:
 
 def main():
     print("=" * 50)
-    print("GovtJobsPortal Scraper")
+    print("GovtJobsPortal Scraper (Google News RSS)")
     print("=" * 50)
 
     # Load existing jobs to avoid duplicates
     existing_path = Path("data/jobs.json")
     existing = json.loads(existing_path.read_text()) if existing_path.exists() else []
 
-    # Load previously scraped raw items too
     prev_raw = json.loads(OUTPUT_PATH.read_text()) if OUTPUT_PATH.exists() else []
 
     all_scraped = []
 
-    scrapers = [
-        scrape_ibps,
-        scrape_ssc,
-        scrape_upsc,
-        scrape_employment_news,
-    ]
+    for query_cfg in QUERIES:
+        q       = query_cfg["q"]
+        sector  = query_cfg["sector"]
+        org     = query_cfg["org"]
 
-    for scraper in scrapers:
-        try:
-            results = scraper()
-            all_scraped.extend(results)
-        except Exception as e:
-            print(f"  [ERROR] {scraper.__name__}: {e}")
-        time.sleep(2)  # Be polite to servers
+        print(f"Fetching: {q[:50]}...")
+        rss_items = fetch_rss(q)
 
-    # Deduplicate against existing
+        for item in rss_items:
+            title = item["title"]
+
+            # Clean up Google News title format "Title - Source"
+            if " - " in title:
+                title = title.rsplit(" - ", 1)[0].strip()
+
+            if not is_relevant(title):
+                continue
+
+            slug = make_slug(title)
+            all_scraped.append({
+                "id":           slug,
+                "slug":         slug,
+                "title":        title,
+                "organization": org,
+                "shortOrg":     org.split("/")[0],
+                "sector":       sector,
+                "officialUrl":  item["url"],
+                "sourceUrl":    item["url"],
+                "status":       "active",
+                "lastUpdated":  today_iso(),
+                "raw":          True,
+            })
+
+        time.sleep(1)  # Be polite
+
+    # Deduplicate
     new_items = deduplicate(all_scraped, existing + prev_raw)
 
-    print(f"\n✅ {len(new_items)} new items to process (from {len(all_scraped)} scraped)")
+    print(f"\n✅ {len(new_items)} new items (from {len(all_scraped)} found across {len(QUERIES)} queries)")
 
-    # Save raw scraped items
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(new_items, ensure_ascii=False, indent=2))
     print(f"📝 Saved to {OUTPUT_PATH}")
