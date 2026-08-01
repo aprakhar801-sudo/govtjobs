@@ -8,6 +8,18 @@ interface Props {
   params: { state: string }
 }
 
+const STATES = [
+  'gujarat','uttar-pradesh','maharashtra','rajasthan','bihar',
+  'madhya-pradesh','karnataka','tamil-nadu','andhra-pradesh',
+  'telangana','kerala','west-bengal','punjab','haryana','delhi',
+  'himachal-pradesh','uttarakhand','jharkhand','chhattisgarh',
+  'odisha','assam','goa',
+]
+
+export async function generateStaticParams() {
+  return STATES.map((state) => ({ state }))
+}
+
 // Convert slug to display name
 function slugToName(slug: string): string {
   return slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
