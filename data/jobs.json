@@ -1,5 +1,232 @@
 [
   {
+    "id": "ibps-po-notification-2026",
+    "slug": "ibps-po-notification-2026",
+    "title": "IBPS PO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 52,000 - 55,000 per month (Approx)",
+    "salaryMin": 52000,
+    "salaryMax": 55000,
+    "applicationStart": null,
+    "applicationEnd": "2026-08-02",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-02T09:37:21Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) is closing the online application window today for the Probationary Officer / Management Trainee (PO/MT) recruitment 2026. Interested candidates with a bachelor's degree must complete their registration and fee payment on the official website before the deadline.",
+    "highlights": [
+      "Application window closes today, August 2, 2026",
+      "Eligibility: Bachelor's Degree in any discipline",
+      "Age Limit: 20 to 30 years (age relaxation applicable)",
+      "Selection through Prelims, Mains, and Interview"
+    ],
+    "eligibility": "Candidates must hold a Graduation degree in any discipline from a recognized University or an equivalent qualification recognized by the Central Government. The age limit is between 20 and 30 years, with upper age relaxation provided for reserved categories (5 years for SC/ST, 3 years for OBC, and 10 years for PwBD candidates).",
+    "howToApply": "1. Go to the official IBPS website at ibps.in.\n2. Click on the CRP PO/MT section and select the current recruitment notification.\n3. Click on 'New Registration' and enter your basic contact details.\n4. Upload your photograph, signature, left thumb impression, and hand-written declaration.\n5. Fill in educational details, pay the online application fee, and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the last date to apply for IBPS PO 2026?",
+        "answer": "The application window for IBPS PO 2026 closes today, August 2, 2026."
+      },
+      {
+        "question": "What educational qualification is required for IBPS PO?",
+        "answer": "Candidates must have a Bachelor's degree in any subject from a recognized Indian university."
+      },
+      {
+        "question": "What is the age limit for IBPS PO recruitment?",
+        "answer": "The standard age limit is 20 to 30 years, with relaxations for SC/ST, OBC, and PwBD categories as per government rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Application Closes",
+        "date": "2026-08-02"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "PO Recruitment",
+      "Graduate Jobs",
+      "Bank PO"
+    ],
+    "metaDescription": "IBPS PO Notification 2026: Application window closes today, Aug 2, 2026. Apply online for Probationary Officer posts at ibps.in. Check eligibility details."
+  },
+  {
+    "id": "itat-private-secretary-recruitment-2026",
+    "slug": "itat-private-secretary-recruitment-2026",
+    "title": "ITAT Private Secretary Recruitment 2026",
+    "organization": "Income Tax Appellate Tribunal",
+    "shortOrg": "ITAT",
+    "sector": "banking",
+    "subsector": "Ministry of Law and Justice",
+    "state": null,
+    "totalVacancies": 42,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "Stenography Skill"
+    ],
+    "ageMin": 18,
+    "ageMax": 30,
+    "salaryLabel": "Pay Level 7 (₹44,900 - ₹1,42,400)",
+    "salaryMin": 44900,
+    "salaryMax": 142400,
+    "applicationStart": "2026-08-02",
+    "applicationEnd": "2026-09-02",
+    "examDate": null,
+    "officialUrl": "https://itat.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-02T09:37:40Z",
+    "summary": "Income Tax Appellate Tribunal (ITAT) has released a recruitment notification for 42 Private Secretary positions. Eligible graduates with relevant shorthand and typing proficiency can register online. Candidates are advised to apply early to secure their application ahead of the deadline.",
+    "highlights": [
+      "42 Vacancies for Private Secretary post",
+      "Pay Level 7 salary scale under 7th CPC",
+      "Graduation and Stenography skills required",
+      "Online application link is now active"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized University or equivalent institute. Applicants must also meet shorthand dictation standards (typically 120 wpm in English or Hindi) along with computer transcription skills. The candidate's age must be between 18 and 30 years as of the crucial date, with upper age relaxations applicable for SC/ST/OBC/PwD candidates as per Central Government norms.",
+    "howToApply": "1. Visit the official website at https://itat.gov.in or the designated online application portal.\n2. Navigate to the 'Recruitment / Careers' tab and click on the Private Secretary 2026 Notification.\n3. Complete the registration process with basic details, mobile number, and email address.\n4. Fill in the application form accurately, uploading scanned photos, signatures, and relevant certificates.\n5. Pay the prescribed application fee online and submit the application form for future reference.",
+    "selectionProcess": [
+      "Written Examination / Screening Test",
+      "Stenography Skill Test",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are released for ITAT Private Secretary Recruitment 2026?",
+        "answer": "A total of 42 vacancies have been announced for the Private Secretary post."
+      },
+      {
+        "question": "What is the educational qualification required for ITAT Private Secretary?",
+        "answer": "Applicants must hold a Bachelor's degree in any stream along with relevant proficiency in shorthand/stenography and typing."
+      },
+      {
+        "question": "What is the salary scale for Private Secretary in ITAT?",
+        "answer": "Selected candidates receive Pay Level 7 salary ranging from ₹44,900 to ₹1,42,400 plus applicable central allowances."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-02"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-02"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-02"
+      }
+    ],
+    "tags": [
+      "ITAT",
+      "Private Secretary",
+      "Central Govt Jobs",
+      "Graduate Jobs",
+      "Stenographer Jobs"
+    ],
+    "metaDescription": "ITAT Private Secretary Recruitment 2026: Apply online for 42 posts. Check eligibility, salary, age limit, and apply online before the deadline."
+  },
+  {
+    "id": "ibps-po-so-recruitment-2026",
+    "slug": "ibps-po-so-recruitment-2026",
+    "title": "IBPS PO & SO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 7460,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "B.E./B.Tech",
+      "MCA",
+      "M.Sc (IT)",
+      "LL.B.",
+      "MBA"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-07-01",
+    "applicationEnd": "2026-07-26",
+    "examDate": "2026-09-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "expired",
+    "lastUpdated": "2026-08-02T09:38:27Z",
+    "summary": "Institute of Banking Personnel Selection (IBPS) is recruiting for 7,460 Probationary Officer (PO) and Specialist Officer (SO) vacancies in public sector banks. The application deadline was extended to July 26. Eligible candidates with a graduation or relevant professional degree can register on ibps.in.",
+    "highlights": [
+      "7,460 vacancies across participating public sector banks",
+      "Positions include Probationary Officer (PO) and Specialist Officer (SO)",
+      "Application window extended until July 26",
+      "Selection through Prelims, Mains, and Interview"
+    ],
+    "eligibility": "Candidates applying for IBPS PO must hold a Bachelor's degree in any discipline from a recognized University. For Specialist Officer (SO) roles, relevant qualification such as B.E./B.Tech/MCA/M.Sc (IT) for IT Officer, LLB for Law Officer, or MBA/PGDBM for Marketing/HR Officers is mandatory. Age must be between 20 and 30 years as of the cut-off date, with age relaxation applicable for SC/ST/OBC/PwD candidates.",
+    "howToApply": "1. Visit the official IBPS portal at ibps.in.\n2. Click on the recruitment link for CRP PO/MT or CRP Specialist Officers.\n3. Complete the 'Click here for New Registration' process with your personal details.\n4. Upload scanned passport-size photograph, signature, left-thumb impression, and hand-written declaration.\n5. Fill in educational details, select bank preferences, pay the application fee online, and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Examination (Online Objective Test)",
+      "Main Examination (Objective & Descriptive)",
+      "Interview Round"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies in IBPS PO & SO 2026?",
+        "answer": "A total of 7,460 vacancies have been announced across participating public sector banks."
+      },
+      {
+        "question": "What is the extended application deadline for IBPS Recruitment 2026?",
+        "answer": "The application submission deadline was extended to July 26, 2026."
+      },
+      {
+        "question": "What is the educational qualification required for IBPS PO?",
+        "answer": "Candidates must possess a Bachelor's degree in any discipline from a recognized university."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Registration Starts",
+        "date": "2026-07-01"
+      },
+      {
+        "label": "Extended Application Deadline",
+        "date": "2026-07-26"
+      },
+      {
+        "label": "Preliminary Exam Date",
+        "date": "2026-09-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "PO Recruitment",
+      "SO Recruitment",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS Recruitment 2026: Apply online for 7,460 PO and SO posts at ibps.in. Application deadline extended to July 26. Check eligibility & details."
+  },
+  {
     "id": "ibps-clerk-2026",
     "slug": "ibps-clerk-2026",
     "title": "IBPS Clerk 2026",
