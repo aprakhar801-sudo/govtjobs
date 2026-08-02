@@ -1,5 +1,241 @@
 [
   {
+    "id": "ibps-clerk-2026",
+    "slug": "ibps-clerk-2026",
+    "title": "IBPS Clerk 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹28,000 - ₹38,000 per month (approx initial gross salary)",
+    "salaryMin": 28000,
+    "salaryMax": 38000,
+    "applicationStart": "2026-08-02",
+    "applicationEnd": "2026-08-22",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "https://www.ibps.in",
+    "status": "active",
+    "lastUpdated": "2026-08-02T04:49:49Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released the notification for IBPS Clerk 2026 for recruitment to Clerical Cadre posts in participating public sector banks. Graduates from any recognized university aged between 20 and 28 years are eligible to apply online. Selected candidates will be placed in public sector banks across India.",
+    "highlights": [
+      "Recruitment for Clerical Cadre posts across participating Public Sector Banks",
+      "Educational Qualification: Degree (Graduation) in any discipline",
+      "Age Limit: 20 to 28 years with applicable age relaxation",
+      "Selection based strictly on Preliminary and Main online examinations (No Interview)"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree (Graduation) in any discipline from a recognized University or any equivalent qualification recognized by the Central Government. Operating and working knowledge in computer systems is necessary (a certificate/diploma/degree in computer operations/language or computer/IT studied as a subject in High School/College is required). Proficiency in the official language of the State/UT for which vacancies are applied is desirable. The age limit is 20 to 28 years with relaxation for reserved categories (5 years for SC/ST, 3 years for OBC, 10 years for PwBD).",
+    "howToApply": "1. Go to the official website www.ibps.in.\n2. Click on the CRP Clerical link and select 'Apply Online for CRP Clerks-XVI'.\n3. Complete the 'NEW REGISTRATION' by filling in basic contact details.\n4. Upload scanned photograph, signature, left thumb impression, and handwritten declaration as per guidelines.\n5. Fill in personal, educational details, and bank preferences.\n6. Pay the application fee through online payment gateways and submit the application form.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Type Online Test)",
+      "Main Examination (Objective Type Online Test)",
+      "Document Verification & Provisional Allotment"
+    ],
+    "faqs": [
+      {
+        "question": "What is the minimum educational qualification for IBPS Clerk 2026?",
+        "answer": "Candidates must hold a Graduation Degree in any discipline from a recognized university."
+      },
+      {
+        "question": "Is there an interview stage for IBPS Clerk recruitment?",
+        "answer": "No, there is no interview for IBPS Clerk. Selection is made based purely on marks scored in the Main Examination."
+      },
+      {
+        "question": "What is the age limit for IBPS Clerk candidates?",
+        "answer": "The age limit is 20 to 28 years. Relaxation in upper age limit is provided to SC/ST/OBC/PwD candidates per government guidelines."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-02"
+      },
+      {
+        "label": "Online Application Start Date",
+        "date": "2026-08-02"
+      },
+      {
+        "label": "Online Application End Date",
+        "date": "2026-08-22"
+      },
+      {
+        "label": "Preliminary Examination",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Clerk Recruitment",
+      "Graduate Jobs",
+      "Bank Exam"
+    ],
+    "metaDescription": "IBPS Clerk 2026 notification released at ibps.in. Apply online for clerical posts in public sector banks. Check eligibility, age limit, and salary details."
+  },
+  {
+    "id": "ibps-clerk-csa-recruitment-2026",
+    "slug": "ibps-clerk-csa-recruitment-2026",
+    "title": "IBPS Clerk / CSA Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 11403,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹28,000 - ₹37,000 per month (approx.)",
+    "salaryMin": 28000,
+    "salaryMax": 37000,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-21",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "https://www.ibps.in",
+    "status": "active",
+    "lastUpdated": "2026-08-02T04:50:24Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released a recruitment notification for 11,403 Customer Service Associate (Clerk) posts across public sector banks. Eligible graduates aged 20 to 28 can register online at ibps.in until August 21, 2026.",
+    "highlights": [
+      "11,403 vacancies announced for Customer Service Associate (Clerk) roles across public sector banks.",
+      "Graduates in any discipline from a recognized university are eligible to apply.",
+      "Age limit is 20 to 28 years with standard government age relaxations applicable.",
+      "Application deadline is August 21, 2026."
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized University or equivalent qualification. Operating and working knowledge in computer systems is mandatory (certificate/diploma/degree in computer operations/language or computer/IT studied as a subject). Age must be between 20 and 28 years as of the specified cut-off date. Upper age limit relaxations apply: 5 years for SC/ST, 3 years for OBC, and 10 years for PwD candidates.",
+    "howToApply": "1. Go to the official website at www.ibps.in.\n2. Click on the 'CRP Clerks / CSA 2026' recruitment link on the homepage.\n3. Complete the new registration by entering basic details to get a Registration ID and Password.\n4. Upload your photograph, signature, left thumb impression, and hand-written declaration.\n5. Fill out the complete application form, pay the required online application fee, and submit.",
+    "selectionProcess": [
+      "Preliminary Examination (Online)",
+      "Main Examination (Online)",
+      "Document Verification & Local Language Proficiency Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies in IBPS Clerk 2026?",
+        "answer": "IBPS has announced 11,403 vacancies for Customer Service Associate (Clerk) posts across participating banks."
+      },
+      {
+        "question": "What is the last date to apply online for IBPS CSA Recruitment 2026?",
+        "answer": "The online application window closes on August 21, 2026."
+      },
+      {
+        "question": "Is there an interview round for IBPS Clerk / CSA recruitment?",
+        "answer": "No, there is no interview round. Selection is made on the basis of marks obtained in the Main Examination followed by document verification."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification & Application Start",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application & Fee Payment End Date",
+        "date": "2026-08-21"
+      },
+      {
+        "label": "Preliminary Examination",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS Clerk Recruitment 2026: Apply online for 11,403 CSA posts at ibps.in. Graduates aged 20-28 eligible. Application deadline: August 21, 2026."
+  },
+  {
+    "id": "ibps-clerk-recruitment-2026",
+    "slug": "ibps-clerk-recruitment-2026",
+    "title": "IBPS Clerk Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹28,000 - ₹38,000 per month",
+    "salaryMin": 28000,
+    "salaryMax": 38000,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-21",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-02T04:50:46Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released the notification for IBPS Clerk 2026 recruitment for Clerical Cadre posts across participating public sector banks. Graduates in any discipline are eligible to apply online for state-wise vacancies.",
+    "highlights": [
+      "Clerical Cadre positions in multiple participating Public Sector Banks",
+      "Eligibility: Graduation in any discipline from a recognized university",
+      "Age Limit: 20 to 28 years (relaxations for reserved categories)",
+      "Two-tier selection process: Preliminary and Main Online Examinations"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree (Graduation) in any discipline from a University recognized by the Government of India or an equivalent qualification. Computer literacy is mandatory (candidates should possess operating and working knowledge in computer systems). The minimum age limit is 20 years and the maximum is 28 years. Age relaxation is applicable for SC/ST (5 years), OBC (3 years), and PwBD (10 years) candidates.",
+    "howToApply": "1. Visit the official IBPS website at www.ibps.in.\n2. Click on 'CRP Clerks' and select the current recruitment cycle.\n3. Register as a new user by entering basic details.\n4. Fill in educational qualifications, work experience, and state choices.\n5. Upload required documents (photo, signature, thumb impression, handwritten declaration).\n6. Pay the application fee via online payment options and submit the application.",
+    "selectionProcess": [
+      "Preliminary Examination (Online Objective Test)",
+      "Main Examination (Online Objective Test)",
+      "Local Language Proficiency Test & Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the age limit for IBPS Clerk 2026?",
+        "answer": "The age limit for general category candidates is 20 to 28 years. Upper age relaxations apply for SC, ST, OBC, and PwBD candidates."
+      },
+      {
+        "question": "Is there an interview round for IBPS Clerk recruitment?",
+        "answer": "No, there is no interview round for IBPS Clerk posts. Final selection is based solely on Main Examination scores."
+      },
+      {
+        "question": "Can final-year students apply for IBPS Clerk 2026?",
+        "answer": "Final-year students can apply only if their graduation result is declared on or before the application deadline."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-08-21"
+      },
+      {
+        "label": "Preliminary Exam Date",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS Clerk 2026 notification out. Check state-wise vacancies, eligibility, salary, age limit, and apply online at www.ibps.in."
+  },
+  {
     "id": "ibps-po-recruitment-2026",
     "slug": "ibps-po-recruitment-2026",
     "title": "IBPS PO 2026 Recruitment",
