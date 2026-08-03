@@ -1,5 +1,76 @@
 [
   {
+    "id": "ibps-recruitment-2026-registration-extended",
+    "slug": "ibps-recruitment-2026-registration-extended",
+    "title": "IBPS Recruitment 2026 (Registration Extended)",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "As per IBPS Norms",
+    "salaryMin": 30000,
+    "salaryMax": 60000,
+    "applicationStart": "2026-07-01",
+    "applicationEnd": "2026-08-10",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-03T10:57:41Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has extended the last date for online registration for its 2026 recruitment drive. Eligible candidates holding a graduate degree who missed the previous deadline can now apply online through the official portal before the extended closing date.",
+    "highlights": [
+      "IBPS 2026 online registration deadline extended for aspiring candidates",
+      "Open to Graduates in any discipline from a recognized University",
+      "Application form to be submitted online via ibps.in",
+      "Selection process includes Prelims, Mains, and Document Verification/Interview"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University or an equivalent qualification recognized by the Central Government. The candidate's age must generally be between 20 to 30 years, with standard relaxation applicable for SC/ST/OBC/PwBD candidates as per Government of India guidelines.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on the relevant recruitment link on the homepage.\n3. Complete the New Registration by filling in basic contact details.\n4. Upload photograph, signature, thumb impression, and handwritten declaration.\n5. Fill out the application form, pay the requisite fee, and submit the final application.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Interview / Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "Has the IBPS 2026 registration deadline been extended?",
+        "answer": "Yes, IBPS has extended the last date to register online for its recruitment drive."
+      },
+      {
+        "question": "What is the qualification required for IBPS Recruitment 2026?",
+        "answer": "A candidate must hold a Graduation degree in any discipline from a recognized university."
+      },
+      {
+        "question": "Where can I apply for IBPS Recruitment 2026?",
+        "answer": "You can fill out the online application form on the official IBPS website at www.ibps.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Registration Started",
+        "date": "2026-07-01"
+      },
+      {
+        "label": "Extended Application Deadline",
+        "date": "2026-08-10"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Graduate Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS Recruitment 2026 registration last date extended! Graduates can apply online for bank vacancies at ibps.in before the extended deadline."
+  },
+  {
     "id": "ibps-po-notification-2026",
     "slug": "ibps-po-notification-2026",
     "title": "IBPS PO Recruitment 2026",
