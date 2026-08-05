@@ -1,5 +1,85 @@
 [
   {
+    "id": "ibps-clerk-csa-2026",
+    "slug": "ibps-clerk-csa-2026",
+    "title": "IBPS Clerk / CSA Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 11403,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹19,900 - ₹37,000 per month (Basic Pay ₹19,900)",
+    "salaryMin": 19900,
+    "salaryMax": 37000,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-25",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-05T15:42:52Z",
+    "summary": "IBPS has officially released the notification for 11,403 Customer Support Associate (Clerical Cadre) posts across participating public sector banks for 2026. Graduates aged between 20 and 28 years are eligible to apply online. Selection will be made through online Preliminary and Mains examinations.",
+    "highlights": [
+      "11,403 Customer Support Associate (Clerk) Vacancies",
+      "Eligibility: Graduation in any discipline from a recognized university",
+      "Age Limit: 20 to 28 years (Category relaxation applicable)",
+      "Selection via Online Prelims & Mains Exams (No Interview)"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a University recognized by the Government of India or any equivalent qualification recognized as such by the Central Government. Candidates must possess operating and working knowledge in computer systems (Certificate/Diploma/Degree in computer operations or studied Computer/IT in High School/College). Proficiency in the official local language of the State/UT applied for is required. Age must be between 20 and 28 years, with standard age relaxation for OBC (3 years), SC/ST (5 years), and PwBD (10 years) candidates.",
+    "howToApply": "1. Visit the official website at https://www.ibps.in.\n2. Click on the CRP Clerical / CSA link on the homepage.\n3. Click on 'Click Here for New Registration' and enter your basic details.\n4. Upload scanned copies of your photograph, signature, left thumb impression, and handwritten declaration.\n5. Fill in the educational qualification, bank preferences, and address details.\n6. Pay the application fee online using Debit/Credit Card, Net Banking, or UPI, and submit the final application.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Main Examination (Objective Test)",
+      "Document Verification & Local Language Proficiency Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies in IBPS Clerk 2026?",
+        "answer": "There are 11,403 Customer Support Associate (Clerical Cadre) vacancies declared for 2026."
+      },
+      {
+        "question": "Is there an interview for IBPS Clerk / CSA post?",
+        "answer": "No, there is no interview process for clerical cadre posts in public sector banks. Final selection is based solely on Main Examination marks."
+      },
+      {
+        "question": "What is the age limit for IBPS Clerk recruitment?",
+        "answer": "The age limit is 20 to 28 years for general category candidates, with relaxations for reserved categories as per Government rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Release",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-08-25"
+      },
+      {
+        "label": "Prelims Exam Date",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Jobs"
+    ],
+    "metaDescription": "IBPS Clerk Notification 2026 Out for 11,403 CSA posts. Graduates aged 20-28 years can apply online at ibps.in before August 25, 2026."
+  },
+  {
     "id": "ibps-po-admit-card-2026",
     "slug": "ibps-po-admit-card-2026",
     "title": "IBPS PO Prelims Admit Card 2026",
