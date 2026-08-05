@@ -1,5 +1,85 @@
 [
   {
+    "id": "ibps-po-admit-card-2026",
+    "slug": "ibps-po-admit-card-2026",
+    "title": "IBPS PO Prelims Admit Card 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 52,000 - Rs. 55,000 per month (approx. initial gross)",
+    "salaryMin": 52000,
+    "salaryMax": 55000,
+    "applicationStart": "2026-07-01",
+    "applicationEnd": "2026-07-21",
+    "examDate": "2026-08-20",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "https://www.ibps.in",
+    "status": "active",
+    "lastUpdated": "2026-08-05T10:12:56Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released the admit card for the Probationary Officer (PO/MT) Prelims Examination 2026. Candidates who submitted their applications can now download their online call letters using their registration credentials. The preliminary exam will be conducted across various centers in India.",
+    "highlights": [
+      "IBPS PO Prelims Admit Card 2026 released online.",
+      "Exam scheduled for August/September 2026.",
+      "Requires Registration Number/Roll Number and Password/DOB to download.",
+      "Mandatory document to carry to the exam center along with original photo ID."
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University or equivalent qualification recognized by the Central Government. Candidates must be between 20 and 30 years of age with age relaxations applicable for SC/ST/OBC/PwBD categories as per government regulations.",
+    "howToApply": "1. Visit the official IBPS website (www.ibps.in).\n2. Click on the 'CRP PO/MT' section on the homepage.\n3. Click on the link for 'Download Prelims Call Letter for CRP PO/MT-XVI'.\n4. Enter your Registration Number/Roll Number and Password/Date of Birth.\n5. Click on Login to view your admit card and print a clear copy for exam day.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How can I download the IBPS PO Admit Card 2026?",
+        "answer": "You can download your call letter directly from the official IBPS website (www.ibps.in) by logging in with your Registration Number and Password/DOB."
+      },
+      {
+        "question": "What documents are required at the IBPS PO exam hall?",
+        "answer": "Candidates must bring a printed copy of the Admit Card, an original valid photo ID proof (such as Aadhaar Card, PAN Card, or Passport), and a clear photocopy of the ID proof."
+      },
+      {
+        "question": "What is the age limit for IBPS PO recruitment?",
+        "answer": "The minimum age limit is 20 years and the maximum age limit is 30 years, with category-based relaxations provided as per Government rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Application Start",
+        "date": "2026-07-01"
+      },
+      {
+        "label": "Online Application End",
+        "date": "2026-07-21"
+      },
+      {
+        "label": "Admit Card Release",
+        "date": "2026-08-05"
+      },
+      {
+        "label": "Prelims Exam Date",
+        "date": "2026-08-20"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Probationary Officer",
+      "Admit Card",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "Download IBPS PO Prelims Admit Card 2026. Check exam dates, step-by-step call letter download guide, and key instructions for Probationary Officer exam."
+  },
+  {
     "id": "india-post-staff-car-driver-recruitment-2026",
     "slug": "india-post-staff-car-driver-recruitment-2026",
     "title": "India Post Staff Car Driver Recruitment 2026",
