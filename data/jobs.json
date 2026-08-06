@@ -1,5 +1,157 @@
 [
   {
+    "id": "ibps-clerk-apply-online-2026",
+    "slug": "ibps-clerk-apply-online-2026",
+    "title": "IBPS Clerk Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 28,000 - Rs. 35,000 per month",
+    "salaryMin": 19900,
+    "salaryMax": 47920,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-26",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-06T10:14:31Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has initiated the online application process for IBPS Clerk 2026 recruitment across multiple public sector banks. Eligible graduates looking for a career in the banking sector can submit their applications online through the official portal at ibps.in.",
+    "highlights": [
+      "Clerk / Customer Service Associate positions in participating Public Sector Banks",
+      "Open to graduates in any discipline aged between 20 and 28 years",
+      "Two-tier examination model comprising Preliminary and Mains exams",
+      "Online application link now active on the official portal ibps.in"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized university or an equivalent qualification recognized by the Central Government. Candidates should have working/operating knowledge in computer systems. Age must be between 20 and 28 years. Relaxations in upper age limit apply for reserved categories (5 years for SC/ST, 3 years for OBC, and 10 years for PwBD). Proficiency in the official language of the State/UT applied for is required.",
+    "howToApply": "1. Visit the official website at www.ibps.in.\n2. Click on 'CRP Clerks' and select the online application link for the current recruitment cycle.\n3. Complete the basic registration by providing your name, mobile number, and email ID.\n4. Upload scanned copies of photograph, signature, left thumb impression, and hand-written declaration.\n5. Fill in educational details, pay the online application fee, and submit the final form.",
+    "selectionProcess": [
+      "Online Preliminary Examination",
+      "Online Mains Examination",
+      "Local Language Test & Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the age limit for IBPS Clerk 2026 recruitment?",
+        "answer": "The age limit for general category candidates is 20 to 28 years, with standard age relaxations for reserved categories."
+      },
+      {
+        "question": "Is there any interview for the IBPS Clerk selection process?",
+        "answer": "No, there is no interview process for IBPS Clerk post. Final allotment is based solely on performance in the Mains examination."
+      },
+      {
+        "question": "What educational qualifications are required to apply?",
+        "answer": "A graduation degree in any discipline from a recognized university is compulsory."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Application Start Date",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-08-26"
+      },
+      {
+        "label": "Preliminary Exam Date (Tentative)",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Clerk Recruitment",
+      "Graduate Jobs",
+      "Bank Exam"
+    ],
+    "metaDescription": "IBPS Clerk 2026 online application has started at ibps.in. Check eligibility, key dates, selection process, and apply online before the deadline."
+  },
+  {
+    "id": "ibps-po-2026",
+    "slug": "ibps-po-2026",
+    "title": "IBPS PO 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 6715,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "₹52,000 - ₹55,000 per month",
+    "salaryMin": 52000,
+    "salaryMax": 55000,
+    "applicationStart": "2026-07-18",
+    "applicationEnd": "2026-08-07",
+    "examDate": "2026-10-17",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-06T10:15:02Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) is recruiting 6,715 Probationary Officers (PO)/Management Trainees across participating public sector banks. Graduates from any recognized university aged 20–30 years can apply online before the registration closes on August 7, 2026.",
+    "highlights": [
+      "6,715 Vacancies for Probationary Officer / Management Trainee",
+      "Educational Qualification: Graduation in any discipline",
+      "Age Limit: 20 to 30 years (Relaxation applicable)",
+      "Selection Process: Prelims, Mains, and Interview"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's degree (Graduation) in any discipline from a university recognized by the Government of India or an equivalent qualification. Applicants must be between 20 and 30 years of age as of the notification cut-off date. Upper age relaxation of 5 years for SC/ST, 3 years for OBC (NCL), and 10 years for PwBD candidates is permissible as per government guidelines.",
+    "howToApply": "1. Go to the official website at https://www.ibps.in.\n2. Click on the 'CRP-PO/MT' link on the homepage and select the active registration link.\n3. Click on 'Click here for New Registration' and enter your name, email ID, and mobile number.\n4. Log in using your generated Registration Number and Password to complete the application form.\n5. Upload scanned copies of your photo, signature, left thumb impression, and handwritten declaration.\n6. Pay the application fee online using Debit/Credit Card, Net Banking, or UPI and submit your application.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Main Examination (Objective & Descriptive Test)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies for IBPS PO 2026?",
+        "answer": "IBPS has announced a total of 6,715 Probationary Officer/Management Trainee vacancies across participating public sector banks."
+      },
+      {
+        "question": "When is the last date to apply for IBPS PO 2026?",
+        "answer": "The online registration and fee payment window closes on August 7, 2026."
+      },
+      {
+        "question": "What is the age limit for IBPS PO recruitment?",
+        "answer": "Candidates must be between 20 and 30 years of age. Standard relaxations apply for reserved category candidates."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Registration Start",
+        "date": "2026-07-18"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-08-07"
+      },
+      {
+        "label": "Online Preliminary Exam",
+        "date": "2026-10-17"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "IBPS PO",
+      "Graduate Jobs",
+      "Bank Jobs"
+    ],
+    "metaDescription": "IBPS PO 2026: Apply now for 6,715 Probationary Officer posts. Registration ends Aug 7, 2026. Any Graduate aged 20-30 eligible. Apply online at ibps.in."
+  },
+  {
     "id": "ibps-clerk-csa-2026",
     "slug": "ibps-clerk-csa-2026",
     "title": "IBPS Clerk / CSA Recruitment 2026",
