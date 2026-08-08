@@ -1,5 +1,90 @@
 [
   {
+    "id": "ibps-so-recruitment-2026",
+    "slug": "ibps-so-recruitment-2026",
+    "title": "IBPS SO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 745,
+    "qualifications": [
+      "B.E./B.Tech",
+      "MCA",
+      "B.Sc Agriculture",
+      "LLB",
+      "MBA / PGDBM",
+      "Post Graduate (Hindi/English)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840 (Scale-I)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-08-08",
+    "applicationEnd": "2026-08-28",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-08T14:11:11Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has officially released the IBPS SO 2026 notification for 745 Specialist Officer (Scale-I) posts across participating public sector banks. Candidates holding relevant professional degrees in IT, Agriculture, Law, HR, Marketing, or Rajbhasha can apply online. The selection procedure consists of a Preliminary Exam, Mains Exam (Professional Knowledge), and Interview.",
+    "highlights": [
+      "745 Specialist Officer vacancies in participating Public Sector Banks",
+      "Covers IT Officer, Agriculture Field Officer, Law Officer, HR/Personnel, Marketing, and Rajbhasha Adhikari",
+      "Age Limit: 20 to 30 years (Relaxation applicable for reserved categories)",
+      "Three-tier selection process: Prelims, Mains, and Interview"
+    ],
+    "eligibility": "Candidates must possess a relevant degree based on the post applied for: B.E./B.Tech/MCA/M.Sc for IT Officer; B.Sc in Agriculture or allied subjects for Agriculture Field Officer; LLB for Law Officer; MBA/PGDBM for HR and Marketing Officer; or Master's degree in Hindi/English for Rajbhasha Adhikari. The minimum age limit is 20 years and maximum age limit is 30 years. Upper age relaxations apply for SC/ST, OBC, PwBD, and Ex-Servicemen as per government norms.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on the 'CRP Specialist Officers' tab on the homepage.\n3. Register by entering primary details such as Name, Email ID, and Mobile Number to generate Registration Credentials.\n4. Complete the online application form with personal, educational, and professional details.\n5. Upload photograph, signature, left thumb impression, and hand-written declaration as per specifications.\n6. Pay the application fee through online payment modes and submit the final application form.",
+    "selectionProcess": [
+      "Preliminary Examination (Online Objective Test)",
+      "Main Examination (Professional Knowledge Test)",
+      "Interview Round"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies announced in IBPS SO 2026?",
+        "answer": "IBPS has announced a total of 745 Specialist Officer (Scale-I) vacancies in this recruitment cycle."
+      },
+      {
+        "question": "What is the age limit for IBPS SO 2026?",
+        "answer": "Candidates must be between 20 and 30 years of age. Age relaxation is applicable for reserved category applicants as per Government rules."
+      },
+      {
+        "question": "Is there negative marking in the IBPS SO exam?",
+        "answer": "Yes, 0.25 marks will be deducted as penalty for every wrong answer marked in both Prelims and Mains examinations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-08"
+      },
+      {
+        "label": "Online Application Starts",
+        "date": "2026-08-08"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-08-28"
+      },
+      {
+        "label": "Preliminary Examination",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Bank Jobs",
+      "Specialist Officer",
+      "Engineering Jobs",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS SO 2026 notification out for 745 Specialist Officer vacancies. Apply online at ibps.in. Check eligibility, revised exam pattern, and salary details."
+  },
+  {
     "id": "ibps-clerk-apply-online-2026",
     "slug": "ibps-clerk-apply-online-2026",
     "title": "IBPS Clerk Recruitment 2026",
