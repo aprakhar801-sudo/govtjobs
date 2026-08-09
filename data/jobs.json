@@ -1,5 +1,81 @@
 [
   {
+    "id": "ibps-various-department-recruitment-2026",
+    "slug": "ibps-various-department-recruitment-2026",
+    "title": "IBPS & Departmental Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks & State Govt Departments",
+    "state": null,
+    "totalVacancies": 20593,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 30,000 - Rs. 54,000 per month",
+    "salaryMin": 30000,
+    "salaryMax": 54000,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-31",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-09T08:10:46Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) along with various state recruitment departments has announced a mega recruitment drive for over 20,593 vacancies across banking and state government sectors. Graduates in any stream from a recognized university are eligible to apply. Interested candidates should review the requirements and submit their applications before the deadline.",
+    "highlights": [
+      "20,593 total vacancies announced across IBPS and state departments",
+      "Includes 2,005 vacancies in Rajasthan and 2,106 Patwari/Departmental vacancies in MP",
+      "Educational Qualification: Graduation in any discipline",
+      "Selection via Online Computer-Based Examinations (Prelims & Mains)"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized University or equivalent qualification recognized by the Central/State Government. The general age limit is set between 20 and 30 years as of the cutoff date, with standard upper age relaxations applicable for SC/ST (5 years), OBC (3 years), and PwBD candidates as per Government of India guidelines.",
+    "howToApply": "1. Visit the official portal at www.ibps.in or the respective state government recruitment portal.\n2. Navigate to the online application link for the recruitment drive.\n3. Complete the basic candidate registration with email ID and contact details.\n4. Fill out the application form carefully with personal and academic details.\n5. Upload scanned copies of required documents (photo, signature, thumb impression).\n6. Pay the prescribed application fee online and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Online Examination",
+      "Main Online Examination",
+      "Interview / Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are announced in this recruitment drive?",
+        "answer": "A total of 20,593 vacancies are announced across banking and state government departments."
+      },
+      {
+        "question": "What is the minimum qualification required to apply?",
+        "answer": "Candidates must hold a Bachelor's degree (Graduation) in any stream from a recognized university."
+      },
+      {
+        "question": "What is the official website to apply for IBPS posts?",
+        "answer": "Candidates can apply online by visiting the official website www.ibps.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Date",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Preliminary Exam Date",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "Graduate Jobs",
+      "Government Jobs 2026",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS & State Departments announce 20,593 vacancies for 2026. Graduates can apply online. Check eligibility, age limit, salary, and application steps."
+  },
+  {
     "id": "ibps-so-recruitment-2026",
     "slug": "ibps-so-recruitment-2026",
     "title": "IBPS SO Recruitment 2026",
