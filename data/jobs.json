@@ -1,5 +1,161 @@
 [
   {
+    "id": "ibps-clerk-recruitment-11403-vacancies-2026",
+    "slug": "ibps-clerk-recruitment-11403-vacancies-2026",
+    "title": "IBPS Clerk Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 11403,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹28,000 - ₹35,000 per month (Approx Gross)",
+    "salaryMin": 28000,
+    "salaryMax": 35000,
+    "applicationStart": "2026-08-10",
+    "applicationEnd": "2026-08-31",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-10T08:59:49Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released the notification for 11,403 Clerk vacancies across participating public sector banks. Eligible graduates aged 20 to 28 can apply online. The selection process includes Preliminary and Main examinations without any interview round.",
+    "highlights": [
+      "11,403 total vacancies across 11 participating public sector banks.",
+      "Minimum Educational Qualification: Any Bachelor's Degree.",
+      "Age Limit: 20 to 28 years (Relaxation applicable for reserved categories).",
+      "No interview round; selection based purely on Mains examination performance."
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree (Graduation) in any discipline from a recognized University or equivalent qualification recognized by the Central Government. Candidates must also have computer literacy (a certificate/diploma/degree in computer operations/language or studied Computer/IT in High School/College). Proficiency in the official language of the State/UT for which the candidate applies is required.",
+    "howToApply": "1. Visit the official website at www.ibps.in.\n2. Click on 'CRP Clerks' and select 'Apply Online for CRP Clerks'.\n3. Click on 'New Registration' and fill in basic contact details.\n4. Upload scanned copies of photograph, signature, left thumb impression, and handwritten declaration.\n5. Pay the online application fee and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Main Examination (Objective Test)",
+      "Document Verification & Local Language Proficiency Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the educational qualification required for IBPS Clerk 2026?",
+        "answer": "Candidates must hold a Graduation Degree in any discipline from a recognized university."
+      },
+      {
+        "question": "Is there an interview in IBPS Clerk recruitment?",
+        "answer": "No, there is no interview round. Selection is made on the basis of marks obtained in the Mains exam."
+      },
+      {
+        "question": "What is the age limit for IBPS Clerk?",
+        "answer": "The minimum age is 20 years and maximum age is 28 years. Age relaxations apply for OBC, SC/ST, PwBD, and Ex-Servicemen as per government rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-10"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-08-10"
+      },
+      {
+        "label": "Online Application End",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Preliminary Examination",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS Clerk Recruitment 2026: Apply online for 11,403 vacancies across public sector banks. Graduation required. Check eligibility, salary & exam dates."
+  },
+  {
+    "id": "ibps-various-posts-recruitment-2026",
+    "slug": "ibps-various-posts-recruitment-2026",
+    "title": "IBPS Various Posts Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 20593,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 30,000 - Rs. 65,000 per month",
+    "salaryMin": 30000,
+    "salaryMax": 65000,
+    "applicationStart": "2026-08-10",
+    "applicationEnd": "2026-08-31",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-10T09:00:06Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) along with various state departments has announced a massive recruitment drive with over 20,593 vacancies across banking and state cadres. Graduates from any recognized stream can apply online before the closing date.",
+    "highlights": [
+      "20,593 total vacancies across IBPS and state departments",
+      "Open for Graduates in any discipline",
+      "Competitive salary scale with 7th Pay Commission allowances",
+      "Online examination selection process"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized University or equivalent qualification. The general age limit is between 20 to 30 years as of the eligibility date. Relaxations in upper age limit apply for reserved categories (SC/ST/OBC/PwD/Ex-Servicemen) as per Government rules.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on the relevant link for the recruitment application.\n3. Complete the online registration by providing personal details and contact info.\n4. Upload required documents including photograph, signature, and thumb impression.\n5. Pay the online application fee and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Interview / Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are announced in this recruitment?",
+        "answer": "A total of 20,593 vacancies are announced across IBPS and affiliated state department posts."
+      },
+      {
+        "question": "What is the educational qualification required?",
+        "answer": "A Bachelor's Degree in any stream from a recognized university is mandatory."
+      },
+      {
+        "question": "What is the age limit for IBPS candidates?",
+        "answer": "The age limit is typically 20 to 30 years, with category-wise relaxations as per Government norms."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Date",
+        "date": "2026-08-10"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Graduate Jobs",
+      "Bank PO",
+      "Clerk Recruitment"
+    ],
+    "metaDescription": "IBPS Recruitment 2026: Apply online for 20,593 vacancies in banking & state departments. Check eligibility, age limit, salary, and apply before deadline."
+  },
+  {
     "id": "ibps-recruitment-2026",
     "slug": "ibps-recruitment-2026",
     "title": "IBPS Various Bank Posts Recruitment 2026",
