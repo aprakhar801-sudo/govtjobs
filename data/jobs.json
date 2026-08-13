@@ -1,5 +1,165 @@
 [
   {
+    "id": "ibps-various-departments-recruitment-2026",
+    "slug": "ibps-various-departments-recruitment-2026",
+    "title": "IBPS Various Departments Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks & State Recruitment",
+    "state": null,
+    "totalVacancies": 20593,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 30,000 - Rs. 56,000 per month",
+    "salaryMin": 30000,
+    "salaryMax": 56000,
+    "applicationStart": "2026-08-10",
+    "applicationEnd": "2026-08-31",
+    "examDate": "2026-10-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-13T08:54:36Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) along with various departments has announced a mega recruitment drive covering 20,593 vacancies nationwide. Key state allocations include 2,005 posts in Rajasthan and 2,106 posts in Madhya Pradesh. Eligible graduates are invited to apply online through the official portal before the closing date.",
+    "highlights": [
+      "Mega drive with 20,593 total vacancies across IBPS and state departments",
+      "Rajasthan includes 2,005 vacancies; MP includes 2,106 vacancies",
+      "Bachelor's degree in any discipline required",
+      "Selection via Prelims, Mains, and Document Verification/Interview"
+    ],
+    "eligibility": "Candidates must possess a Graduation degree in any discipline from a recognized university or equivalent institute. The candidate must be aged between 20 and 30 years as of the cutoff date. Relaxation in upper age limit is applicable for SC/ST, OBC, PwD, and Ex-Servicemen as per Government of India guidelines.",
+    "howToApply": "1. Visit the official IBPS portal at www.ibps.in.\n2. Click on the recruitment notification link for various vacancies 2026.\n3. Complete the new candidate registration with basic contact details.\n4. Fill out the application form with personal, educational, and category details.\n5. Upload signature, photograph, and thumb impression as per specified formats.\n6. Pay the prescribed application fee and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Written Examination",
+      "Main Written Examination",
+      "Interview / Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are available under this notification?",
+        "answer": "A total of 20,593 vacancies have been reported across IBPS and associated departments."
+      },
+      {
+        "question": "What is the educational qualification required to apply?",
+        "answer": "Applicants must have completed a Bachelor's degree (Graduation) in any stream from a recognized university."
+      },
+      {
+        "question": "Where can candidates apply online for IBPS posts?",
+        "answer": "Candidates can register and submit their applications online on the official website www.ibps.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-10"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-10"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Graduate Jobs",
+      "Bank Recruitment 2026",
+      "Central Govt Jobs"
+    ],
+    "metaDescription": "IBPS recruitment 2026: Apply online for 20,593 vacancies across IBPS & state departments including Rajasthan & MP. Graduation required. Apply by Aug 31."
+  },
+  {
+    "id": "ibps-clerk-recruitment-crp-csa-xvi-2026",
+    "slug": "ibps-clerk-recruitment-crp-csa-xvi-2026",
+    "title": "IBPS Clerk Recruitment 2026 (CRP CSA-XVI)",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹28,000 - ₹38,000 per month (approx.)",
+    "salaryMin": 28000,
+    "salaryMax": 38000,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-21",
+    "examDate": "2026-10-01",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "https://www.ibps.in",
+    "status": "active",
+    "lastUpdated": "2026-08-13T08:55:26Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has issued the CRP CSA-XVI short notice for Clerk / Customer Service Associate positions across participating public sector banks. Interested candidates holding a bachelor's degree in any discipline can apply online starting August 1, 2026.",
+    "highlights": [
+      "CRP CSA-XVI (Clerk) recruitment short notice officially released",
+      "Online registration begins from 1 August 2026",
+      "Open to graduates in any stream from recognized universities",
+      "Two-tier online examination (Prelims & Mains) without interview"
+    ],
+    "eligibility": "Candidates must possess a Graduation Degree (Bachelor's Degree) in any discipline from a university recognized by the Government of India or an equivalent qualification. Operating and working knowledge in computer systems is mandatory (e.g., certificate/diploma/degree in computer operations or studied computer science in school/college). Proficiency in the official language of the State/UT for which application is submitted is required. The general age limit is 20 to 28 years, with standard age relaxation provided for SC/ST/OBC/PwBD categories as per government rules.",
+    "howToApply": "1. Go to the official IBPS web portal at https://www.ibps.in.\n2. Select 'CRP Clerical' and click on the 'CRP CSA-XVI Online Application' link.\n3. Click on 'New Registration' and fill in basic details to generate a Registration Number and Password.\n4. Upload required documents including photograph, signature, left thumb impression, and written declaration.\n5. Fill in personal details, educational qualifications, and bank preferences, then pay the application fee and submit.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Type Online Test)",
+      "Main Examination (Objective Type Online Test)",
+      "Document Verification & Language Proficiency Check"
+    ],
+    "faqs": [
+      {
+        "question": "When does online registration start for IBPS Clerk CRP CSA-XVI?",
+        "answer": "Online registration for IBPS Clerk 2026 starts on August 1, 2026."
+      },
+      {
+        "question": "What is the age limit for IBPS Clerk Recruitment 2026?",
+        "answer": "The age limit for general category candidates is 20 to 28 years, with relaxation applicable for reserved categories."
+      },
+      {
+        "question": "Is an interview conducted for IBPS Clerk selection?",
+        "answer": "No, there is no interview process for IBPS Clerical posts. Selection is based purely on performance in the Mains online examination."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Short Notification Released",
+        "date": "2026-07-28"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application Closing Date",
+        "date": "2026-08-21"
+      },
+      {
+        "label": "Preliminary Exam Date",
+        "date": "2026-10-01"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Clerk Recruitment",
+      "Graduate Jobs",
+      "Central Govt Jobs"
+    ],
+    "metaDescription": "IBPS Clerk Notification 2026 (CRP CSA-XVI) short notice out. Registration begins August 1. Graduate eligibility. Check dates, age limit, and apply online."
+  },
+  {
     "id": "up-cooperative-bank-exam-date-2026-postponed",
     "slug": "up-cooperative-bank-exam-date-2026-postponed",
     "title": "UP Cooperative Bank Exam Date 2026 Postponed",
