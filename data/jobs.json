@@ -1,5 +1,88 @@
 [
   {
+    "id": "sebi-grade-a-recruitment-2026",
+    "slug": "sebi-grade-a-recruitment-2026",
+    "title": "SEBI Grade A Assistant Manager 2026",
+    "organization": "Securities and Exchange Board of India",
+    "shortOrg": "SEBI",
+    "sector": "banking",
+    "subsector": "Financial Regulator",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Master's Degree",
+      "Bachelor's Degree in Law",
+      "Bachelor's Degree in Engineering",
+      "CA / CS / CFA / CMA"
+    ],
+    "ageMin": 21,
+    "ageMax": 30,
+    "salaryLabel": "₹1,49,500/month (approx. gross)",
+    "salaryMin": 44500,
+    "salaryMax": 89150,
+    "applicationStart": "2026-08-14",
+    "applicationEnd": "2026-09-15",
+    "examDate": "2026-10-18",
+    "officialUrl": "https://www.sebi.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-14T14:36:00Z",
+    "summary": "The Securities and Exchange Board of India (SEBI) has released the notification for Officer Grade A (Assistant Manager) 2026 across General, Legal, Information Technology, and other streams. Qualified graduates and postgraduates aiming for a career in financial regulation are invited to apply online.",
+    "highlights": [
+      "Recruitment for Officer Grade A (Assistant Manager) across multiple streams.",
+      "Gross salary package of approximately ₹1,49,500 per month with allowances.",
+      "Three-stage selection process: Phase I Exam, Phase II Exam, and Interview.",
+      "Upper age limit is 30 years with category-based relaxations."
+    ],
+    "eligibility": "Candidates must hold a Master's Degree in any discipline, a Bachelor's Degree in Law, Engineering, or professional qualifications like CA, CS, CFA, or CMA from a recognized university or institute depending on the stream applied for. The upper age limit is 30 years as of the cut-off date, with age relaxations applicable for SC, ST, OBC, and PwBD candidates as per Government rules.",
+    "howToApply": "1. Visit the official website of SEBI at www.sebi.gov.in and go to Careers section.\n2. Click on the apply link for 'SEBI Recruitment Exercise for Officer Grade A 2026'.\n3. Register using basic details to obtain Registration Number and Password.\n4. Complete the online application form with personal, educational, and experience details.\n5. Upload photograph, signature, thumb impression, and hand-written declaration.\n6. Pay the application fee online and download the submitted application form for future reference.",
+    "selectionProcess": [
+      "Phase I Online Examination (Objective Test)",
+      "Phase II Online Examination (Objective & Descriptive Tests)",
+      "Phase III Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the age limit for SEBI Grade A Officer 2026?",
+        "answer": "The upper age limit is 30 years for General category candidates. Relaxations apply for reserved categories (3 years for OBC, 5 years for SC/ST)."
+      },
+      {
+        "question": "What is the salary of a SEBI Grade A Assistant Manager?",
+        "answer": "The basic pay is ₹44,500 per month, and total gross emoluments are around ₹1,49,500 per month including various allowances and benefits."
+      },
+      {
+        "question": "Can final year students apply for SEBI Grade A 2026?",
+        "answer": "Candidates must possess the requisite educational qualifications on or before the cut-off date specified in the detailed notification."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-14"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-08-14"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-09-15"
+      },
+      {
+        "label": "Phase I Exam Date",
+        "date": "2026-10-18"
+      }
+    ],
+    "tags": [
+      "SEBI",
+      "Banking Jobs",
+      "Assistant Manager",
+      "Grade A",
+      "Master's Degree Jobs"
+    ],
+    "metaDescription": "SEBI Grade A 2026 recruitment released. Apply online for Officer Grade A Assistant Manager posts. Check eligibility, exam dates, and salary details."
+  },
+  {
     "id": "cnp-nashik-admit-card-2026",
     "slug": "cnp-nashik-admit-card-2026",
     "title": "CNP Nashik Admit Card 2026 Out",
