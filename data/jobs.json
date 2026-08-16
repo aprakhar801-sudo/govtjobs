@@ -1,5 +1,73 @@
 [
   {
+    "id": "nicl-assistant-exam-date-2026",
+    "slug": "nicl-assistant-exam-date-2026",
+    "title": "NICL Assistant Prelims Exam Date 2026",
+    "organization": "National Insurance Company Limited",
+    "shortOrg": "NICL",
+    "sector": "banking",
+    "subsector": "Insurance",
+    "state": null,
+    "totalVacancies": 500,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 21,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 37,000 - Rs. 45,000 per month",
+    "salaryMin": 37000,
+    "salaryMax": 45000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-08-27",
+    "officialUrl": "https://nationalinsurance.nic.co.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-16T13:56:26Z",
+    "summary": "National Insurance Company Limited (NICL) has officially announced the Prelims Exam Date for the recruitment of 500 Assistant posts. The preliminary examination is scheduled to be conducted on August 27, 2026. Candidates who applied for this recruitment can check the details and download their hall tickets from the official portal.",
+    "highlights": [
+      "500 Vacancies for Assistant Posts",
+      "Prelims Exam Scheduled for 27th August 2026",
+      "Open for Graduates in Any Stream",
+      "Selection via Prelims, Mains, and Regional Language Test"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree in any discipline from a recognized University or equivalent qualification. The candidate must be aged between 21 and 30 years. Age relaxations apply to SC/ST/OBC/PwD candidates as per Government of India guidelines. Proficiency in the regional language of the state applied for is mandatory.",
+    "howToApply": "1. Visit the official website at nationalinsurance.nic.co.in.\n2. Go to the 'Recruitment' section on the homepage.\n3. Click on 'NICL Assistant Recruitment 2026 Prelims Exam Date / Call Letter'.\n4. Enter your Registration Number and Date of Birth / Password to login.\n5. View your exam details and download the admit card for future reference.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective)",
+      "Main Examination (Objective + Descriptive)",
+      "Regional Language Test"
+    ],
+    "faqs": [
+      {
+        "question": "When is the NICL Assistant Prelims Exam 2026 scheduled?",
+        "answer": "The preliminary examination for NICL Assistant 2026 is scheduled to be held on August 27, 2026."
+      },
+      {
+        "question": "How many total vacancies are announced for NICL Assistant 2026?",
+        "answer": "A total of 500 Assistant vacancies have been announced by NICL."
+      },
+      {
+        "question": "What is the minimum qualification for NICL Assistant?",
+        "answer": "A candidate must hold a Graduate degree in any discipline from a recognized University."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Prelims Exam Date",
+        "date": "2026-08-27"
+      }
+    ],
+    "tags": [
+      "NICL",
+      "Assistant Recruitment",
+      "Banking Jobs",
+      "Exam Date",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "NICL Assistant Prelims Exam Date 2026 announced for 500 posts. Prelims exam scheduled for 27 August 2026. Check details and hall ticket updates."
+  },
+  {
     "id": "ibps-po-recruitment-2026-7565-posts",
     "slug": "ibps-po-recruitment-2026-7565-posts",
     "title": "IBPS PO Recruitment 2026",
