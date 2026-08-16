@@ -1,5 +1,85 @@
 [
   {
+    "id": "ibps-po-recruitment-2026-7565-posts",
+    "slug": "ibps-po-recruitment-2026-7565-posts",
+    "title": "IBPS PO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 7565,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "₹52,000 - ₹55,000 per month (Approx. In-Hand)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-28",
+    "examDate": "2026-10-18",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-16T07:56:59Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has announced the exam schedule and recruitment for 7,565 Probationary Officer / Management Trainee posts. Graduates from any discipline aged 20 to 30 years are eligible to apply online. Selection will be based on Prelims, Mains examination, and an Interview.",
+    "highlights": [
+      "7,565 vacancies for Probationary Officers (PO/MT) across participating banks",
+      "Graduation degree in any stream from a recognized university required",
+      "Age limit: 20 to 30 years with age relaxation for reserved categories",
+      "Three-tier selection: Prelims, Mains, and Personal Interview"
+    ],
+    "eligibility": "Candidates must hold a Graduation Degree in any discipline from a recognized University or equivalent qualification recognized as such by the Central Government. The candidate must possess valid mark-sheets/degree certificates indicating graduation pass results at the time of registration. The age of the applicant must be between 20 and 30 years. Category-based relaxation in upper age limit is applicable (5 years for SC/ST, 3 years for OBC, 10 years for PwBD).",
+    "howToApply": "1. Visit the official website at https://www.ibps.in.\n2. Click on 'CRP PO/MT' and then select 'Apply Online for CRP PO/MT'.\n3. Click on 'New Registration' and submit your basic contact details to generate Registration No. and Password.\n4. Upload scanned copies of Photograph, Signature, Left Thumb Impression, and a Handwritten Declaration.\n5. Fill in academic and personal details, select bank preferences, pay the online fee, and submit the application.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Main Examination (Objective + Descriptive Test)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the qualification required for IBPS PO 2026?",
+        "answer": "A Bachelor's degree (Graduation) in any discipline from a recognized University or equivalent qualification."
+      },
+      {
+        "question": "What is the age limit for IBPS PO recruitment?",
+        "answer": "The age limit is 20 to 30 years. Age relaxations apply for SC/ST (5 years), OBC (3 years), and PwBD (10 years) candidates."
+      },
+      {
+        "question": "Is there a negative marking in IBPS PO Prelims and Mains?",
+        "answer": "Yes, 0.25 marks are deducted as penalty for every wrong answer marked in both Prelims and Mains objective tests."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Registration Starts",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-08-28"
+      },
+      {
+        "label": "Prelims Exam Date",
+        "date": "2026-10-18"
+      },
+      {
+        "label": "Mains Exam Date",
+        "date": "2026-11-29"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "PO Recruitment",
+      "Graduate Jobs",
+      "Bank Jobs 2026"
+    ],
+    "metaDescription": "IBPS PO Recruitment 2026: Apply online for 7,565 Probationary Officer posts. Check eligibility, exam dates, salary, and apply at ibps.in."
+  },
+  {
     "id": "nicl-assistant-recruitment-2026",
     "slug": "nicl-assistant-recruitment-2026",
     "title": "NICL Assistant Recruitment 2026",
