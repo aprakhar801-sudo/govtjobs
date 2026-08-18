@@ -1,5 +1,82 @@
 [
   {
+    "id": "bob-lbo-recruitment-2026",
+    "slug": "bob-lbo-recruitment-2026",
+    "title": "BOB LBO Recruitment 2026",
+    "organization": "Bank of Baroda",
+    "shortOrg": "BOB",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 2482,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "₹48,480 - ₹85,920 (Scale I Officer)",
+    "salaryMin": 48480,
+    "salaryMax": 85920,
+    "applicationStart": "2026-08-18",
+    "applicationEnd": "2026-09-08",
+    "examDate": null,
+    "officialUrl": "https://www.bankofbaroda.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-18T14:07:43Z",
+    "summary": "Bank of Baroda has released the notification for 2,482 Local Bank Officer (LBO) vacancies in 2026. Graduates seeking a career in public sector banking can apply online through the official portal before the closing date.",
+    "highlights": [
+      "2,482 Local Bank Officer (LBO) vacancies open",
+      "Pay scale equivalent to Scale-I Officer level",
+      "Graduates in any discipline are eligible to apply",
+      "Selection includes Online Exam and Interview"
+    ],
+    "eligibility": "Candidates must possess a Graduation degree in any discipline from a recognized University or an equivalent qualification recognized by the Central Government. The candidate must be aged between 20 and 30 years as on the specified cutoff date. Age relaxation is applicable: 5 years for SC/ST, 3 years for OBC (NCL), and 10 years for PwBD candidates. Proficiency in the local language of the state applied for is required.",
+    "howToApply": "1. Visit the official website at www.bankofbaroda.in and go to the Careers page.\n2. Click on Current Openings and select 'Recruitment of Local Bank Officer 2026'.\n3. Click on 'Apply Online' and complete the new user registration.\n4. Fill in the required personal, educational, and contact details.\n5. Upload scanned copies of photograph, signature, and relevant documents.\n6. Pay the online application fee and submit the final form.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Local Language Proficiency Test",
+      "Personal Interview",
+      "Document Verification & Medical Exam"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies in BOB LBO 2026?",
+        "answer": "Bank of Baroda has announced 2,482 vacancies for Local Bank Officer (LBO) posts."
+      },
+      {
+        "question": "What is the educational qualification required for BOB LBO post?",
+        "answer": "Applicants must hold a Bachelor's degree in any discipline from a recognized university."
+      },
+      {
+        "question": "What is the age limit for Bank of Baroda LBO Recruitment 2026?",
+        "answer": "The age limit for general category candidates is 20 to 30 years, with category-wise upper age relaxation as per government regulations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-18"
+      },
+      {
+        "label": "Online Application Starts",
+        "date": "2026-08-18"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-09-08"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "BOB",
+      "Bank Jobs",
+      "Officer Recruitment",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "Bank of Baroda LBO Notification 2026 out for 2482 Local Bank Officer vacancies. Graduates aged 20-30 can apply online at bankofbaroda.in."
+  },
+  {
     "id": "mp-patwari-vacancy-2026",
     "slug": "mp-patwari-vacancy-2026",
     "title": "MP Patwari Recruitment 2026",
