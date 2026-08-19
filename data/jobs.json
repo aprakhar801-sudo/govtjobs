@@ -1,5 +1,323 @@
 [
   {
+    "id": "ibps-clerk-2026-11403-vacancies",
+    "slug": "ibps-clerk-2026-11403-vacancies",
+    "title": "IBPS Clerk Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 11403,
+    "qualifications": [
+      "Graduate (Any Discipline)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 47,920 per month",
+    "salaryMin": 19900,
+    "salaryMax": 47920,
+    "applicationStart": "2026-08-19",
+    "applicationEnd": "2026-09-12",
+    "examDate": "2026-10-10",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-19T08:05:40Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has officially released the recruitment notification for 11,403 Clerk positions in participating public sector banks. Graduates from any recognized stream aged between 20 and 28 years are eligible to apply online. The recruitment process includes Preliminary and Mains examinations with no interview stage.",
+    "highlights": [
+      "11,403 vacancies across public sector banks nationwide",
+      "Open to graduates in any discipline aged 20-28 years",
+      "Two-stage selection process: Prelims and Mains (No Interview)",
+      "Applications open online from August 2026 at ibps.in"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree (Graduation) in any discipline from a university recognized by the Government of India or an equivalent qualification. Computer literacy is essential; applicants must possess a certificate/diploma/degree in computer operations/language or have studied Computer/IT as a subject in High School/College. Candidates must also demonstrate proficiency in the official language of the State/UT for which they apply. The age limit is 20 to 28 years with standard relaxation applicable for SC/ST, OBC, PwD, and Ex-Servicemen categories.",
+    "howToApply": "1. Visit the official website of IBPS at www.ibps.in.\n2. Click on 'CRP Clerks' and select 'Apply Online for CRP-Clerks'.\n3. Complete the New Registration by entering your basic contact details.\n4. Fill in the detailed online application form, including academic qualification and state preferences.\n5. Upload scanned images of photograph, signature, left thumb impression, and hand-written declaration.\n6. Pay the prescribed application fee through online payment modes and submit the form.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Mains Examination (Objective Test)",
+      "Local Language Test & Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the educational qualification required for IBPS Clerk 2026?",
+        "answer": "A candidate must hold a valid Graduation degree in any stream from a recognized university along with basic computer knowledge."
+      },
+      {
+        "question": "Is there an interview in IBPS Clerk recruitment?",
+        "answer": "No, there is no interview stage for IBPS Clerk positions. Selection is strictly based on the performance in the Mains online examination."
+      },
+      {
+        "question": "What is the age limit for IBPS Clerk 2026?",
+        "answer": "The age limit for general category candidates is 20 to 28 years. Upper age relaxations apply for SC/ST (5 years), OBC (3 years), and PwD candidates (10 years)."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-19"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-19"
+      },
+      {
+        "label": "Application Closing Date",
+        "date": "2026-09-12"
+      },
+      {
+        "label": "Prelims Exam Date",
+        "date": "2026-10-10"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS Clerk 2026 notification released for 11,403 vacancies. Check eligibility, exam dates, salary, and apply online at ibps.in."
+  },
+  {
+    "id": "army-aoc-recruitment-2615-posts-2026",
+    "slug": "army-aoc-recruitment-2615-posts-2026",
+    "title": "Army AOC Recruitment 2026 for 2615 Posts",
+    "organization": "Army Ordnance Corps",
+    "shortOrg": "AOC",
+    "sector": "central-govt",
+    "subsector": "Indian Army",
+    "state": null,
+    "totalVacancies": 2615,
+    "qualifications": [
+      "10th Pass",
+      "12th Pass",
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 27,
+    "salaryLabel": "Rs. 18,000 - Rs. 29,200 (Pay Level 1 to 5)",
+    "salaryMin": 18000,
+    "salaryMax": 29200,
+    "applicationStart": "2026-08-19",
+    "applicationEnd": "2026-09-09",
+    "examDate": null,
+    "officialUrl": "https://aocrecruitment.gov.in",
+    "notificationUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Wa2Y2RGpqcG5vSjhfV1ZKX2N6RHpPUVlqN2xtZDNIT05sOVNCM3ZtaHlLSFVnbG9nZ1BoX2dLUjdMOWNIbWl2c2tYX2xTYnZLZkw5LURLWU8zOW0xTmdlNWpndUUyNHluN3oyN19sUFdUVHdhTXNFbTU3RDE?oc=5",
+    "status": "active",
+    "lastUpdated": "2026-08-19T08:06:19Z",
+    "summary": "Army Ordnance Corps (AOC) has announced recruitment for 2,615 vacancies including Tradesman Mate, Fireman, and Material Assistant. Candidates who have passed 10th, 12th, or Graduation are eligible to apply online. This is a great opportunity for candidates seeking a job in the Central Government Defence sector.",
+    "highlights": [
+      "2,615 vacancies across Tradesman Mate, Fireman, and Material Assistant posts",
+      "Qualifications required: 10th Pass / 12th Pass / Graduation depending on post",
+      "Pay scale ranging from Level 1 (Rs. 18,000) to Level 5 (Rs. 29,200)",
+      "Selection involves Physical Test, Written Exam, Document Verification, and Medical"
+    ],
+    "eligibility": "Candidates must have passed 10th Class (Matriculation), 12th Class, or possess a Graduate degree/Diploma from a recognized board or university based on the post applied for. The minimum age limit is 18 years, while the maximum age limit is 25 years for Tradesman Mate/Fireman posts and 27 years for Material Assistant posts as of the closing date. Upper age relaxation is admissible to reserved categories (SC/ST - 5 years, OBC - 3 years, ESM/PwD as per rules).",
+    "howToApply": "1. Visit the official AOC recruitment website at www.aocrecruitment.gov.in.\n2. Complete user registration by providing basic personal details, email ID, and mobile number.\n3. Login using your generated credentials and select the desired post.\n4. Fill out the application form with educational, physical, and personal details.\n5. Upload scanned copies of photograph, signature, 10th certificate, and photo identity card.\n6. Submit the online application form and keep a printed copy for future reference.",
+    "selectionProcess": [
+      "Physical Endurance / Measurement Test (PET/PST)",
+      "Written Examination",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "How many posts are released in Army AOC Recruitment 2026?",
+        "answer": "A total of 2,615 vacancies have been announced for various posts including Tradesman Mate, Fireman, and Material Assistant."
+      },
+      {
+        "question": "What is the minimum educational qualification required for AOC Recruitment?",
+        "answer": "Candidates who are 10th pass, 12th pass, or Graduates from a recognized board/university are eligible depending on the post."
+      },
+      {
+        "question": "Where can candidates apply online for Army AOC posts?",
+        "answer": "Eligible candidates can apply online directly through the official website: www.aocrecruitment.gov.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released Date",
+        "date": "2026-08-19"
+      },
+      {
+        "label": "Online Application Start Date",
+        "date": "2026-08-19"
+      },
+      {
+        "label": "Online Application Closing Date",
+        "date": "2026-09-09"
+      }
+    ],
+    "tags": [
+      "Army AOC",
+      "Defence Jobs",
+      "10th Pass Jobs",
+      "Central Govt Jobs",
+      "Tradesman Mate"
+    ],
+    "metaDescription": "Army AOC Recruitment 2026 notification released for 2615 Tradesman, Fireman & Assistant posts. 10th/12th/Graduates can apply online now."
+  },
+  {
+    "id": "ibps-clerk-crp-csa-xvi-recruitment-2026",
+    "slug": "ibps-clerk-crp-csa-xvi-recruitment-2026",
+    "title": "IBPS Clerk Recruitment 2026 (CRP CSA-XVI)",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹28,000 - ₹38,000 per month (Approx initial pay)",
+    "salaryMin": 28000,
+    "salaryMax": 38000,
+    "applicationStart": "2026-08-01",
+    "applicationEnd": "2026-08-21",
+    "examDate": "2026-10-01",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-19T08:08:38Z",
+    "summary": "Institute of Banking Personnel Selection (IBPS) has released the short notice for CRP CSA-XVI (Clerical / Customer Service Associate) recruitment 2026. Online applications begin on August 1, 2026 for fresh graduates seeking clerical jobs across participating public sector banks.",
+    "highlights": [
+      "CRP CSA-XVI (Clerical Cadre) short notice officially released by IBPS",
+      "Online registration begins on 1 August 2026",
+      "Educational Qualification: Bachelor's Degree in any discipline",
+      "Selection via Online Preliminary and Main Examinations"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's degree (Graduation) in any discipline from a recognized University or equivalent qualification recognized by the Central Government. Operating and working knowledge in computer systems is mandatory. Candidates must also be proficient in the official language of the State/UT for which they apply. The general age limit is 20 to 28 years with applicable upper age relaxation for reserved categories (5 years for SC/ST, 3 years for OBC, and 10 years for PwBD).",
+    "howToApply": "1. Visit the official IBPS website at www.ibps.in.\n2. Click on the link for 'CRP Clerical / CSA-XVI Apply Online'.\n3. Complete the initial registration using valid personal details, email, and mobile number.\n4. Fill in the complete application form, select bank preferences, and upload required documents.\n5. Pay the online application fee and submit the final application. Download and print the confirmation copy.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Main Examination (Objective Test)",
+      "Document Verification & Local Language Proficiency Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the qualification required for IBPS Clerk 2026?",
+        "answer": "A candidate must hold a valid Graduation degree in any stream from a recognized university."
+      },
+      {
+        "question": "When does the registration for IBPS CRP CSA-XVI start?",
+        "answer": "Online registrations begin on August 1, 2026."
+      },
+      {
+        "question": "Is there an interview stage for IBPS Clerk / CSA recruitment?",
+        "answer": "No, there is no interview round for clerical/CSA cadre posts. Selection is based purely on Main Exam performance subject to qualifying document verification."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Short Notice Release",
+        "date": "2026-07-28"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-01"
+      },
+      {
+        "label": "Application Last Date",
+        "date": "2026-08-21"
+      },
+      {
+        "label": "Prelims Examination Date",
+        "date": "2026-10-01"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "IBPS Clerk",
+      "Graduate Jobs",
+      "CRP CSA-XVI"
+    ],
+    "metaDescription": "IBPS Clerk CRP CSA-XVI Recruitment 2026 notice out. Online applications start from 1 August 2026. Check eligibility, age limit, and how to apply."
+  },
+  {
+    "id": "kea-nursing-pharmacy-officer-recruitment-2026",
+    "slug": "kea-nursing-pharmacy-officer-recruitment-2026",
+    "title": "KEA Nursing & Pharmacy Officer Recruitment 2026",
+    "organization": "Karnataka Examinations Authority",
+    "shortOrg": "KEA",
+    "sector": "state-govt",
+    "subsector": "Health & Family Welfare Department",
+    "state": "Karnataka",
+    "totalVacancies": 233,
+    "qualifications": [
+      "B.Sc Nursing",
+      "Diploma in Nursing (GNM)",
+      "B.Pharm",
+      "D.Pharm"
+    ],
+    "ageMin": 18,
+    "ageMax": 35,
+    "salaryLabel": "Rs. 35,400 - Rs. 1,12,400 per month (Level 6)",
+    "salaryMin": 35400,
+    "salaryMax": 112400,
+    "applicationStart": "2026-08-19",
+    "applicationEnd": "2026-09-18",
+    "examDate": null,
+    "officialUrl": "https://cetonline.karnataka.gov.in/kea/",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-19T08:10:26Z",
+    "summary": "Karnataka Examinations Authority (KEA) has announced the recruitment of 233 Nursing and Pharmacy Officers. Interested candidates holding relevant qualifications in nursing or pharmacy can apply online through the official portal before the closing date.",
+    "highlights": [
+      "233 Vacancies for Nursing Officer & Pharmacy Officer",
+      "Salary starting from Rs. 35,400 to Rs. 1,12,400 (Level 6)",
+      "Eligibility: B.Sc Nursing / GNM / B.Pharm / D.Pharm",
+      "Selection based on Competitive Written Test & Document Verification"
+    ],
+    "eligibility": "Candidates must have completed General Nursing and Midwifery (GNM) or B.Sc Nursing for Nursing Officer posts, or Diploma in Pharmacy (D.Pharm) / Bachelor of Pharmacy (B.Pharm) for Pharmacy Officer posts from a recognized university or institute. Registration with the Karnataka Nursing Council or Karnataka State Pharmacy Council is compulsory. The age of the candidate should be between 18 and 35 years as on the application deadline, with upper age relaxation for reserved categories (SC/ST/OBC) as per Karnataka State Government rules.",
+    "howToApply": "1. Visit the official KEA portal at cetonline.karnataka.gov.in/kea/.\n2. Click on the recruitment section and select 'Nursing & Pharmacy Officer Recruitment 2026'.\n3. Register by filling in basic personal details and mobile number.\n4. Complete the detailed application form with educational qualifications and professional registration details.\n5. Upload scanned copies of photographs, signatures, and required certificates.\n6. Pay the prescribed application fee and submit the application form.",
+    "selectionProcess": [
+      "Competitive Written Examination (Objective Test)",
+      "Document Verification",
+      "Final Merit List"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are published under KEA Recruitment 2026?",
+        "answer": "A total of 233 vacancies for Nursing Officers and Pharmacy Officers have been announced."
+      },
+      {
+        "question": "Is registration with the State Council mandatory for this recruitment?",
+        "answer": "Yes, valid registration with the Nursing Council or Pharmacy Council of Karnataka is required."
+      },
+      {
+        "question": "What is the official website for KEA recruitment online application?",
+        "answer": "Candidates can submit online applications at the official website: cetonline.karnataka.gov.in/kea/."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-19"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-19"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-18"
+      }
+    ],
+    "tags": [
+      "Karnataka",
+      "KEA",
+      "Nursing Officer",
+      "Pharmacy Officer",
+      "State Govt Jobs"
+    ],
+    "metaDescription": "KEA Nursing & Pharmacy Officer Recruitment 2026 out for 233 posts. Apply online at cetonline.karnataka.gov.in. Check eligibility and key dates."
+  },
+  {
     "id": "bob-lbo-recruitment-2026",
     "slug": "bob-lbo-recruitment-2026",
     "title": "BOB LBO Recruitment 2026",
