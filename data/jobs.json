@@ -1,5 +1,144 @@
 [
   {
+    "id": "isro-recruitment-267-posts-2026",
+    "slug": "isro-recruitment-267-posts-2026",
+    "title": "ISRO Recruitment 2026",
+    "organization": "Indian Space Research Organisation",
+    "shortOrg": "ISRO",
+    "sector": "central-govt",
+    "subsector": "Department of Space",
+    "state": null,
+    "totalVacancies": 267,
+    "qualifications": [
+      "BE/B.Tech",
+      "Diploma in Engineering",
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 35,
+    "salaryLabel": "Rs. 18,000 - Rs. 56,100 / Level 10 (7th CPC)",
+    "salaryMin": 18000,
+    "salaryMax": 56100,
+    "applicationStart": "2026-07-31",
+    "applicationEnd": "2026-08-20",
+    "examDate": null,
+    "officialUrl": "https://www.isro.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-20T08:10:20Z",
+    "summary": "Indian Space Research Organisation (ISRO) is recruiting for 267 vacancies across various Scientist/Engineer, Technical Assistant, and Administrative posts. Candidates with relevant technical or graduate qualifications should submit their online applications immediately, as today is the last date to apply.",
+    "highlights": [
+      "267 Vacancies across engineering and administrative disciplines",
+      "Today (20th August 2026) is the last date to submit online applications",
+      "Pay scale up to Pay Level 10 as per 7th CPC",
+      "Selection based on Written Test and Skill Test/Interview"
+    ],
+    "eligibility": "Candidates must possess a relevant Engineering Degree (BE/B.Tech), Diploma, or Bachelor's Degree in the specified field with minimum aggregate marks as prescribed in the detailed notification. The age limit is generally between 18 and 35 years as of the cutoff date, with standard age relaxation for reserved categories as per Government of India rules.",
+    "howToApply": "1. Visit the official ISRO portal at www.isro.gov.in.\n2. Go to the 'Careers' section and select the 267 posts recruitment notification.\n3. Complete the initial registration using valid contact details.\n4. Fill in the online application form with personal, educational, and professional details.\n5. Upload necessary documents, photo, signature, pay the application fee, and submit the form today.",
+    "selectionProcess": [
+      "Written Test / Computer Based Test (CBT)",
+      "Skill Test / Interview",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "What is the last date to apply for ISRO Recruitment 2026?",
+        "answer": "The last date to apply online for ISRO's 267 vacancies is today, August 20, 2026."
+      },
+      {
+        "question": "What qualifications are required for ISRO 267 posts?",
+        "answer": "Qualifications vary by post and include BE/B.Tech degrees, Engineering Diplomas, or Graduation degrees in relevant streams."
+      },
+      {
+        "question": "How can I submit my application for ISRO Recruitment?",
+        "answer": "You can apply online by visiting the Official ISRO website (www.isro.gov.in) under the Careers portal."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Application End Date",
+        "date": "2026-08-20"
+      }
+    ],
+    "tags": [
+      "ISRO Jobs",
+      "Central Govt",
+      "Engineering Jobs",
+      "Scientist Recruitment",
+      "2026 Jobs"
+    ],
+    "metaDescription": "ISRO Recruitment 2026: Apply online for 267 Scientist, Engineer & Technical posts. Today, Aug 20, 2026 is the last date to apply."
+  },
+  {
+    "id": "upsc-epfo-apfc-recruitment-2026",
+    "slug": "upsc-epfo-apfc-recruitment-2026",
+    "title": "UPSC EPFO APFC Recruitment 2026",
+    "organization": "Union Public Service Commission",
+    "shortOrg": "UPSC",
+    "sector": "central-govt",
+    "subsector": "Employees' Provident Fund Organisation (EPFO)",
+    "state": null,
+    "totalVacancies": 80,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 35,
+    "salaryLabel": "Pay Level 10 (Rs. 56,100 - 1,77,500)",
+    "salaryMin": 56100,
+    "salaryMax": 177500,
+    "applicationStart": "2026-08-20",
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://upsc.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-20T08:11:53Z",
+    "summary": "Union Public Service Commission (UPSC) has released a recruitment notification for 80 vacancies of Assistant Provident Fund Commissioner (APFC) in EPFO. Eligible graduates can apply online through the official UPSC portal. Selection will be based on a Written Recruitment Test followed by an Interview.",
+    "highlights": [
+      "80 vacancies for Assistant Provident Fund Commissioner (APFC)",
+      "Pay Matrix Level 10 (7th CPC Scale)",
+      "Eligibility: Bachelor's degree in any discipline",
+      "Maximum age limit: 35 years with category relaxations"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's degree in any discipline from a recognized University or Institution. Desirable qualifications include a Diploma in Company Law, Labour Laws, or Public Administration. The candidate's age must not exceed 35 years as on the closing date of application, with applicable age relaxations for SC/ST/OBC/PwBD candidates as per Government of India rules.",
+    "howToApply": "1. Visit the official UPSC Online Application Portal at upsconline.nic.in.\n2. Complete the One Time Registration (OTR) process if not registered already.\n3. Find and select the UPSC EPFO APFC Recruitment 2026 application link.\n4. Fill in personal, qualification, and contact details in Part-I and Part-II of the application.\n5. Upload scanned documents, pay the application fee, and submit the final form.",
+    "selectionProcess": [
+      "Pen & Paper / Online Recruitment Test (RT)",
+      "Interview",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are available in UPSC EPFO APFC 2026?",
+        "answer": "There are a total of 80 vacancies announced for the post of Assistant Provident Fund Commissioner (APFC)."
+      },
+      {
+        "question": "What is the maximum age limit for APFC recruitment?",
+        "answer": "The upper age limit is 35 years for General/EWS candidates, with age relaxation applicable for reserved categories."
+      },
+      {
+        "question": "What is the educational qualification required for UPSC APFC?",
+        "answer": "A candidate must hold a Graduation degree in any discipline from a recognized university."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-20"
+      }
+    ],
+    "tags": [
+      "UPSC",
+      "EPFO",
+      "APFC",
+      "Central Govt Jobs",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "UPSC EPFO APFC Notification 2026 released for 80 vacancies. Check eligibility, age limit, salary pay scale, and apply online via upsc.gov.in."
+  },
+  {
     "id": "ibps-clerk-2026-11403-vacancies",
     "slug": "ibps-clerk-2026-11403-vacancies",
     "title": "IBPS Clerk Recruitment 2026",
