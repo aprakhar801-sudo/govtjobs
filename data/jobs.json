@@ -1,5 +1,83 @@
 [
   {
+    "id": "ap-police-si-recruitment-2026",
+    "slug": "ap-police-si-recruitment-2026",
+    "title": "AP Police SI Recruitment 2026",
+    "organization": "State Level Police Recruitment Board Andhra Pradesh",
+    "shortOrg": "SLPRB AP",
+    "sector": "state-govt",
+    "subsector": "Police Department",
+    "state": "Andhra Pradesh",
+    "totalVacancies": 330,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 21,
+    "ageMax": 27,
+    "salaryLabel": "Rs. 38,890 - 1,18,250/- per month",
+    "salaryMin": 38890,
+    "salaryMax": 118250,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://slprb.ap.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-22T08:00:44Z",
+    "summary": "The State Level Police Recruitment Board, Andhra Pradesh (SLPRB AP) will soon issue a notification for 330 vacancies of Sub Inspector (SI), Reserve Sub Inspector (RSI), and other posts. Graduates meeting the physical and age criteria can apply online once the official notification is released.",
+    "highlights": [
+      "330 vacancies for Sub Inspector (SI) and Reserve Sub Inspector (RSI)",
+      "Educational Qualification: Graduation in any discipline from a recognized university",
+      "Pay Scale: Rs. 38,890 to Rs. 1,18,250/-",
+      "Selection via Prelims, Physical Test (PMT/PET), and Final Written Exam"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any stream from a recognized university. For SC/ST candidates, passing the Intermediate examination along with pursuing a degree course is required. The age limit is generally 21 to 27 years, with age relaxations applicable for BC, SC, ST, EWS, and Ex-Servicemen as per Andhra Pradesh state government rules. Candidates must also satisfy prescribed physical standard requirements.",
+    "howToApply": "1. Visit the official portal of SLPRB AP at slprb.ap.gov.in.\n2. Click on the recruitment link for AP Police SI Posts 2026.\n3. Register with basic details to obtain a Registration ID and Password.\n4. Complete the online application form with personal, educational, and physical attributes data.\n5. Upload required documents including photograph, signature, and category certificates.\n6. Pay the prescribed application fee and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Written Test (PWT)",
+      "Physical Measurements Test (PMT)",
+      "Physical Efficiency Test (PET)",
+      "Final Written Examination",
+      "Medical Examination & Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are announced for AP Police SI 2026?",
+        "answer": "Around 330 vacancies are expected for Sub Inspector (SI), Reserve Sub Inspector (RSI), and related positions."
+      },
+      {
+        "question": "What is the educational qualification required for AP Police SI?",
+        "answer": "Candidates must possess a Bachelor's Degree in any discipline from a recognized university."
+      },
+      {
+        "question": "What is the age limit for AP Police Sub Inspector recruitment?",
+        "answer": "The age limit for general category candidates is typically 21 to 27 years, with relaxations provided for reserved categories."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Official Notification Release",
+        "date": null
+      },
+      {
+        "label": "Online Application Start",
+        "date": null
+      },
+      {
+        "label": "Online Application Deadline",
+        "date": null
+      }
+    ],
+    "tags": [
+      "AP Police",
+      "Sub Inspector",
+      "Andhra Pradesh Jobs",
+      "Graduate Jobs",
+      "Police Jobs"
+    ],
+    "metaDescription": "AP Police SI Recruitment 2026 notification out soon for 330 SI and RSI posts. Check eligibility, age limit, selection process, and application details."
+  },
+  {
     "id": "rbi-grade-a-2026",
     "slug": "rbi-grade-a-2026",
     "title": "RBI Grade A Officer Recruitment 2026",
