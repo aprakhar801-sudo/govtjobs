@@ -1,5 +1,78 @@
 [
   {
+    "id": "pnb-lbo-exam-date-2026",
+    "slug": "pnb-lbo-exam-date-2026",
+    "title": "PNB Local Bank Officer Exam 2026",
+    "organization": "Punjab National Bank",
+    "shortOrg": "PNB",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 545,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840 per month",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-09-20",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-23T08:00:08Z",
+    "summary": "IBPS has announced the exam schedule for PNB Local Bank Officer (LBO) recruitment drive covering 545 posts. Candidates who submitted their online applications can now check the exam dates and details.",
+    "highlights": [
+      "Recruitment for 545 Local Bank Officer posts in PNB",
+      "Exam scheduled and organized by IBPS",
+      "Pay scale equivalent to Officer Scale-I",
+      "Admit cards to be released shorty on official IBPS portal"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University or equivalent qualification recognized by the Central Government. Proficiency in the local language of the specified state/UT is mandatory. Candidates should be between 20 and 30 years of age with standard upper age relaxations for reserved categories (SC/ST/OBC/PwD/Ex-Servicemen).",
+    "howToApply": "1. Visit the official IBPS portal (www.ibps.in) or PNB official website.\n2. Go to the recruitment section for Local Bank Officer (LBO) 2026.\n3. Click on the exam date and schedule notification link.\n4. Log in using your Registration Number and Password/Date of Birth to download your admit card once available.\n5. Verify exam center details and print out the hall ticket for examination day.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Local Language Proficiency Test",
+      "Personal Interview",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are released for PNB LBO Recruitment 2026?",
+        "answer": "A total of 545 vacancies have been announced for the PNB Local Bank Officer (LBO) recruitment."
+      },
+      {
+        "question": "Which agency is conducting the PNB LBO Exam 2026?",
+        "answer": "The Institute of Banking Personnel Selection (IBPS) is conducting the examination on behalf of Punjab National Bank."
+      },
+      {
+        "question": "Is local language test mandatory for PNB LBO?",
+        "answer": "Yes, candidates must possess reading, writing, and speaking proficiency in the local language of the state they have applied for."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Exam Schedule Released",
+        "date": "2026-08-23"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-09-20"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "PNB",
+      "Local Bank Officer",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "PNB LBO Exam Date 2026 announced for 545 Local Bank Officer posts. Check the online exam schedule, syllabus, and admit card updates at IBPS."
+  },
+  {
     "id": "sahitya-akademi-recruitment-30-posts-2026",
     "slug": "sahitya-akademi-recruitment-30-posts-2026",
     "title": "Sahitya Akademi Recruitment 2026",
