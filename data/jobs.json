@@ -1,5 +1,78 @@
 [
   {
+    "id": "iob-local-bank-officer-recruitment-2026",
+    "slug": "iob-local-bank-officer-recruitment-2026",
+    "title": "IOB Local Bank Officer Recruitment 2026",
+    "organization": "Indian Overseas Bank",
+    "shortOrg": "IOB",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Scale-I Officer Pay Scale (Approx. ₹36,000 - ₹63,840 Basic)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-08-04",
+    "applicationEnd": "2026-08-24",
+    "examDate": null,
+    "officialUrl": "https://www.iob.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-24T08:13:29Z",
+    "summary": "Indian Overseas Bank (IOB) has announced recruitment for Local Bank Officer (LBO) posts. Candidates holding a recognized Bachelor's degree are eligible to apply. Today, 24th August 2026, is the last date to complete the online application process.",
+    "highlights": [
+      "Post: Local Bank Officer (LBO)",
+      "Application deadline is today, 24 August 2026",
+      "Eligibility: Graduation in any discipline",
+      "Selection via Online Exam, Local Language Test & Interview"
+    ],
+    "eligibility": "Candidates must have completed a Bachelor's Degree in any discipline from a recognized University or equivalent qualification recognized by the Central Government. The age limit for applicants is 20 to 30 years as of the cutoff date. Upper age limit relaxations apply for reserved categories (SC/ST/OBC/PwBD) per government regulations.",
+    "howToApply": "1. Visit the official Indian Overseas Bank careers portal at www.iob.in.\n2. Locate and click on the 'Recruitment of Local Bank Officers 2026' link.\n3. Complete the online registration form with basic details.\n4. Upload required documents including photograph, signature, and educational certificates.\n5. Pay the prescribed application fee and submit the form before today's deadline.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Local Language Proficiency Test",
+      "Personal Interview",
+      "Document Verification & Medical Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the last date to apply for IOB Local Bank Officer 2026?",
+        "answer": "The online application portal closes today, 24th August 2026."
+      },
+      {
+        "question": "What qualification is required for IOB Local Bank Officer recruitment?",
+        "answer": "A Bachelor's degree in any discipline from a recognized university is required."
+      },
+      {
+        "question": "What is the age limit for IOB LBO posts?",
+        "answer": "The minimum age is 20 years and the maximum age is 30 years, with category-wise relaxations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Application Start",
+        "date": "2026-08-04"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-08-24"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IOB",
+      "Local Bank Officer",
+      "Graduate Jobs",
+      "IBPS"
+    ],
+    "metaDescription": "IOB Local Bank Officer Recruitment 2026 out! Apply online for Local Bank Officer posts before the deadline on 24th August 2026. Check eligibility & details."
+  },
+  {
     "id": "pnb-lbo-exam-date-2026",
     "slug": "pnb-lbo-exam-date-2026",
     "title": "PNB Local Bank Officer Exam 2026",
