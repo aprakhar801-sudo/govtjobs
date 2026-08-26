@@ -1,5 +1,85 @@
 [
   {
+    "id": "concor-management-trainee-assistant-officer-2026",
+    "slug": "concor-management-trainee-assistant-officer-2026",
+    "title": "CONCOR MT & Assistant Officer Recruitment 2026",
+    "organization": "Container Corporation of India Limited",
+    "shortOrg": "CONCOR",
+    "sector": "banking",
+    "subsector": "Public Sector Undertaking",
+    "state": null,
+    "totalVacancies": 77,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "B.E. / B.Tech",
+      "MBA / PGDM",
+      "CA / CMA"
+    ],
+    "ageMin": 18,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 40,000 - 1,40,000/- per month",
+    "salaryMin": 40000,
+    "salaryMax": 140000,
+    "applicationStart": "2026-08-31",
+    "applicationEnd": "2026-09-30",
+    "examDate": null,
+    "officialUrl": "https://concorindia.co.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-26T14:15:12Z",
+    "summary": "Container Corporation of India Limited (CONCOR) has released a recruitment notification for 77 Management Trainee and Assistant Officer posts. Online registration opens on 31st August 2026. Eligible graduates and professional degree holders are encouraged to apply online before the deadline.",
+    "highlights": [
+      "77 Vacancies for Management Trainee & Assistant Officer posts",
+      "Online application starts on 31 August 2026",
+      "Attractive pay scale under IDA pattern (up to Rs. 1,40,000/month)",
+      "Selection based on Computer Based Test (CBT) and Interview"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree, B.E./B.Tech, MBA/PGDM, or CA/CMA from a recognized University or Institute depending on the specific post. The general age limit is 18 to 28 years, with standard age relaxation applicable for reserved categories (SC/ST/OBC/PwBD/Ex-Servicemen) as per Government of India guidelines.",
+    "howToApply": "1. Visit the official CONCOR website at concorindia.co.in.\n2. Go to the 'HR & Careers' or 'Recruitment' section.\n3. Click on the link for 'Recruitment of Management Trainee & Assistant Officer 2026'.\n4. Complete the online registration process with required basic details.\n5. Fill out the detailed application form, upload mandatory documents, pay the application fee, and submit.",
+    "selectionProcess": [
+      "Computer Based Test (CBT)",
+      "Group Discussion / Personal Interview",
+      "Document Verification",
+      "Pre-Employment Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "When can I apply for CONCOR Recruitment 2026?",
+        "answer": "The online application window opens on 31st August 2026."
+      },
+      {
+        "question": "How many vacancies are available in CONCOR Recruitment 2026?",
+        "answer": "There are a total of 77 vacancies announced for Management Trainee and Assistant Officer posts."
+      },
+      {
+        "question": "What is the qualification required for CONCOR MT & Assistant Officer?",
+        "answer": "Depending on the post, candidates require a Relevant Bachelor's Degree, B.E./B.Tech, MBA, or CA/CMA from a recognized institution."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-26"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-30"
+      }
+    ],
+    "tags": [
+      "CONCOR Recruitment",
+      "Management Trainee",
+      "Assistant Officer",
+      "PSU Jobs",
+      "Government Jobs 2026"
+    ],
+    "metaDescription": "CONCOR Recruitment 2026: Apply online for 77 Management Trainee & Assistant Officer vacancies starting 31 Aug. Check eligibility & details."
+  },
+  {
     "id": "concor-mt-assistant-officer-recruitment-2026",
     "slug": "concor-mt-assistant-officer-recruitment-2026",
     "title": "CONCOR MT & Assistant Officer Recruitment 2026",
