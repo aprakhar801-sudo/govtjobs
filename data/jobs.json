@@ -1,5 +1,85 @@
 [
   {
+    "id": "concor-mt-assistant-officer-recruitment-2026",
+    "slug": "concor-mt-assistant-officer-recruitment-2026",
+    "title": "CONCOR MT & Assistant Officer Recruitment 2026",
+    "organization": "Container Corporation of India Limited",
+    "shortOrg": "CONCOR",
+    "sector": "banking",
+    "subsector": "Logistics & Public Sector Undertaking",
+    "state": null,
+    "totalVacancies": 77,
+    "qualifications": [
+      "BE/B.Tech",
+      "MBA/PGDM",
+      "CA/CMA",
+      "Graduate"
+    ],
+    "ageMin": 18,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 40,000 - Rs. 1,40,000/- per month",
+    "salaryMin": 40000,
+    "salaryMax": 140000,
+    "applicationStart": "2026-08-31",
+    "applicationEnd": "2026-09-30",
+    "examDate": null,
+    "officialUrl": "https://concorindia.co.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-26T08:15:11Z",
+    "summary": "Container Corporation of India Limited (CONCOR) has announced 77 vacancies for Management Trainee and Assistant Officer posts. Candidates holding relevant engineering, management, or professional degrees can submit online applications starting 31 August 2026.",
+    "highlights": [
+      "77 vacancies advertised for Management Trainee & Assistant Officer posts",
+      "Online registration begins on 31st August 2026",
+      "Attractive pay scale under central public sector undertaking norms",
+      "Selection through Computer Based Test (CBT) and Personal Interview"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in Engineering (B.E./B.Tech), MBA/PGDM, CA/CMA, or equivalent degree from a recognized University/Institute. The maximum age limit is typically 28 years for Management Trainee posts and 30 years for Assistant Officer posts, with relaxation applicable for reserved category candidates as per Government rules.",
+    "howToApply": "1. Visit the official CONCOR website at concorindia.co.in.\n2. Go to the 'HR & Careers' section and click on the Recruitment Link for MT & Assistant Officer 2026.\n3. Register with your basic details to obtain a Registration ID and Password.\n4. Fill in the online application form with personal, educational, and experience details.\n5. Upload necessary documents including photo, signature, and educational certificates.\n6. Pay the online application fee and submit the final application.",
+    "selectionProcess": [
+      "Computer Based Online Test (CBT)",
+      "Document Verification",
+      "Personal Interview",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "When does the online application process start for CONCOR Recruitment 2026?",
+        "answer": "The online application window opens on 31st August 2026."
+      },
+      {
+        "question": "How many vacancies are available in CONCOR Recruitment 2026?",
+        "answer": "A total of 77 vacancies are available across Management Trainee and Assistant Officer positions."
+      },
+      {
+        "question": "What is the qualification required for CONCOR MT and Assistant Officer posts?",
+        "answer": "Applicants need a B.E./B.Tech, MBA/PGDM, CA/CMA, or relevant graduation degree from a recognized university."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Release Date",
+        "date": "2026-08-26"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-30"
+      }
+    ],
+    "tags": [
+      "CONCOR",
+      "Management Trainee",
+      "Assistant Officer",
+      "PSU Jobs",
+      "Engineering Jobs"
+    ],
+    "metaDescription": "CONCOR Recruitment 2026: Apply online for 77 Management Trainee & Assistant Officer posts starting 31 August 2026. Check eligibility and application link."
+  },
+  {
     "id": "iob-local-bank-officer-recruitment-2026",
     "slug": "iob-local-bank-officer-recruitment-2026",
     "title": "IOB Local Bank Officer Recruitment 2026",
