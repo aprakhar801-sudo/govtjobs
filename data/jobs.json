@@ -1,5 +1,84 @@
 [
   {
+    "id": "iob-so-recruitment-2026",
+    "slug": "iob-so-recruitment-2026",
+    "title": "IOB Specialist Officer Recruitment 2026",
+    "organization": "Indian Overseas Bank",
+    "shortOrg": "IOB",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "B.E. / B.Tech",
+      "CA / CMA",
+      "MBA / PGDM",
+      "LL.B."
+    ],
+    "ageMin": 21,
+    "ageMax": 35,
+    "salaryLabel": "Scale I / Scale II / Scale III as per BPS",
+    "salaryMin": 36000,
+    "salaryMax": 89890,
+    "applicationStart": "2026-08-28",
+    "applicationEnd": "2026-09-18",
+    "examDate": null,
+    "officialUrl": "https://www.iob.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-28T19:35:24Z",
+    "summary": "Indian Overseas Bank (IOB) has released the recruitment notification for Specialist Officers (SO) across multiple disciplines including IT, Credit, Law, and Risk Management. Interested professional degree holders can apply online through the official portal before the closing date.",
+    "highlights": [
+      "Recruitment for Specialist Officer (SO) posts across various scales",
+      "Selection through Online Exam followed by Personal Interview",
+      "Opportunities for IT, Credit, Risk, and Legal specialists",
+      "Online application period starts from August 2026"
+    ],
+    "eligibility": "Candidates must possess a relevant professional degree such as B.E./B.Tech (IT/CS), CA/CMA, MBA (Finance), or LL.B. from a recognized university. Post-qualification work experience may be required depending on the scale and discipline. Age limit is typically 21 to 35 years, with relaxations applicable for SC/ST/OBC/PwBD candidates.",
+    "howToApply": "1. Visit the official website www.iob.in and navigate to the Careers section.\n2. Click on the Specialist Officer Recruitment 2026 application link.\n3. Complete the initial registration to receive registration credentials.\n4. Fill in qualification, personal, and professional details in the online form.\n5. Upload scanned photo, signature, and necessary certificates, then pay the application fee.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Personal Interview",
+      "Document Verification & Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "What is the educational qualification for IOB SO Recruitment 2026?",
+        "answer": "Qualifications vary by discipline and include B.E./B.Tech in IT/CS, Chartered Accountant (CA/CMA), MBA in Finance, or LL.B. from a recognized institution."
+      },
+      {
+        "question": "How can I apply for Indian Overseas Bank SO 2026?",
+        "answer": "Applications must be submitted online through the official Indian Overseas Bank careers portal at www.iob.in."
+      },
+      {
+        "question": "What is the age limit for IOB Specialist Officer posts?",
+        "answer": "The age limit generally ranges between 21 and 35 years as of the cut-off date, with age relaxation for reserved categories as per government rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-28"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-08-28"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-09-18"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IOB Recruitment",
+      "Specialist Officer",
+      "Bank SO 2026",
+      "Professional Jobs"
+    ],
+    "metaDescription": "IOB SO Recruitment 2026 notification released. Apply online for Specialist Officer posts. Check eligibility, salary, dates, and application process."
+  },
+  {
     "id": "india-post-gds-recruitment-2026",
     "slug": "india-post-gds-recruitment-2026",
     "title": "India Post GDS Recruitment 2026",
