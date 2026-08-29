@@ -1,5 +1,79 @@
 [
   {
+    "id": "sahitya-akademi-recruitment-2026",
+    "slug": "sahitya-akademi-recruitment-2026",
+    "title": "Sahitya Akademi Recruitment 2026",
+    "organization": "Sahitya Akademi",
+    "shortOrg": "Sahitya Akademi",
+    "sector": "central-govt",
+    "subsector": "Ministry of Culture",
+    "state": null,
+    "totalVacancies": 30,
+    "qualifications": [
+      "10th Pass",
+      "12th Pass",
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 35,
+    "salaryLabel": "Pay Level 2 to Level 11 (As per 7th CPC)",
+    "salaryMin": 19900,
+    "salaryMax": 67700,
+    "applicationStart": "2026-08-29",
+    "applicationEnd": "2026-09-28",
+    "examDate": null,
+    "officialUrl": "https://sahitya-akademi.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-29T13:23:15Z",
+    "summary": "Sahitya Akademi has announced recruitment for 30 vacancies across various administrative and technical posts. Interested candidates meeting the educational and age requirements can download the prescribed application format from sahitya-akademi.gov.in and apply offline.",
+    "highlights": [
+      "30 posts available across administrative and technical cadres.",
+      "Offline application process through registered/speed post.",
+      "Salary structured as per the 7th Central Pay Commission rules.",
+      "Positions open for 10th Pass, 12th Pass, and Graduates."
+    ],
+    "eligibility": "Candidates must possess educational qualifications ranging from 10th Standard pass, 12th Pass, or a Bachelor's Degree from a recognized institution depending on the post applied for. The candidate's age must be between 18 and 35 years. Age relaxation is applicable for SC/ST/OBC/PwD and Ex-Servicemen as per Central Government regulations.",
+    "howToApply": "1. Visit the official Sahitya Akademi portal at sahitya-akademi.gov.in.\n2. Navigate to the Vacancies/Recruitment section and open the official notification.\n3. Download and print the prescribed offline application form.\n4. Complete the application form with accurate personal and qualification details.\n5. Attach self-attested copies of requisite certificates and send via speed post to the designated Sahitya Akademi office address.",
+    "selectionProcess": [
+      "Screening of Applications",
+      "Written Test / Skill Test",
+      "Interview (where applicable)"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are available in Sahitya Akademi Recruitment 2026?",
+        "answer": "A total of 30 vacancies have been released for various posts."
+      },
+      {
+        "question": "What is the mode of application for Sahitya Akademi Recruitment?",
+        "answer": "The application mode is offline. Candidates must send the filled application form along with relevant documents via post."
+      },
+      {
+        "question": "Where can I download the Sahitya Akademi application form?",
+        "answer": "You can download the application form from the official website at sahitya-akademi.gov.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Date",
+        "date": "2026-08-29"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-28"
+      }
+    ],
+    "tags": [
+      "Sahitya Akademi",
+      "Central Govt Jobs",
+      "30 Vacancies",
+      "Offline Application",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "Sahitya Akademi Recruitment 2026: Apply offline for 30 vacancies. Check eligibility, salary, application form, and how to apply at sahitya-akademi.gov.in."
+  },
+  {
     "id": "sbi-clerk-recruitment-2026",
     "slug": "sbi-clerk-recruitment-2026",
     "title": "SBI Clerk (Junior Associate) 2026",
