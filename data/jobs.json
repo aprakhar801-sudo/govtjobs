@@ -1,5 +1,80 @@
 [
   {
+    "id": "ibps-rrb-clerk-2026",
+    "slug": "ibps-rrb-clerk-2026",
+    "title": "IBPS RRB Clerk 2026 Recruitment",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks (RRBs)",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Bachelor's Degree (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 35,000 per month",
+    "salaryMin": 19900,
+    "salaryMax": 35000,
+    "applicationStart": "2026-09-01",
+    "applicationEnd": "2026-09-21",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-08-31T07:13:00Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has announced the registration for IBPS RRB Office Assistant (Clerk) 2026 beginning September 1, 2026. Eligible graduates looking for a banking career in Regional Rural Banks across India can submit their online application before the deadline.",
+    "highlights": [
+      "Online registration begins on September 1, 2026",
+      "Eligibility: Graduation in any discipline from a recognized university",
+      "Age limit: 18 to 28 years (relaxation for reserved categories)",
+      "Selection based on Prelims and Mains examination (No Interview)"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized University or equivalent qualification. Proficiency in the local language prescribed by the participating Regional Rural Bank (RRB) is essential. Computer knowledge is desirable. The age of the candidate must be between 18 and 28 years, with standard age relaxations for SC/ST, OBC, and PwBD categories.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on the CRP RRBs section and select 'Apply Online for Office Assistant (Multipurpose)'.\n3. Click on 'Click here for New Registration' and enter basic details to get Registration No. and Password.\n4. Upload scanned photograph, signature, left thumb impression, and handwritten declaration.\n5. Fill in academic credentials, select preferred RRBs, pay the application fee online, and submit the final application.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Type)",
+      "Main Examination (Objective Type)"
+    ],
+    "faqs": [
+      {
+        "question": "When does the registration for IBPS RRB Clerk 2026 start?",
+        "answer": "Online registration for IBPS RRB Clerk 2026 commences on September 1, 2026."
+      },
+      {
+        "question": "Is there an interview for IBPS RRB Clerk / Office Assistant?",
+        "answer": "No, there is no interview process for the Office Assistant (Clerk) post. Final selection depends solely on the Mains Examination scores."
+      },
+      {
+        "question": "What is the age limit for IBPS RRB Clerk 2026?",
+        "answer": "Candidates must be between 18 and 28 years of age. Upper age relaxation applies to reserved category candidates."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Application Start",
+        "date": "2026-09-01"
+      },
+      {
+        "label": "Application End",
+        "date": "2026-09-21"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "RRB Clerk",
+      "Graduate Jobs",
+      "Office Assistant"
+    ],
+    "metaDescription": "IBPS RRB Clerk 2026 registration starts Sept 1. Graduates aged 18-28 can apply online. Check eligibility, dates, and application steps for IBPS RRB OA."
+  },
+  {
     "id": "sahitya-akademi-recruitment-2026",
     "slug": "sahitya-akademi-recruitment-2026",
     "title": "Sahitya Akademi Recruitment 2026",
