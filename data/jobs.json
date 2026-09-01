@@ -1,5 +1,85 @@
 [
   {
+    "id": "ibps-recruitment-13706-vacancies-2026",
+    "slug": "ibps-recruitment-13706-vacancies-2026",
+    "title": "IBPS Bank Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector & Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 13706,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "₹24,050 - ₹50,000 per month",
+    "salaryMin": 24050,
+    "salaryMax": 50000,
+    "applicationStart": "2026-09-01",
+    "applicationEnd": "2026-09-30",
+    "examDate": "2026-11-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-01T17:26:45Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has opened applications for 13,706 bank vacancies across participating public sector and regional rural banks. Eligible graduates can apply online starting today with initial pay beginning at ₹24,050 per month. Candidates seeking a career in public sector banking are encouraged to apply before the deadline.",
+    "highlights": [
+      "13,706 total vacancies announced across participating banks",
+      "Starting pay from ₹24,050 per month plus standard allowances",
+      "Open to graduates in any discipline from a recognized university",
+      "Selection via Online Preliminary and Main Examinations"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's degree (Graduation) in any discipline from a university recognized by the Government of India or an equivalent qualification. Computer literacy and proficiency in the official language of the state/UT preferred are generally required. The age limit is between 20 and 30 years as of the eligibility cutoff date, with standard age relaxations for SC/ST, OBC, PwD, and Ex-Servicemen categories as per central government norms.",
+    "howToApply": "1. Visit the official IBPS portal at www.ibps.in.\n2. Click on the registration link for the current recruitment drive.\n3. Complete the basic registration form to generate your Provisional Registration Number and Password.\n4. Upload scanned images of your photograph, signature, left thumb impression, and handwritten declaration.\n5. Fill in personal, educational, and bank preference details, pay the required application fee online, and submit the final form.",
+    "selectionProcess": [
+      "Preliminary Online Examination",
+      "Main Online Examination",
+      "Interview / Document Verification (depending on post scale)"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are open under IBPS Recruitment 2026?",
+        "answer": "A total of 13,706 vacancies have been announced across participating banking institutions."
+      },
+      {
+        "question": "What is the minimum educational qualification required?",
+        "answer": "A Bachelor's degree (Graduation) in any stream from a recognized university or equivalent is required."
+      },
+      {
+        "question": "What is the starting salary for these positions?",
+        "answer": "The basic pay scale starts at ₹24,050 per month, plus applicable allowances like DA, HRA, and CCA."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-01"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-09-01"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-11-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Bank Jobs",
+      "Graduate Jobs",
+      "PO & Clerk Recruitment"
+    ],
+    "metaDescription": "IBPS Bank Recruitment 2026: Apply online for 13,706 bank vacancies starting today. Pay starts at ₹24,050/month. Eligibility, registration details here."
+  },
+  {
     "id": "ibps-rrb-recruitment-13706-posts-2026",
     "slug": "ibps-rrb-recruitment-13706-posts-2026",
     "title": "IBPS RRB 2026 Recruitment",
