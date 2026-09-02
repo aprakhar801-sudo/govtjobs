@@ -1,5 +1,394 @@
 [
   {
+    "id": "ibps-rrb-officer-scale-1-2-3-recruitment-2026",
+    "slug": "ibps-rrb-officer-scale-1-2-3-recruitment-2026",
+    "title": "IBPS RRB Officer Scale I, II & III 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 13706,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "Bachelor's Degree in relevant discipline for Scale II/III"
+    ],
+    "ageMin": 18,
+    "ageMax": 40,
+    "salaryLabel": "₹36,000 - ₹89,000 per month",
+    "salaryMin": 36000,
+    "salaryMax": 89000,
+    "applicationStart": "2026-09-02",
+    "applicationEnd": "2026-09-23",
+    "examDate": "2026-11-01",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-02T12:15:59Z",
+    "summary": "Institute of Banking Personnel Selection (IBPS) has released the recruitment notification for 13,706 Officer Scale I (PO), Scale II, and Scale III posts across Regional Rural Banks in India. Graduates and candidates with specialized degrees in relevant domains are eligible to apply. Selection will be based on written examinations followed by an interview.",
+    "highlights": [
+      "13,706 vacancies released for PO (Scale I) and Specialist/Manager Posts (Scale II & III).",
+      "Graduation in any stream required for Officer Scale I (PO).",
+      "Pay scale ranges from ₹36,000 to ₹89,000 per month plus applicable allowances.",
+      "Selection involves Prelims, Mains/Single Exam, and Personal Interview."
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized university to apply for Officer Scale I (PO). For Officer Scale II & III posts, specific educational backgrounds (such as Agriculture, Law, IT, Finance) along with relevant post-qualification work experience are required. The age criteria as of notification date: 18–30 years for Officer Scale I, 21–32 years for Officer Scale II, and 21–40 years for Officer Scale III. Standard age relaxations apply for SC, ST, OBC, and PwD candidates as per Government norms.",
+    "howToApply": "1. Go to the official website of IBPS at www.ibps.in.\n2. Click on 'CRP RRBs' and open the link for 'Apply Online for CRP RRBs - XV (Officers Scale I, II, III)'.\n3. Click on 'Click here for New Registration' and enter basic details to generate your Registration Number and Password.\n4. Upload scanned copies of your photo, signature, left thumb impression, and handwritten declaration.\n5. Fill in personal, educational, and bank preference details, pay the required application fee online, and submit the application form.",
+    "selectionProcess": [
+      "Preliminary Examination (for Scale I)",
+      "Main Examination / Single Online Exam (Scale II & III)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are available in IBPS RRB 2026 recruitment?",
+        "answer": "A total of 13,706 vacancies have been announced for Officer Scale I, Officer Scale II, and Officer Scale III posts."
+      },
+      {
+        "question": "Can final year students apply for IBPS RRB PO 2026?",
+        "answer": "Candidates must possess the requisite educational qualification on or before the specified cutoff date mentioned in the official notification."
+      },
+      {
+        "question": "Is there negative marking in the IBPS RRB online examination?",
+        "answer": "Yes, 0.25 marks will be deducted as a penalty for every incorrect answer in both Preliminary and Main/Single examinations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-09-23"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-11-01"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "IBPS RRB",
+      "PO Recruitment",
+      "Officer Scale 1",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS RRB Notification 2026 out for 13,706 PO & Officer Scale 2/3 posts. Check eligibility, salary, exam date, and apply online at ibps.in."
+  },
+  {
+    "id": "ibps-so-technical-officer-recruitment-2026",
+    "slug": "ibps-so-technical-officer-recruitment-2026",
+    "title": "IBPS SO Technical Officer Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "B.E. / B.Tech (CS / IT / ECE / EEE)",
+      "MCA",
+      "M.Sc (Computer Science / IT)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840 (Scale I)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-02T12:16:50Z",
+    "summary": "IBPS has announced the recruitment drive for Specialist Officers (SO) Technical / IT Officer posts in participating public sector banks for 2026. Eligible engineering and computer science graduates can apply online at ibps.in.",
+    "highlights": [
+      "Recruitment for Scale-I Technical / Specialist Officer posts across participating PSBs",
+      "4-year Degree in Engineering or Post-Graduation in Computer Applications/IT required",
+      "Selection through Prelims, Mains (Professional Knowledge), and Interview",
+      "Pay scale starting at basic pay Rs. 36,000 plus applicable allowances"
+    ],
+    "eligibility": "Candidates must hold a 4-year Engineering/Technology degree in Computer Science, Computer Applications, Information Technology, Electronics, Telecommunications, Electronics & Communication, or Electronics & Instrumentation, OR a Post Graduate Degree in M.Sc (Computer Science/IT) or MCA from a recognized university. Age must be between 20 and 30 years. Age relaxations apply for SC/ST/OBC/PwD candidates as per government rules.",
+    "howToApply": "1. Visit the official portal at www.ibps.in.\n2. Click on 'CRP Specialist Officers' on the homepage.\n3. Click 'Click here for New Registration' and register basic details.\n4. Complete the application form with professional and academic details.\n5. Upload photograph, signature, thumb impression, and handwritten declaration.\n6. Pay the prescribed application fee and submit the application form.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective Test)",
+      "Main Examination (Professional Knowledge)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the age limit for IBPS SO Technical Officer 2026?",
+        "answer": "The age limit for candidates is 20 to 30 years. Reserved category candidates get upper age relaxation per Government rules."
+      },
+      {
+        "question": "What educational qualifications are required?",
+        "answer": "Candidates must have a 4-year B.E./B.Tech degree in relevant technical branches, or an M.Sc (CS/IT), or an MCA degree."
+      },
+      {
+        "question": "Is there negative marking in the IBPS SO exam?",
+        "answer": "Yes, 0.25 marks (1/4th of the marks assigned to the question) will be deducted for each incorrect answer."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Announcement",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Application Start Date",
+        "date": null
+      },
+      {
+        "label": "Application Deadline",
+        "date": null
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Specialist Officer",
+      "Technical Officer",
+      "Engineering Jobs"
+    ],
+    "metaDescription": "IBPS SO Technical Officer Recruitment 2026 notification released. Check eligibility, qualifications, salary, age limit, and application process at ibps.in."
+  },
+  {
+    "id": "ibps-rrb-po-vacancy-2026",
+    "slug": "ibps-rrb-po-vacancy-2026",
+    "title": "IBPS RRB PO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 4256,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840 (Pay Scale)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-09-02",
+    "applicationEnd": "2026-09-22",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-02T12:19:12Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has announced 4,256 vacancies for Officer Scale-I (PO) posts across Regional Rural Banks in India. Graduates from any recognized university are eligible to apply online. Selection involves Preliminary Exam, Main Exam, and Interview stages.",
+    "highlights": [
+      "4,256 Officer Scale-I (PO) vacancies announced across state-wise RRBs",
+      "Open to graduates in any discipline from a recognized university",
+      "Age limit: 18 to 30 years with age relaxation for reserved categories",
+      "Three-tier selection: Prelims Exam, Mains Exam, and Personal Interview"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized University or equivalent. Knowledge of the local language of the state for which the applicant is applying is preferred. Candidates must be between 18 and 30 years of age. Upper age relaxations apply: 5 years for SC/ST, 3 years for OBC, and 10 years for PwBD candidates.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on the 'CRP RRBs' link and choose the Officer Scale-I application portal.\n3. Complete the basic registration by entering candidate name and contact details.\n4. Upload scanned photo, signature, left thumb impression, and hand-written declaration.\n5. Fill in qualifications, post preferences, and pay the online application fee to complete submission.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are released for IBPS RRB PO 2026?",
+        "answer": "IBPS has announced a total of 4,256 vacancies for Officer Scale-I (PO) posts across Regional Rural Banks."
+      },
+      {
+        "question": "What is the educational qualification required for IBPS RRB PO?",
+        "answer": "Candidates must hold a Bachelor's Degree in any discipline from a recognized university."
+      },
+      {
+        "question": "What is the age limit for IBPS RRB Officer Scale-I?",
+        "answer": "The age limit is 18 to 30 years. Standard upper age relaxations apply for SC, ST, OBC, and PwBD categories."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-22"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "IBPS RRB",
+      "PO Recruitment",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS RRB PO Vacancy 2026: Apply online for 4,256 Officer Scale-I posts. Check eligibility, state-wise details, age limit & application deadline."
+  },
+  {
+    "id": "ibps-bank-recruitment-13706-vacancies-2026",
+    "slug": "ibps-bank-recruitment-13706-vacancies-2026",
+    "title": "IBPS Bank Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 13706,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 30,
+    "salaryLabel": "₹24,050 starting basic pay",
+    "salaryMin": 24050,
+    "salaryMax": 45000,
+    "applicationStart": "2026-09-02",
+    "applicationEnd": "2026-09-23",
+    "examDate": "2026-10-25",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-02T12:21:56Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has opened online applications for 13,706 bank vacancies across India. Candidates holding a graduation degree in any stream are eligible to apply. The starting basic pay scale begins at ₹24,050 per month plus allowances.",
+    "highlights": [
+      "13,706 vacancies open across participating public sector banks",
+      "Starting basic pay from ₹24,050 per month plus allowances",
+      "Eligibility requires a graduation degree in any discipline",
+      "Online registration opens on September 2, 2026"
+    ],
+    "eligibility": "Candidates must hold a Graduation degree in any discipline from a recognized university or an equivalent qualification recognized by the Central Government. The candidate's age must be between 18 and 30 years as of the notification date. Age relaxations apply per government norms (5 years for SC/ST, 3 years for OBC, and 10 years for PwD). Basic computer operation knowledge and proficiency in the local language of the applied state/UT are desirable.",
+    "howToApply": "1. Go to the official IBPS portal at https://www.ibps.in.\n2. Click on the registration link for the current recruitment drive.\n3. Complete the provisional registration using basic details.\n4. Upload scanned copies of your photo, signature, left thumb impression, and handwritten declaration.\n5. Fill out the application form, pay the requisite fee online, and submit.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are available under IBPS Recruitment 2026?",
+        "answer": "A total of 13,706 vacancies have been announced across participating banks."
+      },
+      {
+        "question": "What is the minimum educational qualification required to apply?",
+        "answer": "Candidates must possess a Bachelor's degree (Graduation) in any discipline from a recognized university."
+      },
+      {
+        "question": "What is the starting salary for these positions?",
+        "answer": "The starting basic pay is ₹24,050 per month, supplemented by DA, HRA, and other allowances."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-23"
+      },
+      {
+        "label": "Preliminary Exam Date",
+        "date": "2026-10-25"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Bank Jobs",
+      "Graduate Jobs",
+      "Recruitment 2026"
+    ],
+    "metaDescription": "IBPS Recruitment 2026: Apply online for 13,706 bank vacancies starting at ₹24,050 pay. Graduates eligible. Check details & apply by Sep 23, 2026."
+  },
+  {
+    "id": "ibps-rrb-officers-office-assistants-recruitment-2026",
+    "slug": "ibps-rrb-officers-office-assistants-recruitment-2026",
+    "title": "IBPS RRB Recruitment 2026: Apply Online for 13,000+ Officers & Office Assistant Posts",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 13000,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 40,
+    "salaryLabel": "₹19,900 - ₹89,000 per month (as per post)",
+    "salaryMin": 19900,
+    "salaryMax": 89000,
+    "applicationStart": "2026-09-02",
+    "applicationEnd": "2026-09-23",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-02T12:22:46Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has commenced registrations for over 13,000 vacancies across Regional Rural Banks nationwide. Posts include Group A Officers (Scale I, II, III) and Group B Office Assistants (Multipurpose). Eligible graduates can submit their online applications through the official IBPS portal.",
+    "highlights": [
+      "Over 13,000 total vacancies across participating Regional Rural Banks (RRBs).",
+      "Open for both fresh graduates (Office Assistant/Scale I) and experienced professionals (Scale II/III).",
+      "Comprehensive recruitment covering Group A Officers and Group B Office Assistants.",
+      "Pan-India postings based on selected RRB preferences."
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized university. For Office Assistant (Multipurpose) and Officer Scale I, age limit ranges from 18 to 28/30 years, whereas higher Officer scales allow up to 40 years. Proficiency in the local language of the applying state/RRB is mandatory. Standard age relaxations apply for reserved category candidates.",
+    "howToApply": "1. Visit the official IBPS website at ibps.in.\n2. Click on the CRP RRBs tab on the homepage.\n3. Choose the appropriate application link (Office Assistant or Officer Scale I/II/III).\n4. Complete the new registration process with primary details.\n5. Fill in detailed qualifications, upload documents, pay the application fee online, and submit.",
+    "selectionProcess": [
+      "Preliminary Examination (for Office Assistant & Officer Scale I)",
+      "Main / Single Examination",
+      "Personal Interview (For Group A Officer posts only)",
+      "Document Verification & Local Language Test"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are announced in IBPS RRB 2026?",
+        "answer": "Over 13,000 posts have been announced across Group A (Officers) and Group B (Office Assistants)."
+      },
+      {
+        "question": "Is there an interview stage for IBPS RRB Office Assistant post?",
+        "answer": "No, there is no interview for Group B Office Assistant (Multipurpose) posts. Selection is based on Main Exam scores."
+      },
+      {
+        "question": "Can I apply for both Office Assistant and Officer posts?",
+        "answer": "Yes, candidates can apply for the Office Assistant (Multipurpose) post as well as one post in the Officer cadre (Scale I, II, or III)."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Registration Begins",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-09-23"
+      }
+    ],
+    "tags": [
+      "IBPS RRB",
+      "Banking Jobs",
+      "Office Assistant",
+      "Bank Officer",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS RRB 2026 notification released for 13,000+ Group A Officers & Group B Office Assistant posts. Apply online at ibps.in for bank job vacancies."
+  },
+  {
     "id": "ibps-rrb-recruitment-13706-vacancies-2026",
     "slug": "ibps-rrb-recruitment-13706-vacancies-2026",
     "title": "IBPS RRB Recruitment 2026",
