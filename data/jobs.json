@@ -1,5 +1,86 @@
 [
   {
+    "id": "ibps-rrb-agriculture-officer-recruitment-2026",
+    "slug": "ibps-rrb-agriculture-officer-recruitment-2026",
+    "title": "IBPS RRB Agriculture Officer Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Bachelor's Degree in Agriculture / Horticulture / Dairy / Veterinary Science / Forestry / Agri Engineering"
+    ],
+    "ageMin": 21,
+    "ageMax": 32,
+    "salaryLabel": "Rs. 48,000 - Rs. 63,000 per month (Scale-II)",
+    "salaryMin": 48000,
+    "salaryMax": 63000,
+    "applicationStart": "2026-09-02",
+    "applicationEnd": "2026-09-23",
+    "examDate": "2026-11-14",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-02T17:25:59Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has announced recruitment for Agriculture Officers (Officer Scale-II) in Regional Rural Banks across India. Candidates with a relevant degree in Agriculture or allied subjects and required experience can apply online. Selection will be based on a single online exam followed by an interview process.",
+    "highlights": [
+      "Position: Agriculture Officer (Scale II - Specialist Officer)",
+      "Educational Qualification: Degree in Agriculture or allied subjects with 50% marks",
+      "Experience Required: Minimum 2 years in relevant field",
+      "Selection via Single Online Examination and Interview"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's degree in Agriculture, Horticulture, Dairy, Animal Husbandry, Forestry, Veterinary Science, Agricultural Engineering, or Pisciculture from a recognized university with a minimum of 50% marks in aggregate. Additionally, applicants must have at least 2 years of work experience in a relevant field. The age limit is between 21 and 32 years, with standard age relaxation applicable for SC/ST/OBC/PwBD categories as per government norms.",
+    "howToApply": "1. Visit the official website of IBPS at https://www.ibps.in.\n2. Click on 'CRP RRBs' and select the link for RRB Officer Scale-II.\n3. Complete the New Registration by entering basic contact details.\n4. Fill out the application form with personal, educational, and experience details.\n5. Upload scanned photos, signature, thumb impression, and handwritten declaration.\n6. Pay the required application fee online and submit the application form.\n7. Download and print the final confirmation page for future reference.",
+    "selectionProcess": [
+      "Single Online Examination (Professional Knowledge & Aptitude)",
+      "Personal Interview",
+      "Document Verification & Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "What is the qualification required for IBPS RRB Agriculture Officer?",
+        "answer": "Candidates must hold a Bachelor's degree in Agriculture or allied disciplines with at least 50% aggregate marks and have 2 years of experience."
+      },
+      {
+        "question": "Is work experience mandatory for this post?",
+        "answer": "Yes, a minimum of 2 years of relevant experience in farming/agriculture or banking is required for Officer Scale-II (Agriculture Officer)."
+      },
+      {
+        "question": "What is the age limit for IBPS RRB Agriculture Officer 2026?",
+        "answer": "The minimum age is 21 years and the maximum age is 32 years. Reserved categories receive upper age relaxation as per government regulations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-09-02"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-09-23"
+      },
+      {
+        "label": "Online Exam Date",
+        "date": "2026-11-14"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "IBPS RRB",
+      "Agriculture Officer",
+      "Graduate Jobs",
+      "Officer Scale II"
+    ],
+    "metaDescription": "IBPS RRB Agriculture Officer Recruitment 2026 notification out. Check eligibility, degree requirements, age limit, selection process, and apply online."
+  },
+  {
     "id": "ibps-rrb-officer-scale-1-2-3-recruitment-2026",
     "slug": "ibps-rrb-officer-scale-1-2-3-recruitment-2026",
     "title": "IBPS RRB Officer Scale I, II & III 2026",
