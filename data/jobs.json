@@ -1,5 +1,86 @@
 [
   {
+    "id": "ibps-rrb-notification-13706-vacancies-2026",
+    "slug": "ibps-rrb-notification-13706-vacancies-2026",
+    "title": "IBPS RRB Recruitment 2026 (13,706 Posts)",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 13706,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 40,
+    "salaryLabel": "₹19,900 - ₹89,800 per month (varies by post)",
+    "salaryMin": 19900,
+    "salaryMax": 89800,
+    "applicationStart": "2026-09-01",
+    "applicationEnd": "2026-09-21",
+    "examDate": "2026-11-01",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-10T06:13:18Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has announced a mega recruitment drive with 13,706 vacancies across participating Regional Rural Banks. Positions include Office Assistant (Multipurpose) and Officer Scale I, II, and III. Eligible graduates can submit their online applications starting September 1, 2026.",
+    "highlights": [
+      "13,706 vacancies across Regional Rural Banks in India",
+      "Positions include Office Assistant (Clerk) and Officer Scale I, II, & III",
+      "Online applications start on September 1, 2026",
+      "Selection via Prelims, Mains, and Interview (for Officers)"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree in any discipline from a recognized university. Proficiency in the local language of the concerned RRB is essential. Age criteria vary by post: Office Assistant (18-28 years), Officer Scale I (18-30 years), Officer Scale II (21-32 years), and Officer Scale III (21-40 years). Standard age relaxations apply for reserved categories (SC/ST: 5 years, OBC: 3 years, PwBD: 10 years).",
+    "howToApply": "1. Visit the official website at www.ibps.in.\n2. Click on the 'CRP RRBs' link on the homepage.\n3. Select the application link for IBPS RRB Recruitment 2026.\n4. Complete the new candidate registration and note down your credentials.\n5. Upload necessary documents (photo, signature, thumb impression, declaration) and submit the application fee online.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination / Single Online Exam",
+      "Personal Interview (Officer Scale I, II, III)"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are announced in IBPS RRB 2026?",
+        "answer": "IBPS has announced a total of 13,706 vacancies for Office Assistant and Officer posts in 2026."
+      },
+      {
+        "question": "What is the educational qualification required for Office Assistant?",
+        "answer": "A candidate must hold a Bachelor's degree in any discipline from a recognized university and have proficiency in the local language of the state applied for."
+      },
+      {
+        "question": "When does the application process start for IBPS RRB 2026?",
+        "answer": "The online application window opens on September 1, 2026."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "Application Start",
+        "date": "2026-09-01"
+      },
+      {
+        "label": "Application End",
+        "date": "2026-09-21"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-11-01"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "IBPS RRB",
+      "Graduate Jobs",
+      "Bank PO",
+      "Bank Clerk"
+    ],
+    "metaDescription": "IBPS RRB Notification 2026 out for 13,706 Office Assistant & Officer posts. Apply online from Sept 1. Check eligibility, age limit, and selection process."
+  },
+  {
     "id": "ibps-rrb-clerk-vacancy-2026",
     "slug": "ibps-rrb-clerk-vacancy-2026",
     "title": "IBPS RRB Clerk Recruitment 2026",
