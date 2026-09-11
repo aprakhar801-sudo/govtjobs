@@ -1,5 +1,72 @@
 [
   {
+    "id": "upsc-epfo-apply-online-2026",
+    "slug": "upsc-epfo-apply-online-2026",
+    "title": "UPSC EPFO Recruitment 2026",
+    "organization": "Union Public Service Commission",
+    "shortOrg": "UPSC",
+    "sector": "central-govt",
+    "subsector": "Employees' Provident Fund Organisation (EPFO)",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 35,
+    "salaryLabel": "Level 8 / Level 10 Pay Matrix (7th CPC)",
+    "salaryMin": 47600,
+    "salaryMax": 151100,
+    "applicationStart": null,
+    "applicationEnd": "2026-09-11",
+    "examDate": null,
+    "officialUrl": "https://upsc.gov.in",
+    "notificationUrl": "https://upsconline.nic.in",
+    "status": "active",
+    "lastUpdated": "2026-09-11T06:18:27Z",
+    "summary": "Union Public Service Commission (UPSC) is closing the online application portal today for EPFO Enforcement Officer, Accounts Officer, and APFC posts. Eligible candidates with a bachelor's degree must complete their submission before the deadline. Apply immediately via upsconline.nic.in.",
+    "highlights": [
+      "Today (11th September 2026) is the last date to apply online",
+      "Recruitment for Enforcement Officer (EO), Accounts Officer (AO), and APFC posts",
+      "Educational Qualification: Bachelor's Degree in any discipline",
+      "Attractive pay scale under 7th CPC (Pay Level 8 and Level 10)"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University or Institute. The upper age limit is generally 30 years for Enforcement Officer/Accounts Officer posts and 35 years for Assistant Provident Fund Commissioner (APFC) posts, with relaxations applicable for reserved categories (SC/ST/OBC/PwBD) per Central Government rules. Applicants must be Indian citizens.",
+    "howToApply": "1. Visit the official UPSC application portal at upsconline.nic.in.\n2. Complete One-Time Registration (OTR) if you haven't already.\n3. Log in and select the UPSC EPFO Recruitment 2026 application link.\n4. Fill in personal, educational, and experience details accurately.\n5. Upload scanned photos, signature, and ID proof, pay the application fee, and submit before today's deadline.",
+    "selectionProcess": [
+      "Pen and Paper Recruitment Test (RT)",
+      "Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the last date to apply for UPSC EPFO 2026?",
+        "answer": "The last date to apply online for UPSC EPFO recruitment is today, September 11, 2026."
+      },
+      {
+        "question": "What qualification is required for UPSC EPFO recruitment?",
+        "answer": "A candidate must possess a Graduation degree in any subject from a recognized university."
+      },
+      {
+        "question": "Where can I fill out the UPSC EPFO application form?",
+        "answer": "Applications must be submitted online on the official UPSC portal at upsconline.nic.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Application Deadline",
+        "date": "2026-09-11"
+      }
+    ],
+    "tags": [
+      "UPSC",
+      "EPFO",
+      "Central Govt Jobs",
+      "Graduate Jobs",
+      "Enforcement Officer"
+    ],
+    "metaDescription": "UPSC EPFO Recruitment 2026: Today is the last date to apply online for EO/AO & APFC posts. Graduate candidates can apply now at upsconline.nic.in."
+  },
+  {
     "id": "upsssc-senior-instructor-recruitment-2026",
     "slug": "upsssc-senior-instructor-recruitment-2026",
     "title": "UPSSSC Senior Instructor Recruitment 2026",
