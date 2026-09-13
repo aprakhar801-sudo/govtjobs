@@ -1,5 +1,82 @@
 [
   {
+    "id": "psssb-clerk-recruitment-2026",
+    "slug": "psssb-clerk-recruitment-2026",
+    "title": "PSSSB Clerk Recruitment 2026",
+    "organization": "Punjab Subordinate Services Selection Board",
+    "shortOrg": "PSSSB",
+    "sector": "state-govt",
+    "subsector": "Department of Personnel",
+    "state": "Punjab",
+    "totalVacancies": 531,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "Computer Certificate / O Level"
+    ],
+    "ageMin": 18,
+    "ageMax": 37,
+    "salaryLabel": "Rs. 19,900 (Level 2 initial pay)",
+    "salaryMin": 19900,
+    "salaryMax": 63200,
+    "applicationStart": "2026-09-10",
+    "applicationEnd": "2026-10-10",
+    "examDate": null,
+    "officialUrl": "https://sssb.punjab.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-13T17:04:00Z",
+    "summary": "Punjab Subordinate Services Selection Board (PSSSB) has officially released the recruitment notification for 531 Clerk posts. Graduates with computer literacy and knowledge of Punjabi language at the matriculation level are eligible to apply online before the closing date. This is an excellent opportunity for job seekers looking for government administration jobs in Punjab.",
+    "highlights": [
+      "531 Clerk vacancies in various Punjab Government departments",
+      "Eligibility: Graduation in any discipline with a valid computer course certificate",
+      "Mandatory requirement of Punjabi at 10th standard level",
+      "Age Limit: 18 to 37 years with state-mandated relaxations"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized university. Additionally, applicants must have completed a 120-hour ISO-certified computer course or possess an 'O' level certificate from NIELIT/DOEACC. Passing Matriculation (10th standard) with Punjabi as a compulsory or elective subject is mandatory. The age limit for general category candidates is 18 to 37 years as of the cutoff date, with upper age relaxation applicable for SC/ST/BC categories as per Punjab state rules.",
+    "howToApply": "1. Visit the official PSSSB portal at sssb.punjab.gov.in.\n2. Navigate to the 'Online Applications' tab on the homepage.\n3. Click on 'Apply Online for Clerk Recruitment 2026' and complete your registration.\n4. Fill in all personal, educational, and contact details carefully.\n5. Upload scanned copies of required documents, photo, and signature.\n6. Pay the prescribed application fee and submit your final application.",
+    "selectionProcess": [
+      "Written Competitive Examination",
+      "Punjabi & English Typing Test",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are announced in PSSSB Clerk 2026?",
+        "answer": "A total of 531 vacancies have been announced for the Clerk post in PSSSB Recruitment 2026."
+      },
+      {
+        "question": "Is Punjabi subject compulsory for PSSSB Clerk application?",
+        "answer": "Yes, candidates must have passed 10th standard (Matriculation) with Punjabi as a compulsory or elective subject."
+      },
+      {
+        "question": "What is the age limit for PSSSB Clerk recruitment?",
+        "answer": "The age limit for general candidates is 18 to 37 years, with relaxations for SC, ST, and BC candidates of Punjab."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-10"
+      },
+      {
+        "label": "Online Application Start Date",
+        "date": "2026-09-10"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-10-10"
+      }
+    ],
+    "tags": [
+      "PSSSB",
+      "Clerk",
+      "Punjab Govt Jobs",
+      "Graduate Jobs",
+      "State Recruitment"
+    ],
+    "metaDescription": "PSSSB Clerk Recruitment 2026: Apply online for 531 Clerk vacancies in Punjab. Check eligibility, age limit, salary, and deadline at sssb.punjab.gov.in."
+  },
+  {
     "id": "bob-lbo-notification-2026",
     "slug": "bob-lbo-notification-2026",
     "title": "BOB Local Bank Officer (LBO) Recruitment 2026",
