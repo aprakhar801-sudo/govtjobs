@@ -1,5 +1,75 @@
 [
   {
+    "id": "upcisb-je-assistant-manager-admit-card-2026",
+    "slug": "upcisb-je-assistant-manager-admit-card-2026",
+    "title": "UPCISB JE, Assistant & Manager Recruitment 2026",
+    "organization": "Uttar Pradesh Co-operative Institutional Service Board",
+    "shortOrg": "UPCISB",
+    "sector": "banking",
+    "subsector": "Co-operative Banking",
+    "state": "Uttar Pradesh",
+    "totalVacancies": 0,
+    "qualifications": [
+      "Diploma / Degree in Engineering",
+      "Graduate (Any Stream)",
+      "Post Graduate / MBA"
+    ],
+    "ageMin": 21,
+    "ageMax": 40,
+    "salaryLabel": "Rs. 25,000 - 80,000/- per month",
+    "salaryMin": 25000,
+    "salaryMax": 80000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://upsevamandal.org",
+    "notificationUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxd2UyRnZyOEVrMVdPZUhLUmpKNFA4dktydmtWTmJ4eHg4S2I3X09hdzJCOWFQWHdDMFJrYTNDdjRmbmp2STFlLXVic0hMSTZ3MzJ0NlBOX1k5TkM1NmkwQ053?oc=5",
+    "status": "active",
+    "lastUpdated": "2026-09-15T17:47:50Z",
+    "summary": "The Uttar Pradesh Co-operative Institutional Service Board (UPCISB) has released the admit card for Junior Engineer, Assistant, and Manager positions. Candidates who applied for these posts can now log in using their registration credentials to download their hall tickets.",
+    "highlights": [
+      "UPCISB Admit Card 2026 officially released for JE, Assistant, and Manager posts",
+      "Hall ticket available via IBPS / UPCISB login portal",
+      "Requires Registration Number and Date of Birth / Password to download",
+      "Must carry printed admit card along with valid photo ID proof to the exam center"
+    ],
+    "eligibility": "Candidates who possess a Diploma/B.E./B.Tech in Engineering (for JE), Graduation in any stream (for Assistant), or Post Graduation/MBA (for Managerial posts) from a recognized institute and fall within the 21 to 40 age bracket were eligible to apply.",
+    "howToApply": "1. Visit the official UPCISB candidate portal or IBPS exam portal link.\n2. Locate and click on the 'Download UPCISB Call Letter 2026' link.\n3. Enter your Registration Number/Roll Number and Password/Date of Birth.\n4. Complete the security captcha verification and click submit.\n5. Download and print a clear copy of your admit card for exam entry.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Document Verification",
+      "Personal Interview (if applicable for Manager posts)"
+    ],
+    "faqs": [
+      {
+        "question": "How do I download the UPCISB Admit Card 2026?",
+        "answer": "You can download your admit card by visiting the official UPCISB portal, logging in with your Registration Number and Password/Date of Birth, and clicking on the download call letter link."
+      },
+      {
+        "question": "What items are required at the UPCISB exam hall?",
+        "answer": "Candidates must bring a printed copy of the UPCISB Admit Card, an original photo ID card (Aadhaar, PAN Card, Voter ID, Passport, etc.), and recent passport-size photographs."
+      },
+      {
+        "question": "What posts are included in this UPCISB examination?",
+        "answer": "This exam is conducted for Junior Engineer (JE), Assistant, and Manager posts in various Co-operative institutions across Uttar Pradesh."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Admit Card Released Date",
+        "date": "2026-09-15"
+      }
+    ],
+    "tags": [
+      "UPCISB",
+      "Admit Card",
+      "Banking Jobs",
+      "UP Government Jobs",
+      "IBPS"
+    ],
+    "metaDescription": "UPCISB Admit Card 2026 out for JE, Assistant, and Manager posts. Download your hall ticket using your registration details now."
+  },
+  {
     "id": "appsc-analyst-grade-2-recruitment-2026",
     "slug": "appsc-analyst-grade-2-recruitment-2026",
     "title": "APPSC Analyst Grade 2 Recruitment 2026",
