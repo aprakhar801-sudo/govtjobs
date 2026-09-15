@@ -1,5 +1,81 @@
 [
   {
+    "id": "ibps-rrb-law-officer- recruitment-2026",
+    "slug": "ibps-rrb-law-officer-recruitment-2026",
+    "title": "IBPS RRB Law Officer 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 46,
+    "qualifications": [
+      "LLB (Law Degree)"
+    ],
+    "ageMin": 21,
+    "ageMax": 32,
+    "salaryLabel": "Rs. 48,170 - 69,810 (Scale II)",
+    "salaryMin": 48170,
+    "salaryMax": 69810,
+    "applicationStart": "2026-09-01",
+    "applicationEnd": "2026-09-21",
+    "examDate": "2026-10-18",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-15T06:19:49Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has officially released the recruitment notification for 46 Law Officer (Officer Scale-II) posts in Regional Rural Banks. Qualified law graduates with relevant experience can apply online through the official portal until September 21, 2026.",
+    "highlights": [
+      "46 Law Officer (Scale II) vacancies announced across participating RRBs",
+      "Educational requirement: Degree in Law (LLB) with minimum 50% marks",
+      "Requires 2 years of professional experience as an Advocate or Law Officer",
+      "Online registration link is active until September 21, 2026"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in Law (LLB) or equivalent from a recognized University with a minimum of 50% aggregate marks. Applicants must also have at least 2 years of experience as an Advocate or as a Law Officer in Banks or Financial Institutions. The candidate's age must be between 21 and 32 years. Category-wise age relaxations apply as per Government rules.",
+    "howToApply": "1. Visit the official IBPS portal at ibps.in.\n2. Click on the 'CRP RRBs' option on the home page.\n3. Click on 'Apply Online for Officer Scale II (Law Officer)'.\n4. Complete the new registration by entering basic contact details.\n5. Fill in detailed academic and experience details, upload documents, pay the application fee, and submit the form.",
+    "selectionProcess": [
+      "Single Online Written Examination (Professional Knowledge)",
+      "Personal Interview",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the last date to apply for IBPS RRB Law Officer 2026?",
+        "answer": "The online application deadline for IBPS RRB Law Officer is September 21, 2026."
+      },
+      {
+        "question": "What is the educational qualification needed for IBPS RRB Law Officer?",
+        "answer": "Candidates need an LLB degree with at least 50% aggregate marks along with 2 years of legal work experience."
+      },
+      {
+        "question": "What is the age limit for IBPS RRB Law Officer (Scale II)?",
+        "answer": "The age limit is 21 to 32 years, with standard age relaxations for SC/ST/OBC/PwD candidates."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Application Start Date",
+        "date": "2026-09-01"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-09-21"
+      },
+      {
+        "label": "Online Examination Date",
+        "date": "2026-10-18"
+      }
+    ],
+    "tags": [
+      "IBPS RRB",
+      "Law Officer",
+      "Banking Jobs",
+      "LLB Jobs",
+      "Officer Scale II"
+    ],
+    "metaDescription": "IBPS RRB Law Officer Recruitment 2026 for 46 posts. Law graduates with 2 years experience apply online at ibps.in before Sep 21, 2026."
+  },
+  {
     "id": "psssb-clerk-recruitment-2026",
     "slug": "psssb-clerk-recruitment-2026",
     "title": "PSSSB Clerk Recruitment 2026",
