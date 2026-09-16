@@ -1,5 +1,81 @@
 [
   {
+    "id": "uksssc-scaler-group-c-recruitment-2026",
+    "slug": "uksssc-scaler-group-c-recruitment-2026",
+    "title": "UKSSSC Scaler Recruitment 2026",
+    "organization": "Uttarakhand Subordinate Service Selection Commission",
+    "shortOrg": "UKSSSC",
+    "sector": "state-govt",
+    "subsector": "Forest Department",
+    "state": "Uttarakhand",
+    "totalVacancies": 200,
+    "qualifications": [
+      "12th Pass (Science/Maths)"
+    ],
+    "ageMin": 18,
+    "ageMax": 28,
+    "salaryLabel": "Pay Level 2 (Rs. 19,900 - 63,200)",
+    "salaryMin": 19900,
+    "salaryMax": 63200,
+    "applicationStart": "2026-09-16",
+    "applicationEnd": "2026-10-16",
+    "examDate": null,
+    "officialUrl": "https://sssc.uk.gov.in",
+    "notificationUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdW9lY3dudW9rcm5jSVBoaGsya0pma2YyLVI4M1RBWW9JVWFFMzVRSzl2czNHUlc0Wm4yaERLQTZ2eGFuVzVlMWpwa3lVM3lPVHotckdJVGNUWG1ONExScDQ0X3lySFVBRXRjaTN5Mmh0bm51ZGEyN0FWUmlYd3M?oc=5",
+    "status": "active",
+    "lastUpdated": "2026-09-16T12:49:12Z",
+    "summary": "Uttarakhand Subordinate Service Selection Commission (UKSSSC) has released a recruitment notification for 200 Group C Scaler posts. Eligible candidates who have passed 12th standard with Science or Mathematics can apply online through the official portal.",
+    "highlights": [
+      "200 vacancies for Scaler (Group C) posts in Uttarakhand",
+      "Educational Qualification: Intermediate (12th Pass) with Science or Maths",
+      "Pay Level 2 (Rs. 19,900 to Rs. 63,200)",
+      "Selection via Written Exam followed by Physical Efficiency Test"
+    ],
+    "eligibility": "Candidates must have passed 10+2 (Intermediate) with Science or Mathematics from a recognized board. The age limit is set between 18 and 28 years as on the cut-off date. Upper age relaxation applies to reserved category candidates from Uttarakhand as per state government rules.",
+    "howToApply": "1. Visit the official website at sssc.uk.gov.in.\n2. Complete the One Time Registration (OTR) profile if not already registered.\n3. Locate the recruitment advertisement for Scaler (Group C) posts.\n4. Fill in the online application form carefully with required details.\n5. Upload necessary certificates, photo, and signature, pay the fee, and submit.",
+    "selectionProcess": [
+      "Written Examination (Objective / OMR / CBT)",
+      "Physical Standard Test (PST) & Physical Efficiency Test (PET)",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the qualification required for UKSSSC Scaler post?",
+        "answer": "Candidates must have passed 12th standard (Intermediate) with Science or Mathematics subjects."
+      },
+      {
+        "question": "How many vacancies are available in UKSSSC Scaler Recruitment 2026?",
+        "answer": "There are a total of 200 vacancies announced for the Scaler post."
+      },
+      {
+        "question": "What is the age limit for UKSSSC Scaler recruitment?",
+        "answer": "The minimum age is 18 years and the maximum age limit is generally 28 years, with age relaxations applicable as per Uttarakhand government rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-16"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-09-16"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-10-16"
+      }
+    ],
+    "tags": [
+      "UKSSSC",
+      "Uttarakhand Jobs",
+      "Scaler Recruitment",
+      "Group C Jobs",
+      "12th Pass Jobs"
+    ],
+    "metaDescription": "UKSSSC Recruitment 2026: Apply online for 200 Scaler (Group C) vacancies. Check eligibility, age limit, salary, and application process."
+  },
+  {
     "id": "upcisb-je-assistant-manager-admit-card-2026",
     "slug": "upcisb-je-assistant-manager-admit-card-2026",
     "title": "UPCISB JE, Assistant & Manager Recruitment 2026",
