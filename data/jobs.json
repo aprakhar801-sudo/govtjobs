@@ -1,5 +1,77 @@
 [
   {
+    "id": "ibps-po-prelims-result-2026",
+    "slug": "ibps-po-prelims-result-2026",
+    "title": "IBPS PO Prelims Result 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 52,000 - Rs. 55,000 per month",
+    "salaryMin": 52000,
+    "salaryMax": 55000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-10-18",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-26T12:24:10Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has officially declared the Prelims Result for PO/MT recruitment 2026. Candidates who appeared for the preliminary examination can now check their qualifying status on ibps.in using their login credentials. Qualified candidates will be called to appear for the upcoming Mains Examination.",
+    "highlights": [
+      "IBPS PO Prelims Result 2026 announced on ibps.in",
+      "Candidates qualified in Prelims can sit for the Mains exam",
+      "Scorecard and cutoff details released along with results",
+      "Call letters for IBPS PO Mains Exam to be available shortly"
+    ],
+    "eligibility": "Candidates holding a Bachelor's degree in any discipline from a recognized University/Institution are eligible for the IBPS PO recruitment. The age limit is 20 to 30 years, with relaxation applicable for SC/ST/OBC/PwBD candidates according to government norms.",
+    "howToApply": "1. Visit the official website of IBPS at www.ibps.in.\n2. Click on the link for 'IBPS PO/MT Prelims Result 2026'.\n3. Enter your Registration Number/Roll Number and Password/Date of Birth.\n4. Solve the captcha and click on 'Submit'.\n5. Your result status will be displayed on the screen; print a copy for future reference.",
+    "selectionProcess": [
+      "Preliminary Examination (Qualifying)",
+      "Mains Examination",
+      "Interview Round"
+    ],
+    "faqs": [
+      {
+        "question": "How can I check my IBPS PO Prelims Result 2026?",
+        "answer": "You can check your result by logging into the official IBPS portal (ibps.in) using your Registration/Roll number and Password/DOB."
+      },
+      {
+        "question": "Are IBPS PO Prelims marks added to the final merit list?",
+        "answer": "No, the Preliminary Examination is purely qualifying in nature. Final selection is based on marks scored in Mains and Interview."
+      },
+      {
+        "question": "When will the IBPS PO Mains Admit Card be released?",
+        "answer": "The Mains call letter is usually made available 7 to 10 days prior to the Mains exam date on ibps.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Prelims Result Date",
+        "date": "2026-09-26"
+      },
+      {
+        "label": "Mains Exam Date",
+        "date": "2026-10-18"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "IBPS PO Result",
+      "Prelims Result",
+      "Graduates Jobs"
+    ],
+    "metaDescription": "IBPS PO Prelims Result 2026 is out at ibps.in. Check your qualifying status, cut-off marks, and IBPS PO Mains exam schedule."
+  },
+  {
     "id": "ibps-hindi-officer-2026",
     "slug": "ibps-hindi-officer-2026",
     "title": "IBPS Hindi Officer Recruitment 2026",
