@@ -1,5 +1,230 @@
 [
   {
+    "id": "bgssl-recruitment-2026",
+    "slug": "bgssl-recruitment-2026",
+    "title": "BGSSL Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection / BGSSL",
+    "shortOrg": "BGSSL",
+    "sector": "banking",
+    "subsector": "Public Sector / Banking",
+    "state": null,
+    "totalVacancies": 2049,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "Diploma / B.E. / B.Tech"
+    ],
+    "ageMin": 18,
+    "ageMax": 30,
+    "salaryLabel": "₹25,000 - ₹80,000 per month",
+    "salaryMin": 25000,
+    "salaryMax": 80000,
+    "applicationStart": "2026-09-30",
+    "applicationEnd": "2026-10-30",
+    "examDate": "2026-11-20",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-30T07:01:54Z",
+    "summary": "BGSSL has announced recruitment for 2,049 posts through IBPS for the 2026 drive. Eligible candidates can register online on the official website. Ensure you review the age, qualification, and key application deadlines before applying.",
+    "highlights": [
+      "Total of 2049 vacancies across various cadres",
+      "Application process conducted online via IBPS",
+      "Competitive salary with allowance as per norms",
+      "Selection through written exam followed by document verification"
+    ],
+    "eligibility": "Candidates applying for BGSSL Recruitment 2026 must hold a Graduation degree, Diploma, or B.E./B.Tech in relevant disciplines from a recognized board or university. Candidates must be aged between 18 and 30 years as of the cutoff date. Relaxations in upper age limit apply for SC/ST/OBC/PwBD candidates per government guidelines.",
+    "howToApply": "1. Go to the official IBPS portal at www.ibps.in.\n2. Locate and click on the BGSSL 2026 Online Application link.\n3. Complete the preliminary registration to obtain your registration number and password.\n4. Fill in personal, educational, and experience details in the form.\n5. Upload scanned photos, signature, and necessary documents.\n6. Pay the prescribed application fee and submit the final form.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies in BGSSL Recruitment 2026?",
+        "answer": "A total of 2,049 vacancies have been announced in this recruitment notification."
+      },
+      {
+        "question": "What is the educational qualification needed for BGSSL posts?",
+        "answer": "Candidates must possess a Bachelor's degree or relevant technical qualification (Diploma/Degree) from a recognized university."
+      },
+      {
+        "question": "How can candidates apply for BGSSL 2026?",
+        "answer": "Interested candidates must submit their application online through the official IBPS recruitment portal."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "Application Closing Date",
+        "date": "2026-10-30"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-11-20"
+      }
+    ],
+    "tags": [
+      "BGSSL",
+      "IBPS",
+      "Banking Jobs",
+      "Graduate Jobs",
+      "2049 Vacancies"
+    ],
+    "metaDescription": "BGSSL Recruitment 2026 notification released for 2049 vacancies. Apply online via IBPS portal. Check eligibility, age limit, salary & key dates."
+  },
+  {
+    "id": "sbi-clerk-prelims-admit-card-2026",
+    "slug": "sbi-clerk-prelims-admit-card-2026",
+    "title": "SBI Clerk Prelims Admit Card 2026",
+    "organization": "State Bank of India",
+    "shortOrg": "SBI",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 47,920",
+    "salaryMin": 19900,
+    "salaryMax": 47920,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-10-15",
+    "officialUrl": "https://bank.sbi/careers",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-30T07:02:13Z",
+    "summary": "State Bank of India (SBI) has officially released the Prelims Call Letter 2026 for the post of Junior Associate (Customer Support & Sales). Candidates who registered for the SBI Clerk recruitment can download their hall ticket from the SBI careers portal by entering their registration number and password.",
+    "highlights": [
+      "SBI Clerk Prelims Call Letter 2026 available now",
+      "Post: Junior Associate (Customer Support & Sales)",
+      "Selection via Prelims, Mains, and Local Language Test",
+      "Mandatory to carry hard copy of admit card and valid photo ID to the exam center"
+    ],
+    "eligibility": "Candidates must hold a Graduation degree in any discipline from a recognized university. The prescribed age limit is 20 to 28 years, with standard age relaxations applicable for SC/ST/OBC/PwD candidates as per rules.",
+    "howToApply": "1. Go to the official SBI Careers portal at bank.sbi/careers.\n2. Click on the 'Current Openings' section under 'Join SBI'.\n3. Select 'Recruitment of Junior Associates (Customer Support & Sales)'.\n4. Click on the link for 'Download Prelims Exam Call Letter'.\n5. Enter your Registration Number/Roll Number and Password/Date of Birth, then download and print your hall ticket.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Specified Opted Local Language Test"
+    ],
+    "faqs": [
+      {
+        "question": "How can I download the SBI Clerk Prelims Admit Card 2026?",
+        "answer": "Visit bank.sbi/careers, navigate to the Junior Associate recruitment tab, enter your Registration Number and Password/DOB to download your admit card."
+      },
+      {
+        "question": "What items are required at the SBI Clerk Prelims examination center?",
+        "answer": "Candidates must bring a printed copy of the Admit Card, an original photo ID proof (Aadhaar, PAN, Voter ID, Passport, etc.), a photocopy of the ID proof, and two recent passport-sized photographs."
+      },
+      {
+        "question": "Is there negative marking in the SBI Clerk Preliminary Exam?",
+        "answer": "Yes, 1/4th (0.25) of the marks assigned to a question will be deducted for each incorrect answer."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Admit Card Released",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "Prelims Exam Date",
+        "date": "2026-10-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "SBI",
+      "SBI Clerk",
+      "Admit Card",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "SBI Clerk Prelims Admit Card 2026 is out. Download the SBI Junior Associate call letter online at bank.sbi/careers using your login credentials."
+  },
+  {
+    "id": "indian-navy-sailor-sports-quota-2026",
+    "slug": "indian-navy-sailor-sports-quota-2026",
+    "title": "Indian Navy Sailor Sports Quota Recruitment 2026",
+    "organization": "Indian Navy",
+    "shortOrg": "Indian Navy",
+    "sector": "defence",
+    "subsector": "Indian Navy",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "10th Pass",
+      "12th Pass",
+      "Sports Proficiency Certificate"
+    ],
+    "ageMin": 18,
+    "ageMax": 22,
+    "salaryLabel": "Level 3 (₹21,700 - ₹69,100) + MSP",
+    "salaryMin": 21700,
+    "salaryMax": 69100,
+    "applicationStart": "2026-09-30",
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.joinindiannavy.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-09-30T07:02:28Z",
+    "summary": "Indian Navy has announced recruitment for Sailors under the Sports Quota 2026 entry. Outstanding sportspersons who have represented International, National, or State levels in approved sports disciplines are eligible to apply. Selection will be based on sports trials, physical standards, and medical fitness.",
+    "highlights": [
+      "Entry for Outstanding Sportspersons in Indian Navy",
+      "Educational Qualification: 10th Pass / 12th Pass",
+      "Age Limit: 18 to 22 years",
+      "Pay Scale: Level 3 (₹21,700 - ₹69,100) plus Military Service Pay"
+    ],
+    "eligibility": "Candidates must have passed 10th or 12th from a recognized Board of School Education. Applicants must have participated at International/National/State level tournaments or Khelo India games in recognized sports events. Candidates should be unmarried male/female Indian citizens aged between 18 and 22 years at the time of application.",
+    "howToApply": "1. Visit the official Indian Navy website at joinindiannavy.gov.in.\n2. Download the official Sports Quota notification and application format.\n3. Fill in personal details, educational qualifications, and sports achievements.\n4. Attach self-attested copies of mark sheets, sports certificates, and photo ID.\n5. Submit the application form as per the instructions specified in the official notification.",
+    "selectionProcess": [
+      "Shortlisting based on Sports Achievements",
+      "Sports Trials and Skill Performance Test",
+      "Physical Fitness Test (PFT)",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply for Indian Navy Sailor Sports Quota 2026?",
+        "answer": "Candidates who have passed 10th or 12th and represented the Country, State, or University in recognized sports tournaments can apply."
+      },
+      {
+        "question": "What is the age limit for Navy Sports Quota Sailor entry?",
+        "answer": "Applicants should generally be between 18 and 22 years of age as per Indian Navy recruitment rules."
+      },
+      {
+        "question": "What is the pay scale for Navy Sailors recruited under Sports Quota?",
+        "answer": "Selected candidates receive Pay Level 3 (₹21,700 - ₹69,100) along with Military Service Pay (MSP) and applicable allowances."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-09-30"
+      }
+    ],
+    "tags": [
+      "Defence Jobs",
+      "Indian Navy",
+      "Sailor Recruitment",
+      "Sports Quota",
+      "10th Pass",
+      "12th Pass"
+    ],
+    "metaDescription": "Indian Navy Sailor Recruitment 2026 under Sports Quota announced. Check eligibility, sports criteria, age limit, and how to apply online."
+  },
+  {
     "id": "madras-high-court-deo-recruitment-2026",
     "slug": "madras-high-court-deo-recruitment-2026",
     "title": "Madras High Court DEO Recruitment 2026",
