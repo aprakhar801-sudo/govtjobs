@@ -1,5 +1,81 @@
 [
   {
+    "id": "hppsc-ado-recruitment-2026",
+    "slug": "hppsc-ado-recruitment-2026",
+    "title": "HPPSC Agriculture Development Officer (ADO) Recruitment 2026",
+    "organization": "Himachal Pradesh Public Service Commission",
+    "shortOrg": "HPPSC",
+    "sector": "state-govt",
+    "subsector": "Agriculture Department",
+    "state": "Himachal Pradesh",
+    "totalVacancies": 23,
+    "qualifications": [
+      "B.Sc. (Agriculture)"
+    ],
+    "ageMin": 18,
+    "ageMax": 45,
+    "salaryLabel": "Pay Level 14 (₹38,100 - ₹1,20,400)",
+    "salaryMin": 38100,
+    "salaryMax": 120400,
+    "applicationStart": "2026-10-01",
+    "applicationEnd": "2026-10-31",
+    "examDate": null,
+    "officialUrl": "https://hppsc.hp.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-01T07:25:02Z",
+    "summary": "Himachal Pradesh Public Service Commission (HPPSC) has released a recruitment notification for 23 Agriculture Development Officer (ADO) positions. Candidates with a B.Sc. in Agriculture looking for government jobs in Himachal Pradesh can apply online.",
+    "highlights": [
+      "Total Vacancies: 23 Agriculture Development Officer posts",
+      "Educational Qualification: B.Sc. in Agriculture from a recognized university",
+      "Age Limit: 18 to 45 years with applicable relaxations",
+      "Selection based on Written Screening Test and Document Verification"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in Agriculture (B.Sc. Agriculture) from a recognized university or institute. Knowledge of customs, manners, and dialects of Himachal Pradesh is desirable. The age limit for applicants is between 18 and 45 years, with age relaxation applicable for SC/ST/OBC and other reserved categories as per HP State Government rules.",
+    "howToApply": "1. Visit the official portal of HPPSC at hppsc.hp.gov.in.\n2. Complete the One Time Registration (OTR) if you are a new user.\n3. Log in to your account and locate the ADO Recruitment 2026 application link.\n4. Fill in all required personal, educational, and contact details.\n5. Upload scanned photos, signature, and necessary certificates.\n6. Pay the prescribed application fee and submit the final application form.",
+    "selectionProcess": [
+      "Screening Test / Objective Exam",
+      "Document Verification",
+      "Final Merit List"
+    ],
+    "faqs": [
+      {
+        "question": "How many posts are available in HPPSC ADO Recruitment 2026?",
+        "answer": "A total of 23 posts for Agriculture Development Officer (ADO) have been notified."
+      },
+      {
+        "question": "What is the educational qualification required for HPPSC ADO?",
+        "answer": "Applicants must hold a B.Sc. degree in Agriculture from a recognized university."
+      },
+      {
+        "question": "What is the upper age limit for HPPSC ADO application?",
+        "answer": "The upper age limit is 45 years, with relaxation provided to reserved categories as per state rules."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Date",
+        "date": "2026-10-01"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-10-01"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-10-31"
+      }
+    ],
+    "tags": [
+      "HPPSC",
+      "State Govt",
+      "Agriculture",
+      "ADO",
+      "B.Sc Agriculture"
+    ],
+    "metaDescription": "HPPSC ADO Recruitment 2026: Apply online for 23 Agriculture Development Officer posts. Check eligibility, salary, age limit, and last date to apply."
+  },
+  {
     "id": "hamirpur-up-anganwadi-helper-recruitment-2026",
     "slug": "hamirpur-up-anganwadi-helper-recruitment-2026",
     "title": "Hamirpur UP Anganwadi Helper Recruitment 2026",
