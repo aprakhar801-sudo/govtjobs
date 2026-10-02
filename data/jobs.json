@@ -1,5 +1,85 @@
 [
   {
+    "id": "bgssl-recruitment-2049-posts-2026",
+    "slug": "bgssl-recruitment-2049-posts-2026",
+    "title": "BGSSL Recruitment 2026 for 2049 Posts",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "BGSSL",
+    "state": null,
+    "totalVacancies": 2049,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 25,000 - Rs. 64,780 per month",
+    "salaryMin": 25000,
+    "salaryMax": 64780,
+    "applicationStart": "2026-10-02",
+    "applicationEnd": "2026-10-31",
+    "examDate": "2026-12-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-02T07:12:40Z",
+    "summary": "Institute of Banking Personnel Selection has released a notification for BGSSL Recruitment 2026 across 2049 vacant posts. Eligible candidates with a Bachelor's degree can apply online before the last date.",
+    "highlights": [
+      "Total Vacancies: 2049 Posts",
+      "Eligibility: Graduate in any discipline",
+      "Age Limit: 18 to 30 years (Relaxation applicable)",
+      "Selection via Online Exam & Document Verification"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University/Institution. The applicant's age should be between 18 and 30 years as on the cutoff date. Age relaxations apply for SC/ST (5 years), OBC (3 years), and PwD (10 years) candidates as per Government rules.",
+    "howToApply": "1. Visit the official website at www.ibps.in.\n2. Navigate to the BGSSL Recruitment 2026 application link.\n3. Complete the new registration process with valid email and phone number.\n4. Fill in basic personal details, educational qualifications, and upload required documents.\n5. Pay the application fee online and submit the final application form.",
+    "selectionProcess": [
+      "Online Preliminary Examination",
+      "Online Main Examination",
+      "Document Verification & Local Language Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies in BGSSL Recruitment 2026?",
+        "answer": "There are a total of 2049 vacancies available under this recruitment drive."
+      },
+      {
+        "question": "What is the educational qualification required?",
+        "answer": "Candidates must possess a Bachelor's degree in any discipline from a recognized university."
+      },
+      {
+        "question": "How can candidates apply for this post?",
+        "answer": "Applications must be submitted online through the official portal (www.ibps.in) during the designated application window."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-10-02"
+      },
+      {
+        "label": "Application Start",
+        "date": "2026-10-02"
+      },
+      {
+        "label": "Application End",
+        "date": "2026-10-31"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-12-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "BGSSL",
+      "Graduate Jobs",
+      "Recruitment 2026"
+    ],
+    "metaDescription": "BGSSL Recruitment 2026: Apply online for 2049 posts. Check eligibility, age limit, salary details, and application deadline here."
+  },
+  {
     "id": "hppsc-ado-recruitment-2026",
     "slug": "hppsc-ado-recruitment-2026",
     "title": "HPPSC Agriculture Development Officer (ADO) Recruitment 2026",
