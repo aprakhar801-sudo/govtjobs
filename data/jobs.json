@@ -1,5 +1,87 @@
 [
   {
+    "id": "national-housing-bank-recruitment-2026",
+    "slug": "national-housing-bank-recruitment-2026",
+    "title": "NHB Officer & Assistant Manager Recruitment 2026",
+    "organization": "National Housing Bank",
+    "shortOrg": "NHB",
+    "sector": "banking",
+    "subsector": "Housing Finance",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "Post Graduate",
+      "CA / Law"
+    ],
+    "ageMin": 21,
+    "ageMax": 30,
+    "salaryLabel": "₹48,480 - ₹85,920 per month",
+    "salaryMin": 48480,
+    "salaryMax": 85920,
+    "applicationStart": "2026-10-03",
+    "applicationEnd": "2026-10-24",
+    "examDate": "2026-11-28",
+    "officialUrl": "https://nhb.org.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-03T17:35:37Z",
+    "summary": "National Housing Bank (NHB) has released the recruitment notification for Assistant Manager and Officer cadres for 2026. Eligible graduates and postgraduates can submit their online applications starting October 3, 2026. Selection will be based on an online written exam followed by a personal interview.",
+    "highlights": [
+      "Recruitment for Assistant Manager and Specialist Officers",
+      "Online application started on October 3, 2026",
+      "Qualifications required: Graduation / Post Graduation / CA / Law",
+      "Selection via Online Written Exam & Personal Interview"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline with a minimum required percentage or a Master's Degree / CA / ICWA / Law degree depending on the post. The age limit for general category candidates is generally between 21 and 30 years as of the cut-off date. Standard relaxation in age limits applies for SC, ST, OBC, and PwBD candidates as per Government of India guidelines.",
+    "howToApply": "1. Visit the official National Housing Bank website at nhb.org.in.\n2. Go to the 'Opportunities@NHB' section and click on the online recruitment link.\n3. Complete the online registration with basic details and generate login credentials.\n4. Fill out the application form with educational details and post preferences.\n5. Upload scanned images of your photograph, signature, thumb impression, and hand-written declaration.\n6. Pay the application fee online and submit the final application form.",
+    "selectionProcess": [
+      "Online Written Examination (Objective + Descriptive)",
+      "Document Verification",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the educational qualification required for NHB Assistant Manager?",
+        "answer": "A Bachelor's degree in any discipline with required minimum marks or a relevant postgraduate qualification is required."
+      },
+      {
+        "question": "How can I apply for NHB Recruitment 2026?",
+        "answer": "You can apply online through the official website nhb.org.in under the 'Opportunities@NHB' portal."
+      },
+      {
+        "question": "Is there negative marking in the NHB online exam?",
+        "answer": "Yes, a penalty of 0.25 marks is deducted for each incorrect answer in the objective online examination."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-10-03"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-10-03"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-10-24"
+      },
+      {
+        "label": "Tentative Online Exam Date",
+        "date": "2026-11-28"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "NHB Recruitment",
+      "Assistant Manager",
+      "Graduate Jobs",
+      "IBPS"
+    ],
+    "metaDescription": "National Housing Bank Recruitment 2026 notification out for Assistant Manager & Officers. Check eligibility, application dates, and apply online."
+  },
+  {
     "id": "bgssl-recruitment-2049-posts-2026",
     "slug": "bgssl-recruitment-2049-posts-2026",
     "title": "BGSSL Recruitment 2026 for 2049 Posts",
