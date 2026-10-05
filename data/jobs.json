@@ -1,5 +1,82 @@
 [
   {
+    "id": "itbp-constable-recruitment-2026",
+    "slug": "itbp-constable-recruitment-2026",
+    "title": "ITBP Constable Recruitment 2026",
+    "organization": "Indo-Tibetan Border Police",
+    "shortOrg": "ITBP",
+    "sector": "defence",
+    "subsector": "Ministry of Home Affairs",
+    "state": null,
+    "totalVacancies": 126,
+    "qualifications": [
+      "10th Pass (Matriculation)"
+    ],
+    "ageMin": 18,
+    "ageMax": 23,
+    "salaryLabel": "Pay Level 3 (₹21,700 - ₹69,100)",
+    "salaryMin": 21700,
+    "salaryMax": 69100,
+    "applicationStart": "2026-10-05",
+    "applicationEnd": "2026-11-04",
+    "examDate": null,
+    "officialUrl": "https://itbpolice.nic.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-05T07:21:49Z",
+    "summary": "Indo-Tibetan Border Police (ITBP) has announced recruitment for 126 Constable posts in 2026. Candidates who have completed 10th standard are eligible to apply online. Selection involves physical tests, written examination, and medical assessment.",
+    "highlights": [
+      "126 Vacancies for Constable posts",
+      "Pay Matrix Level 3: ₹21,700 to ₹69,100",
+      "Eligibility: Matriculation (10th Pass)",
+      "Age limit: 18 to 23 years with category relaxations"
+    ],
+    "eligibility": "Candidates must have completed Class 10 (Matriculation) or equivalent from a recognized board. The age limit is 18 to 23 years, with relaxation for SC/ST/OBC and Ex-Servicemen as per Government of India rules. Candidates must also meet prescribed Physical Standard Test (PST) parameters including height and chest measurements.",
+    "howToApply": "1. Visit the official ITBP recruitment website at recruitment.itbpolice.nic.in.\n2. Complete user registration or log in with existing credentials.\n3. Fill in the online application form with personal and academic details.\n4. Upload scanned copies of required documents, photograph, and signature.\n5. Pay the required application fee online and submit the completed application form.",
+    "selectionProcess": [
+      "Physical Efficiency Test (PET) & Physical Standard Test (PST)",
+      "Written Examination",
+      "Document Verification",
+      "Detailed Medical Examination (DME)"
+    ],
+    "faqs": [
+      {
+        "question": "What is the minimum qualification required for ITBP Constable?",
+        "answer": "Candidates must have passed 10th class (Matriculation) from a recognized board."
+      },
+      {
+        "question": "What is the age limit for ITBP Constable recruitment?",
+        "answer": "The age limit is between 18 and 23 years, with standard age relaxations applicable for reserved categories."
+      },
+      {
+        "question": "What is the salary for ITBP Constable?",
+        "answer": "Selected candidates receive Pay Level 3 (₹21,700 - ₹69,100) plus central government allowances."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-10-05"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-10-05"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-11-04"
+      }
+    ],
+    "tags": [
+      "ITBP",
+      "Constable",
+      "Defence",
+      "10th Pass Jobs",
+      "Central Govt Jobs"
+    ],
+    "metaDescription": "ITBP Constable Recruitment 2026: Apply online for 126 posts. 10th Pass candidates aged 18-23 are eligible. Check details, salary, and apply by deadline."
+  },
+  {
     "id": "punjab-police-10000-posts-2026",
     "slug": "punjab-police-10000-posts-2026",
     "title": "Punjab Police 10,000 Posts Recruitment 2026",
