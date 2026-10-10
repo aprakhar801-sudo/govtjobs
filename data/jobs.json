@@ -1,5 +1,77 @@
 [
   {
+    "id": "rrb-section-controller-admit-card-2026",
+    "slug": "rrb-section-controller-admit-card-2026",
+    "title": "RRB Section Controller Admit Card 2026",
+    "organization": "Railway Recruitment Board",
+    "shortOrg": "RRB",
+    "sector": "banking",
+    "subsector": "IBPS / Railway Recruitment",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 33,
+    "salaryLabel": "Level 6 (7th CPC)",
+    "salaryMin": 35400,
+    "salaryMax": 112400,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-10-12",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-10T07:25:16Z",
+    "summary": "The Admit Card for the RRB Section Controller Examination 2026 has been officially released for the exam scheduled on 12th and 13th October 2026. Registered candidates can log in to the official portal to download their call letters. It is mandatory to carry a printed copy of the call letter along with a valid photo ID to the examination center.",
+    "highlights": [
+      "Admit Card released for 12 & 13 October 2026 Exam",
+      "Download call letter using Registration Number and Password/DOB",
+      "Mandatory to carry printed Call Letter and valid Photo ID",
+      "Pay Level 6 under 7th CPC"
+    ],
+    "eligibility": "Candidates holding a Bachelor's Degree in any discipline from a recognized university were eligible to apply. Minimum age limit is 18 years and maximum age limit is 33 years, with standard age relaxation applicable for reserved categories (SC/ST/OBC/PwD/Ex-Servicemen) as per government norms.",
+    "howToApply": "1. Visit the official recruitment portal.\n2. Click on the link for 'RRB Section Controller Call Letter / Admit Card 2026'.\n3. Enter your Registration Number / Roll Number and Date of Birth / Password.\n4. Click on 'Submit' to access your admit card.\n5. Download and print a clear copy for the examination day.",
+    "selectionProcess": [
+      "Computer Based Test (CBT)",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "How can I download the RRB Section Controller Admit Card 2026?",
+        "answer": "You can download your admit card by visiting the official recruitment website and logging in with your registration number and date of birth or password."
+      },
+      {
+        "question": "What are the exam dates for RRB Section Controller 2026?",
+        "answer": "The examination is scheduled to be conducted on 12th and 13th October 2026."
+      },
+      {
+        "question": "What documents need to be carried to the exam center?",
+        "answer": "Candidates must carry a printed copy of the admit card, an original valid photo ID proof (Aadhaar, Voter ID, Passport, PAN Card, etc.), and recent passport-size photographs."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Admit Card Release Date",
+        "date": "2026-10-10"
+      },
+      {
+        "label": "Exam Dates",
+        "date": "2026-10-12"
+      }
+    ],
+    "tags": [
+      "Admit Card",
+      "RRB",
+      "IBPS",
+      "Section Controller",
+      "Banking"
+    ],
+    "metaDescription": "RRB Section Controller Admit Card 2026 released for 12 & 13 Oct exam. Download your call letter online now using registration details."
+  },
+  {
     "id": "rrb-technician-grade-3-admit-card-2026",
     "slug": "rrb-technician-grade-3-admit-card-2026",
     "title": "RRB Technician Grade 3 & Grade 1 Admit Card 2026",
