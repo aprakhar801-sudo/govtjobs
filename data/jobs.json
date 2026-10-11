@@ -1,5 +1,77 @@
 [
   {
+    "id": "ibps-po-prelims-result-mains-schedule-2026",
+    "slug": "ibps-po-prelims-result-mains-schedule-2026",
+    "title": "IBPS PO Prelims Result 2026 & Mains Schedule",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 52,000 - 55,000 approx. per month",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-11-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-11T14:21:32Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has officially released the Prelims result for Probationary Officer (PO) / Management Trainee recruitment 2026. Candidates who appeared for the preliminary examination can now check their qualifying status for the upcoming Mains exam on the official portal.",
+    "highlights": [
+      "IBPS PO Prelims Result 2026 declared at ibps.in",
+      "Shortlisted candidates advance to the Mains Examination",
+      "Selection process includes Prelims, Mains, and Interview",
+      "Candidates need Registration Number/Roll Number and Password/DOB to check result"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree (Graduation) in any discipline from a recognized University or equivalent qualification recognized by the Central Government. The candidate must be aged between 20 to 30 years with statutory age relaxation applicable for SC/ST/OBC/PwD categories.",
+    "howToApply": "1. Visit the official IBPS website at ibps.in.\n2. Click on the 'IBPS PO Prelims Result 2026' link on the homepage.\n3. Enter your Registration Number / Roll Number and Password / Date of Birth.\n4. Submit the details to view your qualifying status and mark sheet.\n5. Download and save the result summary for future reference.",
+    "selectionProcess": [
+      "Preliminary Examination (Qualifying)",
+      "Mains Examination (Objective & Descriptive)",
+      "Common Interview Stage"
+    ],
+    "faqs": [
+      {
+        "question": "How can I check my IBPS PO Prelims Result 2026?",
+        "answer": "You can check your result by visiting ibps.in and logging in with your Registration Number or Roll Number and Password or Date of Birth."
+      },
+      {
+        "question": "What is the next stage after clearing IBPS PO Prelims?",
+        "answer": "Candidates who qualify in the Prelims examination are eligible to appear for the IBPS PO Mains Examination."
+      },
+      {
+        "question": "Are Prelims marks counted for the final merit list?",
+        "answer": "No, the Preliminary exam is qualifying in nature. Final selection is based on the marks obtained in the Mains Examination and Interview."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Prelims Result Date",
+        "date": "2026-10-11"
+      },
+      {
+        "label": "Mains Examination Date",
+        "date": "2026-11-15"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "IBPS PO",
+      "Prelims Result",
+      "Bank Jobs"
+    ],
+    "metaDescription": "IBPS PO Prelims Result 2026 declared at ibps.in. Check your qualifying status, cutoff marks, and Mains exam schedule here."
+  },
+  {
     "id": "cg-vyapam-group-2-recruitment-2026",
     "slug": "cg-vyapam-group-2-recruitment-2026",
     "title": "CG Vyapam Group 2 Recruitment 2026",
