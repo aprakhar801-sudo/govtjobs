@@ -1,5 +1,82 @@
 [
   {
+    "id": "uco-bank-apprentice-recruitment-2026",
+    "slug": "uco-bank-apprentice-recruitment-2026",
+    "title": "UCO Bank Apprentice Recruitment 2026",
+    "organization": "UCO Bank",
+    "shortOrg": "UCO Bank",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 530,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Monthly Stipend: ₹10,500 - ₹15,000",
+    "salaryMin": 10500,
+    "salaryMax": 15000,
+    "applicationStart": "2026-10-15",
+    "applicationEnd": "2026-11-05",
+    "examDate": null,
+    "officialUrl": "https://www.ucobank.com",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-15T12:53:26Z",
+    "summary": "UCO Bank has invited online applications for the engagement of 530 Apprentices across various branches under the Apprentices Act, 1961. Candidates holding a recognized Graduation degree in any discipline are eligible to apply for this 1-year apprenticeship program.",
+    "highlights": [
+      "530 Vacancies for Apprentice engagement nationwide",
+      "Monthly stipend provided throughout the 1-year training period",
+      "Open to Graduates in any discipline",
+      "Selection via Online Examination/Merit and Local Language Test"
+    ],
+    "eligibility": "Candidates must hold a Graduation degree in any discipline from a recognized University or Institution. The age limit is set between 20 to 28 years as of the cut-off date. Upper age limit relaxations apply for SC/ST (5 years), OBC (3 years), and PwBD candidates as per Government of India norms. Candidates must also possess proficiency in the local language of the specified state.",
+    "howToApply": "1. Visit the official UCO Bank recruitment portal at www.ucobank.com or NATS/NAPS portal.\n2. Locate and click on the 'Engagement of Apprentices in UCO Bank 2026' notification link.\n3. Complete registration with basic details including mobile number and email ID.\n4. Fill out the application form carefully with educational and personal info.\n5. Upload necessary documents (photograph, signature, certificates) and submit the form.",
+    "selectionProcess": [
+      "Online Written Examination / Merit List",
+      "Test of Local Language",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are announced in UCO Bank Apprentice Recruitment 2026?",
+        "answer": "A total of 530 Apprentice vacancies have been announced across various states and branches."
+      },
+      {
+        "question": "What is the educational qualification needed for UCO Bank Apprentice?",
+        "answer": "Candidates must have completed Graduation (a Bachelor's degree) in any stream from a recognized university."
+      },
+      {
+        "question": "What is the age limit for applying?",
+        "answer": "The age limit is generally 20 to 28 years, with statutory age relaxation provided for reserved categories."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-10-15"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-10-15"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-11-05"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "UCO Bank",
+      "Apprentice",
+      "Graduate Jobs",
+      "Bank Recruitment 2026"
+    ],
+    "metaDescription": "UCO Bank Recruitment 2026: Apply online for 530 Apprentice vacancies. Graduates aged 20-28 can apply. Check stipend, eligibility, and selection process."
+  },
+  {
     "id": "ibps-po-prelims-result-mains-schedule-2026",
     "slug": "ibps-po-prelims-result-mains-schedule-2026",
     "title": "IBPS PO Prelims Result 2026 & Mains Schedule",
