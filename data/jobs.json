@@ -1,5 +1,77 @@
 [
   {
+    "id": "sbi-po-mains-result-2026",
+    "slug": "sbi-po-mains-result-2026",
+    "title": "SBI PO Mains Result 2026",
+    "organization": "State Bank of India",
+    "shortOrg": "SBI",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 2000,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 21,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 41,960 basic pay (approx Rs. 65,000+ per month)",
+    "salaryMin": 41960,
+    "salaryMax": 65000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://sbi.co.in",
+    "notificationUrl": "https://sbi.co.in/web/careers",
+    "status": "active",
+    "lastUpdated": "2026-10-15T17:51:37Z",
+    "summary": "State Bank of India (SBI) has declared the Mains Result 2026 for Probationary Officers (PO). A total of 4,367 candidates have qualified to appear for Phase-III (Interview & Group Exercises). Qualified candidates can check their shortlist status on the official SBI careers portal.",
+    "highlights": [
+      "SBI PO Mains Result 2026 officially announced online",
+      "4,367 candidates qualified for Phase III (Interview Round)",
+      "Call letters for Interview & Psychometric Test to be released soon",
+      "Final selection to be based on combined score of Mains and Interview"
+    ],
+    "eligibility": "Candidates holding a Bachelor's degree in any discipline from a recognized university were eligible to apply. The age limit for applicants is between 21 to 30 years, with standard age relaxations applicable for reserved categories.",
+    "howToApply": "1. Visit the official SBI careers portal at sbi.co.in/web/careers.\n2. Go to the 'Current Openings' section.\n3. Click on the link for 'Recruitment of Probationary Officers - Mains Result 2026'.\n4. Search for your Roll Number or Registration Number in the candidate shortlist PDF.\n5. Download and save the result copy for future reference.",
+    "selectionProcess": [
+      "Phase I: Preliminary Examination",
+      "Phase II: Main Examination (Objective + Descriptive)",
+      "Phase III: Psychometric Test, Group Exercise & Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How many candidates qualified the SBI PO Mains Result 2026?",
+        "answer": "A total of 4,367 candidates have qualified the Mains exam and shortlisted for the Interview round."
+      },
+      {
+        "question": "Where can I check the SBI PO Mains Result 2026?",
+        "answer": "You can check the result on the official SBI website at sbi.co.in/web/careers."
+      },
+      {
+        "question": "What is the next stage after qualifying SBI PO Mains?",
+        "answer": "Qualified candidates will have to participate in Phase III, which comprises a Psychometric Test, Group Exercises, and a Personal Interview."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Mains Result Declared",
+        "date": "2026-10-15"
+      },
+      {
+        "label": "Phase-III Interview Call Letter",
+        "date": "2026-10-25"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "SBI PO",
+      "SBI Result",
+      "State Bank of India",
+      "PO Result 2026"
+    ],
+    "metaDescription": "SBI PO Mains Result 2026 declared at sbi.co.in. 4,367 candidates shortlisted for Interview. Check result PDF, cut off & interview updates here."
+  },
+  {
     "id": "uco-bank-apprentice-recruitment-2026",
     "slug": "uco-bank-apprentice-recruitment-2026",
     "title": "UCO Bank Apprentice Recruitment 2026",
