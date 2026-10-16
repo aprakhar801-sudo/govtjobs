@@ -1,5 +1,76 @@
 [
   {
+    "id": "bank-of-baroda-so-recruitment-2026",
+    "slug": "bank-of-baroda-so-recruitment-2026",
+    "title": "Bank of Baroda SO Recruitment 2026",
+    "organization": "Bank of Baroda",
+    "shortOrg": "BOB",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "B.E. / B.Tech",
+      "MBA / PGDBM",
+      "CA / CMA"
+    ],
+    "ageMin": 22,
+    "ageMax": 38,
+    "salaryLabel": "Rs. 48,170 - Rs. 89,890 per month",
+    "salaryMin": 48170,
+    "salaryMax": 89890,
+    "applicationStart": null,
+    "applicationEnd": "2026-10-31",
+    "examDate": null,
+    "officialUrl": "https://www.bankofbaroda.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-16T17:38:40Z",
+    "summary": "Bank of Baroda has extended the last date to apply for various Specialist Officer (SO) positions for 2026. Qualified candidates with background in IT, Finance, Marketing, or Risk Management can apply online before the extended deadline. Check eligibility criteria, selection procedure, and details below.",
+    "highlights": [
+      "Application deadline extended for Bank of Baroda SO recruitment",
+      "Positions available across Scale I, Scale II, and Scale III cadres",
+      "Selection via online exam or shortlisting followed by Personal Interview",
+      "Attractive salary package with regular bank allowances as per 12th BPS"
+    ],
+    "eligibility": "Candidates must hold a relevant degree (B.E./B.Tech, MBA/PGDM, CA, Post Graduation) in the discipline applied for from a recognized university. Minimum and maximum age limits generally range between 22 and 38 years depending on the specific scale and stream. Category relaxation in upper age limit is applicable as per Government rules. Relevant post-qualification work experience may be required for higher-scale positions.",
+    "howToApply": "1. Visit the official Bank of Baroda Careers page at https://www.bankofbaroda.in/careers.\n2. Click on Current Openings and select the Specialist Officer (SO) 2026 notification link.\n3. Register yourself using a valid mobile number and email ID.\n4. Fill in the online application form with required personal, academic, and professional details.\n5. Upload scanned documents, pay the application fee online, and submit the application form.",
+    "selectionProcess": [
+      "Shortlisting / Online Written Examination",
+      "Group Discussion (GD) / Personal Interview (PI)",
+      "Document Verification & Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "Has the last date to apply for BOB SO 2026 been extended?",
+        "answer": "Yes, Bank of Baroda has extended the last date to submit online applications for Specialist Officer posts."
+      },
+      {
+        "question": "What is the educational qualification required for Bank of Baroda SO?",
+        "answer": "Educational qualifications depend on the discipline, typically requiring B.E./B.Tech in CS/IT, MBA in Marketing/Finance, CA/CMA, or post-graduation in relevant fields."
+      },
+      {
+        "question": "Where can I apply online for Bank of Baroda SO vacancies?",
+        "answer": "You can apply online through the official Bank of Baroda website under the 'Careers' -> 'Current Openings' section."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Application Deadline Extended To",
+        "date": "2026-10-31"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "Bank of Baroda",
+      "BOB SO",
+      "Specialist Officer",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "Bank of Baroda SO Recruitment 2026 application deadline extended! Apply online for Specialist Officer posts. Check eligibility, age limit, and details."
+  },
+  {
     "id": "sbi-po-mains-result-2026",
     "slug": "sbi-po-mains-result-2026",
     "title": "SBI PO Mains Result 2026",
