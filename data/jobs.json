@@ -1,5 +1,77 @@
 [
   {
+    "id": "sbi-po-mains-result-interview-2026",
+    "slug": "sbi-po-mains-result-interview-2026",
+    "title": "SBI PO Recruitment 2026",
+    "organization": "State Bank of India",
+    "shortOrg": "SBI",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 2000,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 21,
+    "ageMax": 30,
+    "salaryLabel": "₹41,960 - ₹63,840 (Basic Pay)",
+    "salaryMin": 41960,
+    "salaryMax": 63840,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://bank.sbi/careers",
+    "notificationUrl": "https://bank.sbi/careers",
+    "status": "active",
+    "lastUpdated": "2026-10-17T16:36:42Z",
+    "summary": "State Bank of India (SBI) has declared the Mains exam result for Probationary Officer (PO) recruitment, with 4,367 candidates qualifying for Phase III. Shortlisted candidates are eligible to appear for the Psychometric Test, Group Exercise, and Personal Interview.",
+    "highlights": [
+      "4,367 candidates shortlisted for Phase III Interview round",
+      "SBI PO Mains Result available at bank.sbi/careers",
+      "Phase III includes Psychometric Test, Group Exercise & Personal Interview",
+      "Interview Call Letters to be available shortly on the SBI portal"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree in any discipline from a recognized University or possess an equivalent qualification recognized by the Central Government. The standard age limit is 21 to 30 years, with upper age relaxations applicable for SC/ST/OBC/PwBD candidates as per Government of India norms.",
+    "howToApply": "1. Visit the official SBI Careers portal at bank.sbi/careers.\n2. Go to the 'Current Openings' section and locate 'Recruitment of Probationary Officers'.\n3. Click on the SBI PO Mains Result link to view the roll numbers of qualified candidates.\n4. Search for your Roll Number in the qualified candidates PDF.\n5. Download and print the Interview Call Letter once generated for Phase III.",
+    "selectionProcess": [
+      "Phase I: Preliminary Examination",
+      "Phase II: Main Examination (Objective & Descriptive)",
+      "Phase III: Psychometric Test, Group Exercise & Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How many candidates qualified for the SBI PO Phase III interview round?",
+        "answer": "A total of 4,367 candidates have qualified in the Mains examination for the Phase III Interview round."
+      },
+      {
+        "question": "Where can I check my SBI PO Mains result?",
+        "answer": "You can check the result roll-number list on the official SBI careers portal at bank.sbi/careers or sbi.co.in/web/careers."
+      },
+      {
+        "question": "What is the next stage after qualifying SBI PO Mains?",
+        "answer": "Shortlisted candidates will undergo Phase III, which consists of a Psychometric Test, Group Exercise, and Personal Interview."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Mains Result Declared",
+        "date": "2026-10-17"
+      },
+      {
+        "label": "Phase III Interview Stage",
+        "date": "2026-11-01"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "SBI",
+      "Probationary Officer",
+      "SBI PO Result",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "SBI PO Mains Result 2026 declared! 4,367 candidates qualified for Interview round. Check shortlist & Phase 3 call letter details at bank.sbi/careers."
+  },
+  {
     "id": "canara-bank-apprentice-recruitment-2026",
     "slug": "canara-bank-apprentice-recruitment-2026",
     "title": "Canara Bank Apprentice Recruitment 2026",
