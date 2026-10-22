@@ -1,5 +1,79 @@
 [
   {
+    "id": "rrb-ntpc-graduate-undergraduate-2026",
+    "slug": "rrb-ntpc-graduate-undergraduate-2026",
+    "title": "RRB NTPC Graduate & UG Recruitment 2026",
+    "organization": "Railway Recruitment Board",
+    "shortOrg": "RRB",
+    "sector": "railway",
+    "subsector": "Indian Railways",
+    "state": null,
+    "totalVacancies": 11558,
+    "qualifications": [
+      "12th Pass",
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 33,
+    "salaryLabel": "Level 2 to Level 6 (7th CPC)",
+    "salaryMin": 19900,
+    "salaryMax": 35400,
+    "applicationStart": "2026-10-15",
+    "applicationEnd": "2026-11-15",
+    "examDate": null,
+    "officialUrl": "https://indianrailways.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-22T13:08:48Z",
+    "summary": "Railway Recruitment Board (RRB) has opened online applications for Non-Technical Popular Categories (NTPC) posts for both Graduate and Undergraduate candidates. Interested job seekers can apply online for various posts across regional RRB portals.",
+    "highlights": [
+      "Recruitment open for both 12th Pass and Graduate candidates",
+      "Covers multiple posts including Station Master, Goods Guard, and Clerks",
+      "Pay scale range from 7th CPC Level 2 to Level 6",
+      "Selection through multi-stage CBT followed by Skill Test/DV"
+    ],
+    "eligibility": "Candidates applying for Undergraduate posts must have passed 10+2 (Higher Secondary) or equivalent from a recognized board. For Graduate posts, a Bachelor's degree in any discipline from a recognized university is required. Age limit for UG posts is 18–30 years, and for Graduate posts it is 18–33 years. Age relaxation applies to SC/ST/OBC/Ex-Servicemen as per standard rules.",
+    "howToApply": "1. Visit the official website of your regional Railway Recruitment Board (RRB).\n2. Click on the notification link for RRB NTPC 2026 Apply Online.\n3. Complete the online registration with a valid email ID and mobile number.\n4. Fill in the application form with educational details and post preferences.\n5. Upload required documents and complete the online fee payment.",
+    "selectionProcess": [
+      "1st Stage Computer Based Test (CBT 1)",
+      "2nd Stage Computer Based Test (CBT 2)",
+      "Computer Based Aptitude Test / Typing Skill Test (as applicable)",
+      "Document Verification & Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "What are the qualification requirements for RRB NTPC 2026?",
+        "answer": "12th Pass candidates can apply for Undergraduate level posts, while candidates holding a Bachelor's degree in any stream can apply for Graduate level posts."
+      },
+      {
+        "question": "Is there negative marking in the RRB NTPC CBT exams?",
+        "answer": "Yes, there is a negative marking of 1/3rd mark for every incorrect answer in both CBT 1 and CBT 2."
+      },
+      {
+        "question": "Can final year students apply for RRB NTPC?",
+        "answer": "Candidates must possess the requisite educational qualification on or before the closing date of the application."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Application Start",
+        "date": "2026-10-15"
+      },
+      {
+        "label": "Application End",
+        "date": "2026-11-15"
+      }
+    ],
+    "tags": [
+      "RRB",
+      "NTPC",
+      "Railway Jobs",
+      "Graduate Jobs",
+      "12th Pass Jobs"
+    ],
+    "metaDescription": "RRB NTPC 2026 online application started for Graduate and 12th pass posts. Check eligibility, age limit, application fee, and last date to apply."
+  },
+  {
     "id": "sbi-sco-medical-officer-recruitment-2026",
     "slug": "sbi-sco-medical-officer-recruitment-2026",
     "title": "SBI SCO Medical Officer Recruitment 2026",
