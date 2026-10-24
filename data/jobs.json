@@ -1,5 +1,83 @@
 [
   {
+    "id": "ibps-so-recruitment-1035-posts-2026",
+    "slug": "ibps-so-recruitment-1035-posts-2026",
+    "title": "IBPS SO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 1035,
+    "qualifications": [
+      "B.E. / B.Tech / MCA / M.Sc in CS or IT",
+      "B.Sc in Agriculture or Allied Sciences",
+      "Graduate / Post Graduate in Relevant Discipline"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840 (Scale-I)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-10-01",
+    "applicationEnd": "2026-11-05",
+    "examDate": "2026-12-24",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-24T16:51:11Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has extended the last date to apply online for 1,035 Specialist Officer (SO) posts, including IT Officer and Agricultural Field Officer (AFO) positions. Candidates with technical or professional degrees in relevant fields can register on the official portal before the extended deadline.",
+    "highlights": [
+      "1,035 Specialist Officer vacancies across public sector banks",
+      "Application last date officially extended",
+      "Posts include IT Officer, Agricultural Field Officer, Law Officer, HR/Personnel Officer, Marketing Officer",
+      "Selection through Prelims, Mains, and Interview"
+    ],
+    "eligibility": "Candidates must hold a relevant Degree/Post Graduate Degree from a recognized university (e.g., Engineering/IT degree for IT Officer; B.Sc in Agriculture or allied subjects for AFO). The age limit is between 20 and 30 years, with standard age relaxation applicable for SC/ST/OBC/PwD candidates as per government rules.",
+    "howToApply": "1. Go to the official IBPS portal at www.ibps.in.\n2. Click on 'CRP Specialist Officers' and choose the registration link.\n3. Register with your basic details to receive your provisional registration number and password.\n4. Upload scanned copies of photograph, signature, left thumb impression, and hand-written declaration.\n5. Fill in qualifications, select post preferences, pay the application fee online, and submit the final form.",
+    "selectionProcess": [
+      "Online Preliminary Examination",
+      "Online Main Examination",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the revised last date to apply for IBPS SO 2026?",
+        "answer": "The application deadline for IBPS SO recruitment has been extended to November 5, 2026."
+      },
+      {
+        "question": "What are the key vacancies in IBPS SO recruitment 2026?",
+        "answer": "The notification covers 1,035 posts across categories such as IT Officer, Agricultural Field Officer (AFO), Marketing Officer, Law Officer, and HR/Personnel Officer."
+      },
+      {
+        "question": "Is there any negative marking in the IBPS SO online exams?",
+        "answer": "Yes, 0.25 marks will be deducted for every wrong answer in both the Preliminary and Main examinations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Registration Starts",
+        "date": "2026-10-01"
+      },
+      {
+        "label": "Extended Last Date to Apply",
+        "date": "2026-11-05"
+      },
+      {
+        "label": "Preliminary Examination",
+        "date": "2026-12-24"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Specialist Officer",
+      "IT Officer",
+      "Agricultural Field Officer"
+    ],
+    "metaDescription": "IBPS SO Recruitment 2026: Last date extended for 1,035 IT Officer, Agricultural Field Officer & other posts. Apply online at ibps.in today."
+  },
+  {
     "id": "rrb-ntpc-recruitment-2026",
     "slug": "rrb-ntpc-recruitment-2026",
     "title": "RRB NTPC Recruitment 2026",
