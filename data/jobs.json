@@ -1,5 +1,149 @@
 [
   {
+    "id": "nia-recruitment-168-posts-2026",
+    "slug": "nia-recruitment-168-posts-2026",
+    "title": "NIA Recruitment 2026 for 168 Vacancies",
+    "organization": "National Investigation Agency (NIA)",
+    "shortOrg": "NIA",
+    "sector": "central-govt",
+    "subsector": "Ministry of Home Affairs",
+    "state": null,
+    "totalVacancies": 168,
+    "qualifications": [
+      "10th Pass",
+      "12th Pass",
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 56,
+    "salaryLabel": "As per 7th CPC (Pay Level 1 to Level 11)",
+    "salaryMin": 21700,
+    "salaryMax": 112400,
+    "applicationStart": "2026-10-20",
+    "applicationEnd": "2026-12-10",
+    "examDate": null,
+    "officialUrl": "https://nia.gov.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-25T17:15:02Z",
+    "summary": "National Investigation Agency (NIA) has issued a recruitment notification for 168 vacancies across multiple positions including Inspector, Sub-Inspector, Assistant Sub-Inspector, and Constable. Candidates seeking government jobs under the Ministry of Home Affairs can submit their offline application forms before the closing deadline.",
+    "highlights": [
+      "Total 168 positions advertised across various levels",
+      "Application Mode: Offline application process",
+      "Pay Scale: As per 7th Pay Commission pay matrix",
+      "Selection based on eligibility scrutiny, document verification, and interview/test"
+    ],
+    "eligibility": "Candidates must possess educational qualifications ranging from 10th Class to Graduation from a recognized board or university, depending on the post applied for. Age limit is generally between 18 and 56 years depending on whether applying via direct recruitment or deputation. Prior service/police department experience may be required for specific cadre positions as per NIA norms.",
+    "howToApply": "1. Visit the official website at nia.gov.in and navigate to the Recruitment section.\n2. Download the NIA 168 Posts Recruitment notification and application form PDF.\n3. Fill out all required personal, educational, and experience details in the prescribed application format.\n4. Attach self-attested supporting documents, photographs, and certificates.\n5. Send the completed application form via registered/speed post to the designated NIA postal address before the deadline.",
+    "selectionProcess": [
+      "Application Scrutiny & Shortlisting",
+      "Document Verification",
+      "Skill Test / Physical Test (where applicable)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are announced in NIA Recruitment 2026?",
+        "answer": "A total of 168 vacancies have been announced across various posts in the National Investigation Agency."
+      },
+      {
+        "question": "What is the mode of application for NIA Recruitment 2026?",
+        "answer": "The application mode is offline. Candidates must download and send the completed hard copy of the application form to NIA."
+      },
+      {
+        "question": "What is the official website to download NIA recruitment offline forms?",
+        "answer": "Official notifications and offline application formats can be downloaded from nia.gov.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-10-20"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-12-10"
+      }
+    ],
+    "tags": [
+      "NIA Recruitment",
+      "Central Govt Jobs",
+      "168 Vacancies",
+      "Offline Form",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "NIA Recruitment 2026 notification released for 168 posts. Check eligibility, offline application form process, salary, and last date to apply at nia.gov.in."
+  },
+  {
+    "id": "rbi-grade-a-recruitment-2027",
+    "slug": "rbi-grade-a-recruitment-2027",
+    "title": "RBI Grade A Recruitment 2027",
+    "organization": "Reserve Bank of India",
+    "shortOrg": "RBI",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Bachelor's Degree",
+      "Master's Degree"
+    ],
+    "ageMin": 21,
+    "ageMax": 30,
+    "salaryLabel": "₹44,500 - ₹89,150 (Gross Pay approx. ₹80,000/month)",
+    "salaryMin": 44500,
+    "salaryMax": 89150,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.rbi.org.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-25T17:17:04Z",
+    "summary": "The Reserve Bank of India (RBI) will soon announce the recruitment for RBI Grade A (Assistant Manager) officers for 2027. Interested graduates and postgraduates aiming for a career in apex banking can check eligibility and prepare for the upcoming notification.",
+    "highlights": [
+      "Prestigious Grade A (Assistant Manager) role at the Reserve Bank of India",
+      "Attractive compensation package with central government grade benefits",
+      "Selection through Written Examination followed by Personal Interview",
+      "Online registration expected to open soon on the official RBI portal"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's or Master's Degree in a relevant field (such as Official Language/Rajbhasha, Protocol, or specialized disciplines) from a recognized university. The age limit is generally between 21 and 30 years as of the cut-off date. Upper age relaxation applies to SC/ST, OBC, and PwBD candidates as per Government of India norms.",
+    "howToApply": "1. Visit the official website at rbi.org.in.\n2. Go to the 'Opportunities@RBI' section and click on 'Current Vacancies' -> 'Vacancies'.\n3. Click on the notification for 'RBI Grade A Officers 2027'.\n4. Fill in the online application form with valid personal and educational details.\n5. Upload scanned photo, signature, and documents, then pay the required fee and submit.",
+    "selectionProcess": [
+      "Phase I Online Examination",
+      "Phase II Written / Descriptive Test",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the age limit for RBI Grade A recruitment?",
+        "answer": "The minimum age is 21 years and the maximum age is 30 years, with category-wise relaxations applicable."
+      },
+      {
+        "question": "What qualifications are required for RBI Grade A Officer posts?",
+        "answer": "Candidates generally require a relevant Bachelor's or Master's degree depending on the specific post (e.g., Rajbhasha or Protocol)."
+      },
+      {
+        "question": "Where can candidates apply for RBI Grade A 2027?",
+        "answer": "Applications can be submitted exclusively online through the official RBI portal at rbi.org.in under Opportunities@RBI."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Announcement",
+        "date": null
+      }
+    ],
+    "tags": [
+      "RBI",
+      "Grade A",
+      "Banking Jobs",
+      "Assistant Manager",
+      "Government Jobs"
+    ],
+    "metaDescription": "RBI Grade A Recruitment 2027 details: Check eligibility, age limit, selection process, and application guide for RBI Grade A Officer vacancies."
+  },
+  {
     "id": "ibps-so-recruitment-1035-posts-2026",
     "slug": "ibps-so-recruitment-1035-posts-2026",
     "title": "IBPS SO Recruitment 2026",
