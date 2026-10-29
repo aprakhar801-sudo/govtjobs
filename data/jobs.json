@@ -1,5 +1,83 @@
 [
   {
+    "id": "ibps-server-admin-assistant-recruitment-2026",
+    "slug": "ibps-server-admin-assistant-recruitment-2026",
+    "title": "IBPS Server Administrator & Assistant Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "B.E./B.Tech",
+      "MCA",
+      "B.Sc (Computer Science/IT)",
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 21,
+    "ageMax": 35,
+    "salaryLabel": "As per IBPS Rules",
+    "salaryMin": 35000,
+    "salaryMax": 80000,
+    "applicationStart": "2026-10-29",
+    "applicationEnd": "2026-11-18",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-29T07:22:24Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has invited online applications for various posts including Server Administrator, Assistant, and Programming Assistant. Interested candidates with technical or graduate degrees can submit their applications online via the official website.",
+    "highlights": [
+      "Multiple IT and administrative posts including Server Administrator & Programming Assistant",
+      "Qualifications required: B.E./B.Tech, MCA, B.Sc IT/CS, or Graduation",
+      "Age Limit: 21 to 35 years (Relaxation applicable as per rules)",
+      "Online Application Mode through official IBPS website"
+    ],
+    "eligibility": "Candidates must possess a Graduation degree, B.E./B.Tech in Computer Science/IT, MCA, or B.Sc in IT/Computer Science from a recognized University or Institution. The applicant's age must generally be between 21 and 35 years as on the cutoff date. Upper age limit relaxations apply to reserved categories (SC/ST/OBC/PwBD) as per Indian government regulations.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on the recruitment notice for Server Administrator, Assistant, and Programming Assistant posts.\n3. Complete the basic registration by providing your email ID and mobile number.\n4. Fill in the online application form with personal, educational, and professional details.\n5. Upload scanned images of your photo, signature, and required documents.\n6. Pay the applicable application fee and submit the form. Keep a printed copy for future reference.",
+    "selectionProcess": [
+      "Online Examination / Skill Test",
+      "Personal Interview / Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What posts are available under this IBPS 2026 recruitment drive?",
+        "answer": "The recruitment drive is open for Server Administrator, Assistant, and Programming Assistant posts."
+      },
+      {
+        "question": "What is the educational qualification required for IBPS IT positions?",
+        "answer": "Candidates with B.E./B.Tech (CS/IT), MCA, B.Sc (IT/CS), or relevant Graduation degrees are eligible depending on the specific post."
+      },
+      {
+        "question": "Where can I apply for IBPS Server Administrator Recruitment 2026?",
+        "answer": "You can apply online directly through the official IBPS website at www.ibps.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-10-29"
+      },
+      {
+        "label": "Online Application Start Date",
+        "date": "2026-10-29"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-11-18"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "Server Administrator",
+      "Programming Assistant",
+      "IT Jobs"
+    ],
+    "metaDescription": "IBPS Recruitment 2026: Apply online for Server Administrator, Assistant, and Programming Assistant posts. Check eligibility, qualifications & details."
+  },
+  {
     "id": "ibps-rrb-apply-online-2026",
     "slug": "ibps-rrb-apply-online-2026",
     "title": "IBPS RRB Recruitment 2026",
