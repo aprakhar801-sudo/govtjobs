@@ -1,5 +1,154 @@
 [
   {
+    "id": "sbi-clerk-selection-process-2026",
+    "slug": "sbi-clerk-selection-process-2026",
+    "title": "SBI Clerk Selection Process 2026",
+    "organization": "State Bank of India",
+    "shortOrg": "SBI",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 17,900 - 47,920 (Basic Pay) plus allowances",
+    "salaryMin": 17900,
+    "salaryMax": 47920,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://sbi.co.in/web/careers",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-30T07:28:15Z",
+    "summary": "State Bank of India outlines the detailed step-by-step selection process for SBI Clerk (Junior Associate) recruitment 2026. Interested graduates can review the selection stages including Prelims, Mains, and Local Language Test to begin their preparation.",
+    "highlights": [
+      "Three-stage selection: Preliminary Exam, Main Exam, and Local Language Test",
+      "No interview round for Junior Associate (Clerk) recruitment",
+      "Eligibility requires a Graduation degree in any discipline",
+      "Age limit is 20 to 28 years with applicable category relaxations"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree in any discipline from a recognized university or an equivalent qualification recognized by the Central Government. Candidates in their final year/semester of graduation may also apply provisionally, provided they can produce proof of passing the graduation examination on or before the specified document verification cutoff date. The age limit is 20 to 28 years, with relaxation for SC/ST (5 years), OBC (3 years), and PwD candidates as per government rules.",
+    "howToApply": "1. Visit the official SBI careers portal at https://sbi.co.in/web/careers.\n2. Navigate to 'Current Openings' and click on Recruitment of Junior Associates (Customer Support & Sales).\n3. Register by providing your basic details such as name, email ID, and mobile number.\n4. Complete the online application form with educational qualification and personal details.\n5. Upload scanned documents including photograph, signature, left thumb impression, and hand-written declaration.\n6. Pay the online application fee and submit the final application form.",
+    "selectionProcess": [
+      "Phase I: Preliminary Examination (Objective Test)",
+      "Phase II: Main Examination (Objective Test)",
+      "Phase III: Specified Opted Local Language Test"
+    ],
+    "faqs": [
+      {
+        "question": "What are the selection stages for SBI Clerk 2026?",
+        "answer": "The selection process comprises a Preliminary Examination, a Main Examination, and a Specified Opted Local Language Test. There is no interview for SBI Clerk."
+      },
+      {
+        "question": "Is there negative marking in SBI Clerk Prelims and Mains?",
+        "answer": "Yes, there is a negative marking of 1/4th (0.25) marks for every wrong answer in both the Preliminary and Main objective examinations."
+      },
+      {
+        "question": "What is the age limit to apply for SBI Clerk?",
+        "answer": "Candidates must be between 20 and 28 years of age. Upper age relaxations are applicable for reserved category candidates as per government norms."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Release Date",
+        "date": null
+      },
+      {
+        "label": "Online Application Start Date",
+        "date": null
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "SBI",
+      "SBI Clerk",
+      "Junior Associate",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "Check the step-by-step SBI Clerk Selection Process 2026. Learn about Prelims, Mains, Local Language Test, eligibility criteria, and application procedure."
+  },
+  {
+    "id": "msc-bank-trainee-recruitment-2026",
+    "slug": "msc-bank-trainee-recruitment-2026",
+    "title": "MSC Bank Trainee Recruitment 2026",
+    "organization": "Maharashtra State Cooperative Bank",
+    "shortOrg": "MSC Bank",
+    "sector": "banking",
+    "subsector": "Cooperative Banking",
+    "state": "Maharashtra",
+    "totalVacancies": 139,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "Computer Knowledge"
+    ],
+    "ageMin": 21,
+    "ageMax": 32,
+    "salaryLabel": "Rs. 30,000 - Rs. 45,000 per month",
+    "salaryMin": 30000,
+    "salaryMax": 45000,
+    "applicationStart": "2026-10-30",
+    "applicationEnd": "2026-11-20",
+    "examDate": null,
+    "officialUrl": "https://www.mscbank.com",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-10-30T07:28:34Z",
+    "summary": "Maharashtra State Cooperative Bank (MSC Bank) has released an official recruitment notification for 139 Trainee posts. Interested candidates holding a Graduate degree can submit their online applications starting October 30, 2026.",
+    "highlights": [
+      "Total of 139 Trainee vacancies available",
+      "Open to Graduates from any recognized university",
+      "Online application started on October 30, 2026",
+      "Selection through Online Exam and Personal Interview"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University. Basic computer literacy and proficiency in the Marathi language are preferred. Applicants must be aged between 21 and 32 years as of the cutoff date, with standard age relaxation applicable for reserved categories per government rules.",
+    "howToApply": "1. Visit the official website of MSC Bank at www.mscbank.com.\n2. Go to the 'Careers' or 'Recruitment' section.\n3. Click on 'MSC Bank Trainee Recruitment 2026'.\n4. Complete the online registration form with valid personal and academic details.\n5. Upload necessary documents, pay the application fee online, and submit the form.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Personal Interview",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are announced for MSC Bank Trainee Recruitment 2026?",
+        "answer": "A total of 139 vacancies have been announced for Trainee positions in MSC Bank."
+      },
+      {
+        "question": "What is the qualification needed for MSC Bank Trainee posts?",
+        "answer": "Candidates must possess a Bachelor's degree in any stream from a recognized university along with basic computer literacy."
+      },
+      {
+        "question": "What is the age limit for MSC Bank Trainee recruitment?",
+        "answer": "The age limit for candidates is generally between 21 and 32 years, with age relaxations provided for reserved categories."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-10-30"
+      },
+      {
+        "label": "Application Start Date",
+        "date": "2026-10-30"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-11-20"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "MSC Bank",
+      "Trainee",
+      "Maharashtra Jobs",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "MSC Bank Trainee Recruitment 2026 notification out for 139 posts. Check eligibility, age limit, selection process, and apply online before deadline."
+  },
+  {
     "id": "ibps-server-admin-assistant-recruitment-2026",
     "slug": "ibps-server-admin-assistant-recruitment-2026",
     "title": "IBPS Server Administrator & Assistant Recruitment 2026",
