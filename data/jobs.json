@@ -1,5 +1,81 @@
 [
   {
+    "id": "ibps-afo-recruitment-2026",
+    "slug": "ibps-afo-recruitment-2026",
+    "title": "IBPS AFO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Specialist Officer",
+    "state": null,
+    "totalVacancies": 370,
+    "qualifications": [
+      "4-Year Graduate Degree in Agriculture or Allied Sciences"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840 (Scale-I)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": "2026-07-01",
+    "applicationEnd": "2026-07-28",
+    "examDate": "2026-11-09",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "https://www.ibps.in",
+    "status": "active",
+    "lastUpdated": "2026-10-31T07:14:32Z",
+    "summary": "IBPS has announced 370 vacancies for Agriculture Field Officer (AFO) Scale-I posts across participating public sector banks. Candidates with a 4-year degree in Agriculture or related disciplines are eligible to apply online. Selection involves Prelims, Mains, and an Interview round.",
+    "highlights": [
+      "370 vacancies available for Agriculture Field Officer (AFO) Scale-I",
+      "Requires 4-year Graduation in Agriculture or Allied Sciences",
+      "Age limit: 20 to 30 years (relaxations applicable)",
+      "Selection based on Prelims, Mains Exam, and Interview"
+    ],
+    "eligibility": "Candidates must possess a 4-year degree (graduation) in Agriculture, Horticulture, Animal Husbandry, Veterinary Science, Dairy Science, Fishery Science, Forestry, Agri. Engineering, Agri. Biotechnology, Food Science, Agri Business Management, Food Technology, Dairy Technology, or Agricultural Business Management from a recognized university. Candidates should be aged between 20 and 30 years, with upper age relaxations applicable for SC/ST/OBC/PwD candidates as per government rules.",
+    "howToApply": "1. Visit the official IBPS portal at www.ibps.in.\n2. Click on the CRP Specialist Officers link.\n3. Complete the New Registration by providing basic details.\n4. Upload scanned photographs, signature, and required documents.\n5. Pay the requisite application fee and submit the application form.",
+    "selectionProcess": [
+      "Preliminary Online Examination",
+      "Main Online Examination (Professional Knowledge)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the qualification required for IBPS AFO?",
+        "answer": "A 4-year degree in Agriculture or allied subjects such as Horticulture, Animal Husbandry, Forestry, Dairy Tech, etc., is required."
+      },
+      {
+        "question": "What is the age limit for IBPS AFO 2026?",
+        "answer": "The age limit for candidates is 20 to 30 years. Category relaxation applies for reserved candidates."
+      },
+      {
+        "question": "When does the correction window open?",
+        "answer": "As per the notification details, the application correction window starts from 29th July."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-07-01"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-07-28"
+      },
+      {
+        "label": "Correction Window Opens",
+        "date": "2026-07-29"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "AFO",
+      "Agriculture Jobs",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS AFO Notification 2026 for 370 vacancies released at ibps.in. Check eligibility, age limit, application dates, and salary details."
+  },
+  {
     "id": "sbi-clerk-selection-process-2026",
     "slug": "sbi-clerk-selection-process-2026",
     "title": "SBI Clerk Selection Process 2026",
