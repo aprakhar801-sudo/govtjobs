@@ -1,5 +1,77 @@
 [
   {
+    "id": "ibps-rrb-clerk-notification-2026",
+    "slug": "ibps-rrb-clerk-notification-2026",
+    "title": "IBPS RRB Clerk Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 8183,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 28,
+    "salaryLabel": "₹19,900 - ₹35,000 per month",
+    "salaryMin": 19900,
+    "salaryMax": 35000,
+    "applicationStart": "2026-09-01",
+    "applicationEnd": "2026-09-21",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "expired",
+    "lastUpdated": "2026-11-01T14:29:45Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has invited online applications for 8,183 Office Assistant (Clerk) posts across participating Regional Rural Banks. Candidates holding a Bachelor's degree in any discipline are eligible to apply.",
+    "highlights": [
+      "8,183 vacancies for Office Assistant (Clerk) across participating RRBs",
+      "Eligibility: Bachelor's degree in any discipline",
+      "Age Limit: 18 to 28 years (relaxations applicable)",
+      "Selection based on Online Preliminary and Mains examinations"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree in any discipline from a recognized university or equivalent. Proficiency in the local language of the concerned Regional Rural Bank (RRB) is required. Candidates must be between 18 and 28 years of age. Standard age relaxation applies: SC/ST (5 years), OBC (3 years), and PwBD candidates (10 years).",
+    "howToApply": "1. Visit the official IBPS website at https://www.ibps.in.\n2. Click on the 'CRP RRBs' tab on the homepage.\n3. Select 'Common Recruitment Process - Regional Rural Banks Phase XV'.\n4. Complete the New Registration by providing basic details.\n5. Upload photograph, signature, thumb impression, and handwritten declaration, then pay the application fee online.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective)",
+      "Main Examination (Objective)",
+      "Document Verification & Language Proficiency Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the age limit for IBPS RRB Clerk 2026?",
+        "answer": "The age limit for Office Assistant (Clerk) is 18 to 28 years, with age relaxations applicable for reserved categories."
+      },
+      {
+        "question": "Is there an interview for IBPS RRB Clerk post?",
+        "answer": "No, there is no interview for the IBPS RRB Office Assistant (Clerk) post. Selection is based purely on the Mains exam marks."
+      },
+      {
+        "question": "What is the educational qualification required?",
+        "answer": "A candidate must hold a Bachelor's degree in any discipline from a recognized university."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Online Registration Start",
+        "date": "2026-09-01"
+      },
+      {
+        "label": "Online Registration End",
+        "date": "2026-09-21"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "IBPS RRB Clerk",
+      "Graduate Jobs",
+      "Office Assistant"
+    ],
+    "metaDescription": "IBPS RRB Clerk Notification 2026: Apply online for 8,183 Office Assistant vacancies. Check eligibility, age limit, application dates, and details."
+  },
+  {
     "id": "concor-mt-assistant-officer-exam-date-2026",
     "slug": "concor-mt-assistant-officer-exam-date-2026",
     "title": "CONCOR Management Trainee & Assistant Officer Exam Date 2026",
