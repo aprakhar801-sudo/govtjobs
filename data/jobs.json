@@ -1,5 +1,76 @@
 [
   {
+    "id": "ibps-clerk-prelims-result-2026",
+    "slug": "ibps-clerk-prelims-result-2026",
+    "title": "IBPS Clerk Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 47,920",
+    "salaryMin": 19900,
+    "salaryMax": 47920,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-03T08:09:43Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) is expected to announce the IBPS Clerk Prelims Result 2026 in the third week of November. Candidates who qualify in the preliminary examination will be eligible to appear for the Mains examination, scheduled for December 2026.",
+    "highlights": [
+      "Prelims result expected in the third week of November 2026",
+      "Mains examination scheduled to take place in December 2026",
+      "Recruitment for Clerical cadre posts across participating public sector banks",
+      "Results and scorecards accessible via official IBPS website (ibps.in)"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree (Graduation) in any discipline from a recognized University or an equivalent qualification. Operating and working knowledge in computer systems is mandatory. Age limit is 20 to 28 years, with standard age relaxation applicable for reserved categories (SC/ST/OBC/PwD/Ex-Servicemen) as per government rules.",
+    "howToApply": "1. Visit the official website of IBPS at ibps.in.\n2. Click on the link for 'CRP Clerical' on the homepage.\n3. Select the link for 'IBPS Clerk Prelims Result 2026'.\n4. Enter your Registration Number/Roll Number and Date of Birth/Password to log in.\n5. View your qualifying status and download the score card and Mains exam admit card once available.",
+    "selectionProcess": [
+      "Preliminary Examination (Qualifying)",
+      "Main Examination (Final Merit)"
+    ],
+    "faqs": [
+      {
+        "question": "When will the IBPS Clerk Prelims Result 2026 be announced?",
+        "answer": "The IBPS Clerk Prelims Result 2026 is expected to be declared in the third week of November 2026."
+      },
+      {
+        "question": "When is the IBPS Clerk Mains Exam 2026 scheduled?",
+        "answer": "The IBPS Clerk Mains Exam is scheduled to be conducted in December 2026."
+      },
+      {
+        "question": "How can I check my IBPS Clerk Prelims result?",
+        "answer": "You can check your result by logging into the official IBPS portal (ibps.in) using your Registration Number/Roll Number and Password/Date of Birth."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Prelims Result Expected",
+        "date": "2026-11-20"
+      },
+      {
+        "label": "Mains Examination",
+        "date": "2026-12-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Exam Result"
+    ],
+    "metaDescription": "IBPS Clerk Prelims Result 2026 expected in 3rd week of Nov 2026. IBPS Clerk Mains exam scheduled for Dec 2026. Check result details at ibps.in."
+  },
+  {
     "id": "ibps-rrb-clerk-notification-2026",
     "slug": "ibps-rrb-clerk-notification-2026",
     "title": "IBPS RRB Clerk Recruitment 2026",
