@@ -1,5 +1,85 @@
 [
   {
+    "id": "indian-bank-apprentice-recruitment-2026",
+    "slug": "indian-bank-apprentice-recruitment-2026",
+    "title": "Indian Bank Apprentice Recruitment 2026",
+    "organization": "Indian Bank",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 1500,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹10,500 - ₹15,000 per month (Stipend)",
+    "salaryMin": 10500,
+    "salaryMax": 15000,
+    "applicationStart": "2026-11-04",
+    "applicationEnd": "2026-11-24",
+    "examDate": "2026-12-15",
+    "officialUrl": "https://www.indianbank.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-04T07:42:11Z",
+    "summary": "Indian Bank has announced 1,500 vacancies for the post of Apprentice for 2026. Interested graduates seeking hands-on experience in the banking sector can apply online through the official portal. Candidates will be selected through an online examination followed by a local language test.",
+    "highlights": [
+      "1,500 vacancies available across various states",
+      "Monthly stipend offered during the 1-year apprenticeship",
+      "Open to fresh graduates in any discipline",
+      "Selection via Online Written Exam & Local Language Proficiency"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree (Graduation) in any discipline from a recognized University or equivalent qualification recognized as such by the Central Government. The candidate's age should be between 20 and 28 years. Upper age relaxations apply for SC/ST (5 years), OBC (3 years), and PwBD candidates as per Government of India guidelines. Candidates must also be proficient in the specified local language of the state applied for.",
+    "howToApply": "1. Visit the official website at www.indianbank.in or the IBPS portal.\n2. Navigate to the Careers/Recruitment section and click on 'Apprentice Recruitment 2026'.\n3. Complete the New Registration by entering your basic details and generating a Registration Number and Password.\n4. Fill out the complete application form with personal, educational, and contact details.\n5. Upload scanned copies of your photograph, signature, thumb impression, and handwritten declaration.\n6. Pay the applicable application fee online and submit the final form.",
+    "selectionProcess": [
+      "Online Written Test",
+      "Test of Specified Local Language",
+      "Document Verification & Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "What is the total number of vacancies in Indian Bank Apprentice 2026?",
+        "answer": "There are 1,500 Apprentice vacancies announced across various Indian Bank branches in India."
+      },
+      {
+        "question": "Is Indian Bank Apprentice a permanent job?",
+        "answer": "No, this is an apprenticeship training program for a duration of one year and does not guarantee permanent employment in Indian Bank."
+      },
+      {
+        "question": "What is the educational qualification required for Indian Bank Apprentice?",
+        "answer": "Candidates must hold a Graduation degree in any discipline from a recognized university."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-11-04"
+      },
+      {
+        "label": "Online Application Starts",
+        "date": "2026-11-04"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-11-24"
+      },
+      {
+        "label": "Tentative Exam Date",
+        "date": "2026-12-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "Indian Bank",
+      "IBPS",
+      "Apprentice",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "Indian Bank Apprentice Recruitment 2026: Apply online for 1,500 vacancies. Check eligibility, age limit, stipend, exam dates, and apply before Nov 24."
+  },
+  {
     "id": "sbi-bank-security-officer-recruitment-2026",
     "slug": "sbi-bank-security-officer-recruitment-2026",
     "title": "SBI Bank Security Officer Recruitment 2026",
