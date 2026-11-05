@@ -1,5 +1,77 @@
 [
   {
+    "id": "ibps-clerk-prelims-result-mains-2026",
+    "slug": "ibps-clerk-prelims-result-mains-2026",
+    "title": "IBPS Clerk 2026 Prelims Result & Mains Exam Update",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 47,920 per month",
+    "salaryMin": 19900,
+    "salaryMax": 47920,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-12-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-05T08:04:33Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) is expected to declare the Preliminary Exam results for the Clerk recruitment drive in the third week of November 2026. Candidates who clear the Prelims will advance to the Mains exam scheduled for December 2026.",
+    "highlights": [
+      "Prelims result expected in 3rd week of November 2026",
+      "Mains Online Examination scheduled for December 2026",
+      "No interview round for Clerical cadre selection",
+      "Final allotment across participating Public Sector Banks"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's degree in any discipline from a recognized University or equivalent qualification recognized by the Central Government. Operating and working knowledge in computer systems is mandatory. The age limit for applicants is 20 to 28 years, with standard age relaxations applicable for reserved categories (SC/ST/OBC/PwD/Ex-Servicemen).",
+    "howToApply": "1. Visit the official website of IBPS at www.ibps.in.\n2. Click on the 'CRP Clerical' section on the left sidebar.\n3. Select 'Common Recruitment Process for Clerical Cadre'.\n4. Click on the link for 'IBPS Clerk Prelims Result 2026'.\n5. Log in using your Registration Number / Roll Number and Date of Birth / Password to check your status.",
+    "selectionProcess": [
+      "Preliminary Examination (Qualifying)",
+      "Main Examination (Merit)",
+      "Local Language Proficiency Test & Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "When will the IBPS Clerk Prelims Result 2026 be declared?",
+        "answer": "The IBPS Clerk Prelims Result 2026 is expected to be announced in the third week of November 2026."
+      },
+      {
+        "question": "When is the IBPS Clerk Mains Exam 2026?",
+        "answer": "The IBPS Clerk Mains Examination is scheduled to take place in December 2026."
+      },
+      {
+        "question": "Is there an interview stage in IBPS Clerk recruitment?",
+        "answer": "No, there is no interview for clerical cadre positions. Selection is determined solely based on scores obtained in the Mains examination."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Prelims Result Declaration",
+        "date": "2026-11-20"
+      },
+      {
+        "label": "Mains Examination",
+        "date": "2026-12-15"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "IBPS Clerk",
+      "Result Notification",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS Clerk Prelims Result 2026 expected in 3rd week of Nov. Check result link, Mains exam schedule, and updates on ibps.in."
+  },
+  {
     "id": "bank-of-baroda-deputy-manager-recruitment-2026",
     "slug": "bank-of-baroda-deputy-manager-recruitment-2026",
     "title": "Bank of Baroda Deputy Manager Recruitment 2026",
