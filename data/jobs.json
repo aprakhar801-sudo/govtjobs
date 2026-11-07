@@ -1,5 +1,82 @@
 [
   {
+    "id": "nicl-apprentice-recruitment-2026",
+    "slug": "nicl-apprentice-recruitment-2026",
+    "title": "NICL Apprentice Recruitment 2026",
+    "organization": "National Insurance Company Limited",
+    "shortOrg": "NICL",
+    "sector": "banking",
+    "subsector": "Insurance",
+    "state": null,
+    "totalVacancies": 200,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Stipend ₹9,000 - ₹15,000 per month",
+    "salaryMin": 9000,
+    "salaryMax": 15000,
+    "applicationStart": "2026-11-07",
+    "applicationEnd": "2026-11-27",
+    "examDate": null,
+    "officialUrl": "https://nationalinsurance.nic.co.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-07T14:20:03Z",
+    "summary": "National Insurance Company Limited (NICL) has officially announced the recruitment of 200 Apprentice posts for 2026. Graduate candidates looking for practical exposure and stipend training in the public sector insurance domain can apply online.",
+    "highlights": [
+      "200 Apprentice vacancies across India",
+      "Monthly stipend provided during training period",
+      "Educational Eligibility: Any Graduate Degree",
+      "Selection based on Online Written Exam and Local Language Test"
+    ],
+    "eligibility": "Candidates must possess a Graduation degree in any discipline from a recognized University or Institution. The age limit is set between 20 to 28 years. Upper age relaxations are applicable for SC/ST/OBC/PwBD candidates according to Central Government rules.",
+    "howToApply": "1. Visit the official website of NICL or the IBPS online registration portal.\n2. Click on the NICL Apprentice 2026 online application link.\n3. Complete registration by entering your basic details and generating registration ID.\n4. Upload scanned copies of your photograph, signature, and educational certificates.\n5. Pay the application fee online and submit the final application form.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Test of Specified Local Language",
+      "Document Verification & Medical Fitness Test"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are available for NICL Apprentice 2026?",
+        "answer": "A total of 200 Apprentice vacancies have been announced by NICL."
+      },
+      {
+        "question": "What is the educational qualification for NICL Apprentice?",
+        "answer": "Candidates must hold a Bachelor's degree in any stream from a recognized university."
+      },
+      {
+        "question": "What is the selection process for this recruitment?",
+        "answer": "The selection includes an Online Written Examination followed by a Local Language Test and Document Verification."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-11-07"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-11-07"
+      },
+      {
+        "label": "Application Deadline",
+        "date": "2026-11-27"
+      }
+    ],
+    "tags": [
+      "NICL",
+      "Apprentice",
+      "Banking Jobs",
+      "Insurance Jobs",
+      "Graduate Jobs",
+      "IBPS"
+    ],
+    "metaDescription": "NICL Apprentice Recruitment 2026 notification out for 200 vacancies. Check eligibility, age limit, stipend details, and apply online before the deadline."
+  },
+  {
     "id": "ibps-clerk-prelims-result-mains-exam-2026",
     "slug": "ibps-clerk-prelims-result-mains-exam-2026",
     "title": "IBPS Clerk Prelims Result 2026 & Mains Exam Schedule",
