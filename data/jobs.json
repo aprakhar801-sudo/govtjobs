@@ -1,5 +1,75 @@
 [
   {
+    "id": "concor-recruitment-admit-card-2026",
+    "slug": "concor-recruitment-admit-card-2026",
+    "title": "CONCOR Admit Card 2026 Out",
+    "organization": "Container Corporation of India Limited",
+    "shortOrg": "CONCOR",
+    "sector": "banking",
+    "subsector": "Logistics & PSU",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "Diploma",
+      "B.E. / B.Tech"
+    ],
+    "ageMin": 18,
+    "ageMax": 30,
+    "salaryLabel": "As per CONCOR IDA Scale",
+    "salaryMin": 30000,
+    "salaryMax": 120000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://concorindia.co.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-08T18:28:09Z",
+    "summary": "Container Corporation of India Limited (CONCOR) has released the admit card for its 2026 recruitment examination. Candidates who submitted their application can now download their hall tickets from the official portal. Check your assigned exam date, shift timing, and exam center details.",
+    "highlights": [
+      "CONCOR 2026 Recruitment Examination Admit Card Released",
+      "Download hall ticket using Registration Number and Password",
+      "Contains exam date, shift timings, and venue details",
+      "Mandatory to carry printed hall ticket along with valid original Photo ID"
+    ],
+    "eligibility": "Candidates who successfully registered for CONCOR recruitment notifications meeting the prescribed educational qualifications (Graduate/Diploma/Engineering) and age criteria (18 to 30 years with government relaxations for reserved categories) are eligible to download the admit card and appear for the online computer-based exam.",
+    "howToApply": "1. Visit the official CONCOR recruitment portal at concorindia.co.in.\n2. Navigate to the 'Careers' or 'Recruitment' section.\n3. Click on the link for 'Download CONCOR Admit Card 2026'.\n4. Login using your Registration ID / Roll Number and Password / Date of Birth.\n5. Download the hall ticket PDF and take clear printouts for the examination.",
+    "selectionProcess": [
+      "Online Written Examination (CBT)",
+      "Document Verification",
+      "Personal Interview / Skill Test (if applicable)"
+    ],
+    "faqs": [
+      {
+        "question": "How can I download the CONCOR Admit Card 2026?",
+        "answer": "You can download the admit card by visiting the official CONCOR website, clicking on the admit card download link, and entering your login credentials."
+      },
+      {
+        "question": "What items are required at the CONCOR examination center?",
+        "answer": "Candidates must carry a printed copy of the CONCOR admit card, a valid original government photo ID (Aadhaar Card, PAN Card, Driving License, Voter ID), and recent passport-size photos."
+      },
+      {
+        "question": "What should I do if there is a mistake on my CONCOR hall ticket?",
+        "answer": "If you notice any discrepancies in your name, category, photo, or exam details, immediately contact the CONCOR recruitment helpdesk or support email prior to the exam date."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Admit Card Release Date",
+        "date": "2026-11-08"
+      }
+    ],
+    "tags": [
+      "CONCOR",
+      "Admit Card",
+      "PSU Jobs",
+      "Graduate Jobs",
+      "Hall Ticket"
+    ],
+    "metaDescription": "CONCOR Admit Card 2026 released. Download your hall ticket, check exam date, shift timings, and instructions for CONCOR examination."
+  },
+  {
     "id": "ibps-clerk-recruitment-2026-27",
     "slug": "ibps-clerk-recruitment-2026-27",
     "title": "IBPS Clerk Recruitment 2026-27",
