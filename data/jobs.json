@@ -1,5 +1,73 @@
 [
   {
+    "id": "ibps-clerk-recruitment-2026-27",
+    "slug": "ibps-clerk-recruitment-2026-27",
+    "title": "IBPS Clerk Recruitment 2026-27",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 22000,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 47,920",
+    "salaryMin": 19900,
+    "salaryMax": 47920,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-08T14:30:11Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) is expected to announce over 22,000 Clerical cadre vacancies in Public Sector Banks for 2026-27. Candidates holding a recognized bachelor's degree in any discipline are eligible to apply. Selection will be based on Online Preliminary and Main Examinations.",
+    "highlights": [
+      "Over 22,000 expected vacancies across participating Public Sector Banks",
+      "Open to Graduates in any discipline from a recognized University",
+      "Age Limit: 20 to 28 years (relaxations applicable for reserved categories)",
+      "Two-stage selection process: Preliminary Exam followed by Main Exam"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University or an equivalent qualification recognized by the Central Government. Candidates should be proficient in the official language of the State/UT for which they apply. The candidate must be between 20 and 28 years of age, with age relaxations applicable for SC/ST (5 years), OBC (3 years), and PwBD candidates as per Central Government norms.",
+    "howToApply": "1. Visit the official website of IBPS at https://www.ibps.in.\n2. Click on the 'CRP Clerical' section and select 'Apply Online for CRP Clerks'.\n3. Click on 'New Registration' and enter required details such as Name, Email ID, and Mobile Number.\n4. Log in with the Registration ID and Password to complete the application form, upload documents, and select bank preferences.\n5. Pay the online application fee and submit the final form. Take a printout for future reference.",
+    "selectionProcess": [
+      "Preliminary Online Examination",
+      "Main Online Examination",
+      "Local Language Proficiency Test & Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the expected number of vacancies for IBPS Clerk 2026-27?",
+        "answer": "Over 22,000 vacancies are expected to be announced across various participating Public Sector Banks."
+      },
+      {
+        "question": "What is the educational qualification required for IBPS Clerk?",
+        "answer": "Candidates must possess a Bachelor's Degree in any stream from a recognized University."
+      },
+      {
+        "question": "Is there an interview stage for IBPS Clerk recruitment?",
+        "answer": "No, there is no interview for IBPS Clerical cadre posts. Final selection is based entirely on marks obtained in the Main Examination."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Announcement",
+        "date": "2026-11-08"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS Clerk Recruitment 2026-27 expected for 22,000+ vacancies in Public Sector Banks. Check eligibility, age limit, salary, selection process & apply online."
+  },
+  {
     "id": "nicl-apprentice-recruitment-2026",
     "slug": "nicl-apprentice-recruitment-2026",
     "title": "NICL Apprentice Recruitment 2026",
