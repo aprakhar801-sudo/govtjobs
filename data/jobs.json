@@ -1,5 +1,77 @@
 [
   {
+    "id": "ibps-rrb-po-admit-card-2026",
+    "slug": "ibps-rrb-po-admit-card-2026",
+    "title": "IBPS RRB PO Admit Card 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - 63,840 per month",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-11-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-09T17:45:44Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has officially released the Prelims Admit Card for IBPS RRB Officer Scale I (PO) 2026. Candidates who applied for the post can now download their call letters from ibps.in using their login credentials. The exam will test candidates on Reasoning and Quantitative Aptitude for entry into Regional Rural Banks across India.",
+    "highlights": [
+      "IBPS RRB PO 2026 Prelims Admit Card is now live on ibps.in",
+      "Call letters available for download using Registration No. and Password/DOB",
+      "Selection involves Prelims, Mains, and a Personal Interview stage",
+      "Candidates must carry a printed admit card and original valid photo ID"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's degree in any discipline from a recognized university. Proficiency in the local language of the specified Regional Rural Bank (RRB) is preferred. The standard age limit for IBPS RRB Officer Scale I (PO) is 18 to 30 years, with upper age relaxations applicable for SC/ST, OBC, and PwD candidates as per government directives.",
+    "howToApply": "1. Go to the official website of IBPS at ibps.in.\n2. Click on the link for 'IBPS RRB Officer Scale I Call Letter / Admit Card 2026'.\n3. Enter your Registration Number or Roll Number.\n4. Input your Password or Date of Birth (DD-MM-YYYY) and the Security Captcha.\n5. Click 'Submit' to view, download, and print your hall ticket.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "How can I download the IBPS RRB PO 2026 Prelims Call Letter?",
+        "answer": "Visit ibps.in, open the IBPS RRB PO Admit Card link, enter your registration details along with your date of birth, and download the document."
+      },
+      {
+        "question": "What items are required at the IBPS RRB PO exam hall?",
+        "answer": "Candidates must bring the printed copy of the Admit Card, a valid original Photo ID proof (PAN Card, Aadhaar, Passport, etc.), a photocopy of the ID proof, and passport-size photographs."
+      },
+      {
+        "question": "Is there negative marking in the IBPS RRB PO Prelims Exam?",
+        "answer": "Yes, 0.25 marks (one-fourth of the marks assigned to the question) will be deducted for every incorrect answer."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Admit Card Release Date",
+        "date": "2026-11-09"
+      },
+      {
+        "label": "Prelims Exam Date",
+        "date": "2026-11-15"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "RRB PO",
+      "Admit Card",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS RRB PO Admit Card 2026 released at ibps.in. Download Prelims call letter, check exam date, eligibility criteria, and exam pattern details."
+  },
+  {
     "id": "concor-recruitment-admit-card-2026",
     "slug": "concor-recruitment-admit-card-2026",
     "title": "CONCOR Admit Card 2026 Out",
