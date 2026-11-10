@@ -1,5 +1,82 @@
 [
   {
+    "id": "jk-bank-clerk-po-recruitment-2026",
+    "slug": "jk-bank-clerk-po-recruitment-2026",
+    "title": "JK Bank Clerk and PO Recruitment 2026",
+    "organization": "Jammu & Kashmir Bank",
+    "shortOrg": "JK Bank",
+    "sector": "banking",
+    "subsector": "Commercial Bank",
+    "state": "Jammu and Kashmir",
+    "totalVacancies": 1397,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "₹24,050 - ₹63,840 per month",
+    "salaryMin": 24050,
+    "salaryMax": 63840,
+    "applicationStart": "2026-11-10",
+    "applicationEnd": "2026-12-10",
+    "examDate": null,
+    "officialUrl": "https://www.jkbank.com",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-10T15:44:37Z",
+    "summary": "Jammu & Kashmir Bank has released a official recruitment notification for 1,397 posts of Probationary Officers (PO) and Banking Associates (Clerk). Graduates in any discipline are eligible to apply online. Candidates seeking banking jobs in J&K and across India should review the notification details and apply before the closing date.",
+    "highlights": [
+      "Total 1,397 vacancies for PO and Banking Associate (Clerk) posts",
+      "Minimum Educational Qualification: Graduation in any discipline",
+      "Age limit: 20 to 28 years for Banking Associates and 20 to 30 years for POs",
+      "Selection process includes Online Written Exam and Interview (for PO)"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a recognized University or equivalent qualification recognized by the Central Government. The age limit is typically 20 to 28 years for Banking Associates and 20 to 30 years for Probationary Officers as on the cutoff date. Relaxation in upper age limit applies to SC, ST, OBC, PWD, and other reserved categories as per bank guidelines.",
+    "howToApply": "1. Visit the official JK Bank website at www.jkbank.com and navigate to the Careers section.\n2. Click on the link for 'Recruitment of PO and Banking Associates 2026'.\n3. Register by entering primary details such as name, email ID, and mobile number.\n4. Log in with the generated registration credentials and fill out the detailed application form.\n5. Upload required documents, photograph, signature, and pay the application fee online.",
+    "selectionProcess": [
+      "Online Preliminary Examination",
+      "Online Mains Examination",
+      "Personal Interview (PO post only)",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "How many total vacancies are available in JK Bank Recruitment 2026?",
+        "answer": "A total of 1,397 vacancies have been announced for Probationary Officers and Banking Associates (Clerks)."
+      },
+      {
+        "question": "What is the educational qualification required for JK Bank PO & Clerk?",
+        "answer": "Candidates must possess a Graduation degree in any discipline from a recognized university."
+      },
+      {
+        "question": "What is the selection process for JK Bank Recruitment?",
+        "answer": "Selection involves online written examinations (Prelims and Mains) followed by a personal interview for PO posts."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released Date",
+        "date": "2026-11-10"
+      },
+      {
+        "label": "Online Application Start Date",
+        "date": "2026-11-10"
+      },
+      {
+        "label": "Online Application End Date",
+        "date": "2026-12-10"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "JK Bank",
+      "PO Recruitment",
+      "Clerk Recruitment",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "JK Bank Recruitment 2026: Apply online for 1,397 PO and Clerk posts. Check qualification, age limit, selection process, and application deadline."
+  },
+  {
     "id": "ibps-rrb-po-admit-card-2026",
     "slug": "ibps-rrb-po-admit-card-2026",
     "title": "IBPS RRB PO Admit Card 2026",
