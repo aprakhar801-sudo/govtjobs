@@ -1,5 +1,73 @@
 [
   {
+    "id": "ibps-clerk-exam-pattern-2026",
+    "slug": "ibps-clerk-exam-pattern-2026",
+    "title": "IBPS Clerk 2026 Exam Pattern & Selection Process",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 37,000 (Approx)",
+    "salaryMin": 19900,
+    "salaryMax": 37000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "https://www.ibps.in",
+    "status": "active",
+    "lastUpdated": "2026-11-11T08:02:22Z",
+    "summary": "IBPS has released updates regarding the IBPS Clerk 2026 exam pattern, marking scheme for Prelims and Mains, and final selection criteria. Candidates holding a recognized degree in any stream between 20 to 28 years of age are eligible to participate.",
+    "highlights": [
+      "Updated Prelims and Mains marking scheme and exam pattern",
+      "Educational Qualification: Graduation in any discipline",
+      "Age Limit: 20 to 28 years with applicable age relaxations",
+      "No interview stage; selection based on Mains exam performance"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree in any discipline from a university recognized by the Government of India or an equivalent qualification. Basic computer literacy and proficiency in the official language of the state/UT applied for are mandatory. The candidate's age must be between 20 and 28 years, with statutory age relaxations for SC/ST/OBC/PwD candidates.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on 'CRP Clerks' and select the online application link.\n3. Register with your basic details to obtain provisional Registration ID and Password.\n4. Fill in the detailed application form and upload mandatory documents (Photo, Signature, Thumb Impression, Declaration).\n5. Pay the required application fee online and submit the form.",
+    "selectionProcess": [
+      "Preliminary Online Examination (Qualifying)",
+      "Mains Online Examination (Merit)",
+      "Document Verification & Local Language Test"
+    ],
+    "faqs": [
+      {
+        "question": "What is the age limit for IBPS Clerk 2026?",
+        "answer": "The general age limit is 20 to 28 years. Relaxations apply for SC/ST (5 years), OBC (3 years), and PwD (10 years)."
+      },
+      {
+        "question": "Is there an interview for the IBPS Clerk exam?",
+        "answer": "No, there is no interview round for IBPS Clerk. Final selection is based solely on the scores obtained in the Mains examination."
+      },
+      {
+        "question": "Is computer knowledge necessary for IBPS Clerk?",
+        "answer": "Yes, candidates should possess operating and working knowledge in computer systems (certificate/diploma/degree or studied computer as a subject in High School/College)."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Announced",
+        "date": "2026-11-11"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Clerk",
+      "Graduate Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS Clerk 2026 revised exam pattern, marking scheme, and final selection details. Check age limit, qualification, and apply online at ibps.in."
+  },
+  {
     "id": "jk-bank-clerk-po-recruitment-2026",
     "slug": "jk-bank-clerk-po-recruitment-2026",
     "title": "JK Bank Clerk and PO Recruitment 2026",
