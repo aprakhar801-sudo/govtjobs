@@ -1,5 +1,78 @@
 [
   {
+    "id": "ibps-server-administrator-assistant-recruitment-2026",
+    "slug": "ibps-server-administrator-assistant-recruitment-2026",
+    "title": "IBPS Server Administrator & Assistant Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "BE/B.Tech (CS/IT)",
+      "MCA",
+      "B.Sc (CS/IT)",
+      "BCA",
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 21,
+    "ageMax": 35,
+    "salaryLabel": "As per IBPS rules",
+    "salaryMin": 35000,
+    "salaryMax": 80000,
+    "applicationStart": null,
+    "applicationEnd": "2026-11-12",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-12T08:34:02Z",
+    "summary": "Institute of Banking Personnel Selection (IBPS) has invited online applications for the recruitment of Server Administrator, Assistant, and Programming Assistant posts. Eligible candidates with relevant IT or Graduation qualifications must apply online before the deadline today.",
+    "highlights": [
+      "Recruitment for Server Administrator, Assistant, and Programming Assistant posts.",
+      "Last date to complete the online application process is November 12, 2026.",
+      "Open for IT/Computer Science graduates and general graduates.",
+      "Selection process includes Written Exam/Online Test followed by Interview/Skill Test."
+    ],
+    "eligibility": "Candidates applying for technical posts like Server Administrator and Programming Assistant must possess a BE/B.Tech in CS/IT/ECE, MCA, or BCA/B.Sc (IT/CS) from a recognized University/Institute. Candidates applying for Assistant posts should hold a Bachelor's Degree in any discipline. The age limit generally ranges between 21 and 35 years, with age relaxation applicable for reserved categories per government norms.",
+    "howToApply": "1. Visit the official IBPS portal at https://www.ibps.in.\n2. Click on the relevant notification link for Server Administrator / Assistant recruitment.\n3. Register by providing basic details and generating your registration number and password.\n4. Complete the online application form with educational and professional details.\n5. Upload required documents, pay the application fee online, and submit the application.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Skill Test / Practical Test (where applicable)",
+      "Personal Interview",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the last date to apply for IBPS Recruitment 2026?",
+        "answer": "The last date to submit the online application form is November 12, 2026."
+      },
+      {
+        "question": "Which posts are open under this IBPS notification?",
+        "answer": "The recruitment is being conducted for Server Administrator, Assistant, and Programming Assistant posts."
+      },
+      {
+        "question": "What is the educational qualification required?",
+        "answer": "Technical positions require a degree in Engineering (CS/IT/ECE), MCA, BCA, or B.Sc (IT/CS), while Assistant roles require Graduation in any discipline."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Application Deadline",
+        "date": "2026-11-12"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "Server Administrator",
+      "Programming Assistant",
+      "IT Jobs"
+    ],
+    "metaDescription": "IBPS Recruitment 2026: Apply today for Server Administrator, Assistant & Programming Assistant posts. Deadline Nov 12, 2026. Details & apply at ibps.in."
+  },
+  {
     "id": "ibps-clerk-exam-pattern-2026",
     "slug": "ibps-clerk-exam-pattern-2026",
     "title": "IBPS Clerk 2026 Exam Pattern & Selection Process",
