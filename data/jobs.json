@@ -1,5 +1,90 @@
 [
   {
+    "id": "ibps-po-so-mt-recruitment-2026",
+    "slug": "ibps-po-so-mt-recruitment-2026",
+    "title": "IBPS PO, SO and MT Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)",
+      "B.E. / B.Tech",
+      "MBA / PG Diploma",
+      "LLB",
+      "CA"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 64,000 per month",
+    "salaryMin": 36000,
+    "salaryMax": 64000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-14T07:49:05Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has issued a short notice for the recruitment of Probationary Officers (PO), Specialist Officers (SO), and Management Trainees (MT). Graduates and postgraduates interested in banking careers across participating public sector banks should stay tuned for detailed application dates and official notifications.",
+    "highlights": [
+      "Short notice released for PO, SO, and Management Trainee positions across PSBs",
+      "Open to Graduates, Engineers, MBAs, and professional degree holders",
+      "Three-tier selection process: Preliminary, Main Exam, and Personal Interview",
+      "Detailed notification with vacancy count and apply online link to be published soon on ibps.in"
+    ],
+    "eligibility": "Candidates must possess a Bachelor's Degree in any discipline from a recognized university for PO/MT posts. For Specialist Officer (SO) posts, relevant professional degrees such as B.E./B.Tech (IT/CS), MBA (Marketing/HR), LLB (Law Officer), CA/ICWA (Financial Analyst), or Master's in Agriculture are required. The age limit is generally between 20 and 30 years, with upper age relaxation applicable for SC/ST/OBC/PwBD candidates as per Government of India norms.",
+    "howToApply": "1. Visit the official IBPS website at https://www.ibps.in.\n2. Click on the link for 'CRP PO/MT' or 'CRP Specialist Officers' on the homepage.\n3. Complete the New Registration by providing basic details like name, email ID, and mobile number.\n4. Fill out the online application form with personal, educational, and professional details.\n5. Upload scanned copies of photograph, signature, left thumb impression, and handwritten declaration.\n6. Pay the application fee online and submit the application form.",
+    "selectionProcess": [
+      "Preliminary Online Examination",
+      "Main Online Examination",
+      "Personal Interview",
+      "Document Verification & Final Allotment"
+    ],
+    "faqs": [
+      {
+        "question": "What posts are covered in the IBPS 2026 short notice?",
+        "answer": "The short notice covers Probationary Officer (PO), Specialist Officer (SO), and Management Trainee (MT) posts across participating Public Sector Banks."
+      },
+      {
+        "question": "What is the educational qualification required for IBPS PO?",
+        "answer": "Candidates must hold a Graduation degree in any stream or equivalent qualification from a recognized university."
+      },
+      {
+        "question": "When will online registration for IBPS PO/SO 2026 start?",
+        "answer": "The exact application dates will be declared along with the detailed notification shortly on the official website www.ibps.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Short Notice Released",
+        "date": "2026-11-14"
+      },
+      {
+        "label": "Detailed Notification Release",
+        "date": null
+      },
+      {
+        "label": "Application Start Date",
+        "date": null
+      },
+      {
+        "label": "Application End Date",
+        "date": null
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "Bank PO",
+      "Specialist Officer",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS Recruitment 2026 short notice out for PO, SO, and MT posts. Check qualification, age limit, and application details at ibps.in."
+  },
+  {
     "id": "ibps-server-administrator-assistant-recruitment-2026",
     "slug": "ibps-server-administrator-assistant-recruitment-2026",
     "title": "IBPS Server Administrator & Assistant Recruitment 2026",
