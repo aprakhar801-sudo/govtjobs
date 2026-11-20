@@ -1,5 +1,77 @@
 [
   {
+    "id": "boi-so-exam-date-2026",
+    "slug": "boi-so-exam-date-2026",
+    "title": "BOI Specialist Officer (SO) 2026",
+    "organization": "Bank of India",
+    "shortOrg": "BOI",
+    "sector": "banking",
+    "subsector": "Public Sector Bank",
+    "state": null,
+    "totalVacancies": 205,
+    "qualifications": [
+      "B.E./B.Tech",
+      "MBA",
+      "CA",
+      "LLB",
+      "Graduate"
+    ],
+    "ageMin": 21,
+    "ageMax": 38,
+    "salaryLabel": "Rs. 48,170 - Rs. 89,890 per month",
+    "salaryMin": 48170,
+    "salaryMax": 89890,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.bankofindia.co.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-20T16:23:14Z",
+    "summary": "Bank of India (BOI) has released the exam schedule and pattern for the Specialist Officer (SO) 2026 recruitment for 205 posts. Candidates who registered for IT, Credit, Law, and Risk Management roles can check the exam details.",
+    "highlights": [
+      "205 Specialist Officer posts across Scale I, II, and III",
+      "Selection via Online Written Exam & Personal Interview",
+      "Positions include IT Officer, Credit Officer, and Risk Manager",
+      "Official exam schedule and notification updates available on BOI portal"
+    ],
+    "eligibility": "Candidates must hold a relevant degree (B.E./B.Tech in CS/IT, MBA in Finance, CA, or LLB) from a recognized university depending on the specific post applied for. Age limits generally range from 21 to 38 years based on the post scale, with standard age relaxation for SC/ST/OBC/PwD candidates.",
+    "howToApply": "1. Visit the official website at https://www.bankofindia.co.in.\n2. Go to the 'Career' section on the homepage.\n3. Click on 'Recruitment of Specialist Officers 2026'.\n4. Select the link for Exam Schedule / Admit Card Notice.\n5. Download the PDF and check your exam date, timing, and venue details.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Personal Interview",
+      "Document Verification & Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "How many vacancies are declared in BOI SO Recruitment 2026?",
+        "answer": "A total of 205 Specialist Officer vacancies have been announced by Bank of India."
+      },
+      {
+        "question": "What is the selection procedure for BOI Specialist Officer?",
+        "answer": "Selection involves an online written examination followed by a personal interview for shortlisted candidates."
+      },
+      {
+        "question": "Where can candidates check the BOI SO exam schedule?",
+        "answer": "Candidates can check the official exam schedule under the Careers section on bankofindia.co.in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Exam Schedule Release Date",
+        "date": "2026-11-20"
+      }
+    ],
+    "tags": [
+      "BOI SO",
+      "Bank of India",
+      "Specialist Officer",
+      "Banking Jobs",
+      "IBPS"
+    ],
+    "metaDescription": "BOI SO Exam Date 2026 out for 205 Specialist Officer posts. Check the complete exam schedule, pattern, and eligibility details."
+  },
+  {
     "id": "ibps-po-vacancy-2026-6715-posts",
     "slug": "ibps-po-vacancy-2026-6715-posts",
     "title": "IBPS PO 2026 Notification",
