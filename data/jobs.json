@@ -1,5 +1,81 @@
 [
   {
+    "id": "ibps-po-vacancy-2026",
+    "slug": "ibps-po-vacancy-2026",
+    "title": "IBPS PO Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 6715,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 52,000 - Rs. 55,000 per month (approx in-hand)",
+    "salaryMin": 52000,
+    "salaryMax": 65000,
+    "applicationStart": "2026-11-21",
+    "applicationEnd": "2026-12-11",
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-21T09:02:52Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released the notification for 6,715 Probationary Officer (PO) / Management Trainee (MT) posts across participating Public Sector Banks. Graduates in any discipline aged 20-30 years are eligible to apply online.",
+    "highlights": [
+      "6,715 Probationary Officer (PO) vacancies across Public Sector Banks",
+      "Open to Graduates in any discipline",
+      "Age limit: 20 to 30 years with government age relaxations",
+      "Three-tier selection process: Prelims, Mains, and Personal Interview"
+    ],
+    "eligibility": "Candidates must hold a Bachelor's Degree (Graduation) in any discipline from a recognized University or an equivalent qualification recognized by the Central Government. The candidate's age must be between 20 and 30 years. Age relaxation of 5 years is applicable for SC/ST, 3 years for OBC (NCL), and 10 years for PwBD candidates.",
+    "howToApply": "1. Visit the official website at www.ibps.in.\n2. Click on 'CRP PO/MT' and select 'Apply Online for CRP PO/MT'.\n3. Register by providing your basic details to obtain a Registration Number and Password.\n4. Complete the online application form with personal and educational details.\n5. Upload scanned photos, signature, thumb impression, and handwritten declaration.\n6. Pay the application fee online and submit the final application.",
+    "selectionProcess": [
+      "Preliminary Examination (Objective)",
+      "Main Examination (Objective + Descriptive)",
+      "Document Verification & Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What is the educational qualification required for IBPS PO 2026?",
+        "answer": "A candidate must possess a Graduation degree (Bachelor's degree) in any stream from a recognized university."
+      },
+      {
+        "question": "What is the age limit for IBPS PO Recruitment 2026?",
+        "answer": "The minimum age is 20 years and the maximum age is 30 years, with upper age relaxation for reserved categories."
+      },
+      {
+        "question": "How many vacancies are announced for IBPS PO 2026?",
+        "answer": "A total of 6,715 vacancies have been announced across participating public sector banks."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Released",
+        "date": "2026-11-21"
+      },
+      {
+        "label": "Online Application Start",
+        "date": "2026-11-21"
+      },
+      {
+        "label": "Application End Date",
+        "date": "2026-12-11"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "PO Recruitment",
+      "Graduate Jobs",
+      "Bank PO"
+    ],
+    "metaDescription": "IBPS PO Notification 2026 released for 6,715 vacancies. Any graduate aged 20-30 can apply online at ibps.in. Check eligibility, dates & selection process."
+  },
+  {
     "id": "sidbi-grade-a-b-recruitment-2026",
     "slug": "sidbi-grade-a-b-recruitment-2026",
     "title": "SIDBI Officer Grade A & B Recruitment 2026",
