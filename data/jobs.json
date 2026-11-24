@@ -1,5 +1,73 @@
 [
   {
+    "id": "ibps-clerk-result-2026",
+    "slug": "ibps-clerk-result-2026",
+    "title": "IBPS Clerk 2026 Prelims Result Update",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 20,
+    "ageMax": 28,
+    "salaryLabel": "₹19,900 - ₹47,920",
+    "salaryMin": 19900,
+    "salaryMax": 47920,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-24T01:25:08Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) is expected to announce the Prelims Result for the IBPS Clerk Recruitment 2026 in the last week of November 2026. Candidates who appeared for the preliminary exam can check their qualifying status and scorecard on the official IBPS portal.",
+    "highlights": [
+      "IBPS Clerk Prelims Result expected in the last week of November 2026",
+      "Qualified candidates will be shortlisted for the Mains Examination",
+      "Scorecards accessible using Registration/Roll Number and Password/DOB",
+      "Direct result link will be made available on the official website ibps.in"
+    ],
+    "eligibility": "Candidates must hold a Graduation degree in any discipline from a recognized University or an equivalent qualification recognized by the Central Government. Candidates should be between 20 and 28 years of age, with standard age relaxations applicable for reserved category applicants as per Government rules.",
+    "howToApply": "1. Visit the official website of IBPS at www.ibps.in.\n2. Click on the link for 'CRP Clerical' on the homepage.\n3. Select the result link for 'IBPS Clerk Preliminary Examination 2026'.\n4. Enter your Registration Number / Roll Number and Password / Date of Birth.\n5. Click on 'Submit' to view and download your result and scorecard.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Document Verification & Language Proficiency Test"
+    ],
+    "faqs": [
+      {
+        "question": "When is the IBPS Clerk 2026 Prelims Result expected?",
+        "answer": "The IBPS Clerk Prelims Result 2026 is expected to be declared in the last week of November 2026."
+      },
+      {
+        "question": "Where can I check my IBPS Clerk Result 2026?",
+        "answer": "Candidates can check their results on the official website of IBPS at https://www.ibps.in."
+      },
+      {
+        "question": "What details are required to download the IBPS Clerk scorecard?",
+        "answer": "You will need your Registration Number or Roll Number and Password or Date of Birth to log in."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Prelims Result Likely Release",
+        "date": "2026-11-30"
+      }
+    ],
+    "tags": [
+      "Banking",
+      "IBPS",
+      "IBPS Clerk",
+      "Result",
+      "Graduate Jobs"
+    ],
+    "metaDescription": "IBPS Clerk Result 2026 for Prelims expected by November last week. Check cutoff, scorecard details, and direct result link at ibps.in."
+  },
+  {
     "id": "ibps-server-administrator-assistant-programming-assistant-2026",
     "slug": "ibps-server-administrator-assistant-programming-assistant-2026",
     "title": "IBPS Recruitment 2026 for Server Administrator, Assistant & Programming Assistant",
