@@ -1,5 +1,75 @@
 [
   {
+    "id": "ibps-deputy-manager-ai-developer-exam-date-2026",
+    "slug": "ibps-deputy-manager-ai-developer-exam-date-2026",
+    "title": "IBPS Deputy Manager (AI Application Developer) Exam Date 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": null,
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "B.E./B.Tech (CS/IT/AI/ML)",
+      "MCA",
+      "M.Sc (CS/IT)"
+    ],
+    "ageMin": 21,
+    "ageMax": 35,
+    "salaryLabel": "Rs. 48,170 - Rs. 89,810 (Scale II / Scale III Equivalent)",
+    "salaryMin": 48170,
+    "salaryMax": 89810,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": "2026-12-15",
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-24T11:21:57Z",
+    "summary": "IBPS has announced the official exam date for the Deputy Manager (AI Application Developer) post. Registered candidates can check the examination schedule and download their call letters from the official IBPS portal.",
+    "highlights": [
+      "Official exam date declared by IBPS for AI Application Developer post.",
+      "Specialist cadre post suitable for candidates with B.E./B.Tech/MCA/M.Sc in CS, IT, or AI.",
+      "Selection involves an Online Test followed by Interview.",
+      "Admit cards to be made available on the official website www.ibps.in prior to the exam."
+    ],
+    "eligibility": "Candidates must hold a recognized Bachelor's or Master's degree in Computer Science, Information Technology, Artificial Intelligence, or Machine Learning (B.E./B.Tech/MCA/M.Sc). The age limit is generally between 21 and 35 years, with age relaxation applicable as per Government of India rules for reserved categories.",
+    "howToApply": "1. Visit the official IBPS portal at www.ibps.in.\n2. Go to the relevant recruitment notice section for Specialist/Deputy Manager posts.\n3. Login using your Registration Number/Roll Number and Password/Date of Birth.\n4. View the exam schedule and download your online examination Call Letter.\n5. Print your Call Letter and review the exam center instructions carefully.",
+    "selectionProcess": [
+      "Online Professional Knowledge Examination",
+      "Personal Interview / Group Discussion",
+      "Document Verification"
+    ],
+    "faqs": [
+      {
+        "question": "What is the exam date for IBPS Deputy Manager AI Application Developer 2026?",
+        "answer": "The exam date is scheduled for December 15, 2026. Candidates should verify exact details on their call letters."
+      },
+      {
+        "question": "What educational background is required for the AI Application Developer post?",
+        "answer": "Candidates must possess a B.E./B.Tech or Postgraduate degree (MCA/M.Sc) in Computer Science, Information Technology, AI, or Data Science."
+      },
+      {
+        "question": "Where can I download the admit card for this exam?",
+        "answer": "Admit cards can be downloaded directly from the official IBPS website (www.ibps.in) using your registration credentials."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Exam Date",
+        "date": "2026-12-15"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Deputy Manager",
+      "AI Developer",
+      "IT Jobs"
+    ],
+    "metaDescription": "IBPS Deputy Manager (AI Application Developer) Exam Date 2026 declared. Check exam dates, eligibility, admit card details, and direct official link."
+  },
+  {
     "id": "ibps-clerk-result-2026",
     "slug": "ibps-clerk-result-2026",
     "title": "IBPS Clerk 2026 Prelims Result Update",
