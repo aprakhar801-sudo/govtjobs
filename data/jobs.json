@@ -1,5 +1,73 @@
 [
   {
+    "id": "ibps-rrb-clerk-pet-call-letter-2026",
+    "slug": "ibps-rrb-clerk-pet-call-letter-2026",
+    "title": "IBPS RRB Clerk PET Call Letter 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks (RRBs)",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "Graduate (Any Stream)"
+    ],
+    "ageMin": 18,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 19,900 - Rs. 35,000 per month",
+    "salaryMin": 19900,
+    "salaryMax": 35000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-26T22:40:57Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has officially released the Pre-Exam Training (PET) Call Letter for the RRB Clerk (Office Assistant) 2026 exam. Registered candidates belonging to SC/ST/Minority/Ex-Servicemen categories who opted for PET can now download their call letters from ibps.in.",
+    "highlights": [
+      "IBPS RRB Clerk Pre-Exam Training (PET) Call Letter 2026 is now available for download.",
+      "Available for SC, ST, Religious Minority, Ex-Servicemen, and PWBD candidates who opted for training.",
+      "Log in using Registration Number / Roll Number and Password / Date of Birth.",
+      "Candidates must bring the printed PET Call Letter and valid original Photo ID proof to the venue."
+    ],
+    "eligibility": "Candidates who applied for the IBPS RRB Office Assistant (Multipurpose) recruitment and opted for Pre-Exam Training (PET) in their online application form are eligible to download the PET call letter. General eligibility for the recruitment requires a Bachelor's degree in any discipline from a recognized university along with proficiency in the local language of the participating RRB.",
+    "howToApply": "1. Go to the official website of IBPS at ibps.in.\n2. Click on the link for 'Download PET Call Letter for CRP RRBs Office Assistant'.\n3. Input your Registration Number / Roll Number and Password / Date of Birth.\n4. Enter the captcha code shown on the screen.\n5. Click on 'Login' to view and download your PET Call Letter, then print a copy for attendance.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Document Verification & Local Language Test"
+    ],
+    "faqs": [
+      {
+        "question": "How can I download the IBPS RRB Clerk PET Call Letter 2026?",
+        "answer": "You can download the PET call letter from the official IBPS portal (ibps.in) by logging in with your Registration Number/Roll Number and Password/Date of Birth."
+      },
+      {
+        "question": "Is Pre-Exam Training (PET) mandatory for all IBPS RRB Clerk candidates?",
+        "answer": "No, PET is optional and intended specifically for eligible SC/ST/Minority/Ex-Servicemen/PWBD candidates who selected the training option during the application process."
+      },
+      {
+        "question": "What documents are required to attend the PET session?",
+        "answer": "Candidates must carry a printed copy of the PET Call Letter along with a valid original photo identity proof (e.g., Aadhaar Card, PAN Card, Voter ID) and its photocopy."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "PET Call Letter Download Start",
+        "date": "2026-11-26"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "Admit Card",
+      "RRB Clerk",
+      "PET Call Letter"
+    ],
+    "metaDescription": "IBPS RRB Clerk PET Call Letter 2026 released at ibps.in. Download Pre-Exam Training admit card using your registration details."
+  },
+  {
     "id": "rvunl-je-admit-card-2026",
     "slug": "rvunl-je-admit-card-2026",
     "title": "RVUNL Junior Engineer Admit Card 2026",
