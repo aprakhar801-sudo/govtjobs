@@ -1,5 +1,145 @@
 [
   {
+    "id": "ibps-so-2027-notification-2026",
+    "slug": "ibps-so-2027-notification-2026",
+    "title": "IBPS SO 2027 Notification",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "B.E./B.Tech (CS/IT/ECE)",
+      "Degree in Law (LLB)",
+      "MBA/PGDM (HR/Personnel Management)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Rs. 36,000 - Rs. 63,840 (Scale-I)",
+    "salaryMin": 36000,
+    "salaryMax": 63840,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-27T17:42:57Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released updates for the IBPS SO 2027 recruitment drive. Candidates with qualifications in Engineering, Law, or Management can apply for Specialist Officer Scale-I posts such as IT Officer, Law Officer, and HR/Personnel Officer across participating public sector banks.",
+    "highlights": [
+      "Recruitment for Scale-I Specialist Officers in participating Public Sector Banks.",
+      "Positions include IT Officer, Law Officer, and HR/Personnel Officer.",
+      "Age limit: 20 to 30 years with standard category relaxations.",
+      "Selection based on Prelims, Mains, and Personal Interview."
+    ],
+    "eligibility": "Candidates must meet post-specific qualifications as of the cutoff date: B.E./B.Tech in Computer Science/IT/ECE or MCA for IT Officer; LLB degree and enrollment as an advocate for Law Officer; and a Master's degree or 2-year full-time PG Diploma in HR/Personnel Management for HR Officer. Candidates must be between 20 and 30 years old.",
+    "howToApply": "1. Visit the official IBPS website at www.ibps.in.\n2. Click on the link 'CRP Specialist Officers' on the home page.\n3. Click on 'Click here for New Registration' and submit basic contact details.\n4. Upload photograph, signature, left thumb impression, and handwritten declaration.\n5. Fill in educational credentials and pay the application fee online.",
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What posts are covered under IBPS SO recruitment?",
+        "answer": "IBPS SO recruits for Specialist Officer Scale-I posts including IT Officer, Law Officer, HR/Personnel Officer, Agriculture Field Officer, Rajbhasha Adhikari, and Marketing Officer."
+      },
+      {
+        "question": "What is the age limit for IBPS SO Scale I posts?",
+        "answer": "The minimum age is 20 years and the maximum age is 30 years. Age relaxations apply for SC/ST/OBC/PwD candidates as per government rules."
+      },
+      {
+        "question": "Is there negative marking in IBPS SO exam?",
+        "answer": "Yes, 0.25 marks will be deducted for every incorrect answer in both the Preliminary and Main examinations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Announcement",
+        "date": "2026-11-27"
+      }
+    ],
+    "tags": [
+      "Banking Jobs",
+      "IBPS",
+      "Specialist Officer",
+      "IT Officer",
+      "Law Officer"
+    ],
+    "metaDescription": "IBPS SO 2027 notification updates for IT Officer, Law Officer, & HR Officer posts. Check eligibility, selection process, and details on ibps.in."
+  },
+  {
+    "id": "ibps-rrb-group-d-2026",
+    "slug": "ibps-rrb-group-d-2026",
+    "title": "IBPS RRB Group D Recruitment 2026",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Regional Rural Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "10th Pass",
+      "12th Pass"
+    ],
+    "ageMin": 18,
+    "ageMax": 28,
+    "salaryLabel": "Rs. 18,000 - Rs. 35,000 per month",
+    "salaryMin": 18000,
+    "salaryMax": 35000,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-27T17:44:58Z",
+    "summary": "Latest news and updates regarding the upcoming IBPS RRB Group D / Support Staff recruitment for 2026-27. Candidates seeking entry-level government banking jobs can check tentative eligibility, selection steps, and application updates.",
+    "highlights": [
+      "Upcoming notification updates for support staff and entry-level positions in Regional Rural Banks",
+      "Minimum qualification expected is 10th or 12th Pass from a recognized board",
+      "Age limit between 18 to 28 years with applicable upper age relaxations for reserved categories",
+      "Selection process includes a written exam followed by document verification"
+    ],
+    "eligibility": "Candidates must have completed 10th or 12th standard from a recognized board. The general age limit is 18 to 28 years as of the cutoff date. Age relaxation is applicable for SC/ST (5 years), OBC (3 years), and PwD candidates as per Government of India guidelines. Local language proficiency of the respective state/RRB is preferred.",
+    "howToApply": "1. Visit the official IBPS website at www.ibps.in.\n2. Click on the recruitment portal for RRB vacancies.\n3. Complete the online registration process with your email ID and mobile number.\n4. Fill in personal, educational, and communication details in the online application form.\n5. Upload scanned copies of required documents including photograph, signature, and thumb impression.\n6. Pay the required application fee online and submit the application form.",
+    "selectionProcess": [
+      "Online Written Examination",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "faqs": [
+      {
+        "question": "When will the IBPS RRB Group D 2026-27 official notification be released?",
+        "answer": "The official notification date will be announced shortly on the official IBPS website (ibps.in)."
+      },
+      {
+        "question": "What is the qualification required for IBPS RRB Group D posts?",
+        "answer": "Candidates who have passed 10th or 12th standard from a recognized board are eligible to apply."
+      },
+      {
+        "question": "What is the age limit for IBPS RRB Group D recruitment?",
+        "answer": "The age limit is typically between 18 and 28 years, with standard age relaxation for reserved categories."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Announcement",
+        "date": "2026-11-27"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "RRB Group D",
+      "10th Pass Jobs",
+      "12th Pass Jobs",
+      "Bank Recruitment"
+    ],
+    "metaDescription": "IBPS RRB Group D Recruitment 2026 updates: Get eligibility criteria, age limits, selection procedure, and news for upcoming bank support staff posts."
+  },
+  {
     "id": "jk-bank-po-clerk-recruitment-2026",
     "slug": "jk-bank-po-clerk-recruitment-2026",
     "title": "JK Bank PO & Clerk Recruitment 2026",
