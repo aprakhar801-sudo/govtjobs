@@ -1,5 +1,76 @@
 [
   {
+    "id": "ibps-so-2027-recruitment-2026",
+    "slug": "ibps-so-2027-recruitment-2026",
+    "title": "IBPS SO 2027 Recruitment (IT, Law & HR Officers)",
+    "organization": "Institute of Banking Personnel Selection",
+    "shortOrg": "IBPS",
+    "sector": "banking",
+    "subsector": "Public Sector Banks",
+    "state": null,
+    "totalVacancies": 0,
+    "qualifications": [
+      "B.E./B.Tech (IT/CS/ECE)",
+      "LLB",
+      "MBA/PGDM (HR/Personnel Management)"
+    ],
+    "ageMin": 20,
+    "ageMax": 30,
+    "salaryLabel": "Scale I Officer (Approx. ₹48,480 - ₹85,920 + Allowances)",
+    "salaryMin": 48480,
+    "salaryMax": 85920,
+    "applicationStart": null,
+    "applicationEnd": null,
+    "examDate": null,
+    "officialUrl": "https://www.ibps.in",
+    "notificationUrl": "",
+    "status": "active",
+    "lastUpdated": "2026-11-28T09:07:32Z",
+    "summary": "The Institute of Banking Personnel Selection (IBPS) has released notification updates for IBPS Specialist Officer (SO) 2027 recruitment for IT Officer, Law Officer, and HR/Personnel Officer posts. Interested candidates with professional degrees in engineering, law, or management can apply online via the official website.",
+    "highlights": [
+      "Recruitment for Specialist Officer (Scale I) posts across participating banks",
+      "Specializations include IT Officer, Law Officer, and HR/Personnel Officer",
+      "Age limit: 20 to 30 years with standard category relaxations",
+      "Selection through Online Prelims, Mains (Professional Knowledge), and Interview"
+    ],
+    "eligibility": "Candidates must meet post-specific qualifications: For IT Officer, a 4-year Engineering/Technology degree in Computer Science/IT/ECE or PG in CS/IT/MCA is required. For Law Officer, a Bachelor Degree in Law (LLB) with Bar Council enrollment is mandatory. For HR/Personnel Officer, a Graduate degree with a 2-year Full Time PG Degree or Diploma in HR/Personnel Management/Industrial Relations is required. Age limit is 20 to 30 years with relaxations for reserved categories.",
+    "howToApply": "1. Visit the official website at www.ibps.in.\n2. Click on the link for CRP Specialist Officers.\n3. Click on 'Apply Online for CRP-SPL' and register as a new user.\n4. Upload scanned photographs, signature, left thumb impression, and hand-written declaration.\n5. Fill in personal and educational details, pay the online application fee, and submit the application form.",
+    "selectionProcess": [
+      "Preliminary Examination (Online Objective Test)",
+      "Main Examination (Professional Knowledge Test)",
+      "Personal Interview"
+    ],
+    "faqs": [
+      {
+        "question": "What posts are covered under IBPS SO 2027?",
+        "answer": "IBPS SO recruitment includes IT Officer, Law Officer, HR/Personnel Officer, Agricultural Field Officer, Marketing Officer, and Rajbhasha Adhikari."
+      },
+      {
+        "question": "What is the age limit for IBPS SO recruitment?",
+        "answer": "Candidates must be between 20 and 30 years old. Age relaxation is applicable for SC/ST (5 years), OBC (3 years), and PwBD candidates (10 years)."
+      },
+      {
+        "question": "Is there negative marking in the IBPS SO online exam?",
+        "answer": "Yes, 0.25 marks will be deducted as a penalty for every incorrect answer marked in both the Preliminary and Main examinations."
+      }
+    ],
+    "importantDates": [
+      {
+        "label": "Notification Release Date",
+        "date": "2026-11-28"
+      }
+    ],
+    "tags": [
+      "IBPS",
+      "Banking Jobs",
+      "Specialist Officer",
+      "IT Officer",
+      "Law Officer",
+      "HR Officer"
+    ],
+    "metaDescription": "IBPS SO 2027 Notification updates for IT, Law, and HR Officer posts in Public Sector Banks. Check eligibility, age limit, selection process, and apply details."
+  },
+  {
     "id": "ibps-clerk-application-form-2026",
     "slug": "ibps-clerk-application-form-2026",
     "title": "IBPS Clerk Recruitment 2026",
